@@ -1,0 +1,33 @@
+﻿# Authors : Ludovic Fierville, Philippe Aubé
+SOURCELONG:Document de Référence du Système (version 3.5)	SOURCESHORT:DRS	SOURCEWEB:http://www.wizards.com/default.asp?x=d20/article/srd35
+
+CLASS:Barbarian.MOD			ABB:Brb	OUTPUTNAME:Barbare
+CLASS:Ex Barbarian.MOD				OUTPUTNAME:Ancien barbare
+CLASS:Bard.MOD				ABB:Brd	OUTPUTNAME:Barde
+CLASS:Cleric.MOD			ABB:Prt	OUTPUTNAME:Prêtre
+CLASS:Druid.MOD				ABB:Drd	OUTPUTNAME:Druide
+CLASS:Ex Druid.MOD					OUTPUTNAME:Ancien druide
+CLASS:Fighter.MOD			ABB:Gue	OUTPUTNAME:Guerrier
+CLASS:Monk.MOD				ABB:Moi	OUTPUTNAME:Moine
+CLASS:Paladin.MOD			ABB:Pal	OUTPUTNAME:Paladin
+CLASS:Ex Paladin.MOD				OUTPUTNAME:Ancien Paladin
+CLASS:Ranger.MOD			ABB:Rdr	OUTPUTNAME:Rôdeur
+CLASS:Rogue.MOD				ABB:Rou	OUTPUTNAME:Roublard
+CLASS:Sorcerer.MOD			ABB:Ens	OUTPUTNAME:Ensorceleur
+CLASS:Wizard.MOD			ABB:Mag	OUTPUTNAME:Magicien
+SUBCLASS:Wizard						OUTPUTNAME:Magicien
+SUBCLASS:Abjurer					OUTPUTNAME:Abjureur
+SUBCLASS:Conjurer					OUTPUTNAME:Conjureur
+SUBCLASS:Diviner					OUTPUTNAME:Devin
+SUBCLASS:Enchanter					OUTPUTNAME:Enchanteur
+SUBCLASS:Evoker						OUTPUTNAME:Evocateur
+SUBCLASS:Illusionist				OUTPUTNAME:Illusioniste
+SUBCLASS:Necromancer				OUTPUTNAME:Nécromancien
+SUBCLASS:Transmuter					OUTPUTNAME:Transmutateur
+
+# NPC Classes
+CLASS:Adept.MOD				ABB:Adp	OUTPUTNAME:Adepte
+CLASS:Aristocrat.MOD		ABB:Nob	OUTPUTNAME:Noble
+CLASS:Commoner.MOD			ABB:GdP	OUTPUTNAME:Gens du peuple
+CLASS:Expert.MOD			ABB:Exp	OUTPUTNAME:Expert
+CLASS:Warrior.MOD			ABB:HdA	OUTPUTNAME:Homme d'armes
