@@ -1,0 +1,20 @@
+﻿# Authors : Ludovic Fierville, Philippe Aubé
+SOURCELONG:Document de Référence du Système (version 3.5)	SOURCESHORT:DRS	SOURCEWEB:http://www.wizards.com/default.asp?x=d20/article/srd35
+
+Death.MOD		OUTPUTNAME:Mort
+Earth.MOD		OUTPUTNAME:Terre
+Evil.MOD		OUTPUTNAME:Mal
+Fire.MOD		OUTPUTNAME:Feu
+Good.MOD		OUTPUTNAME:Bien
+Healing.MOD		OUTPUTNAME:Guérison
+Knowledge.MOD	OUTPUTNAME:Connaissances
+Law.MOD			OUTPUTNAME:Loi
+Luck.MOD		OUTPUTNAME:Chance
+Magic.MOD		OUTPUTNAME:Magie
+Plant.MOD		OUTPUTNAME:Flore
+Strength.MOD	OUTPUTNAME:Force
+Sun.MOD			OUTPUTNAME:Soleil
+Travel.MOD		OUTPUTNAME:Voyage
+Trickery.MOD	OUTPUTNAME:Duperie
+War.MOD			OUTPUTNAME:Guerre
+Water.MOD		OUTPUTNAME:Eau

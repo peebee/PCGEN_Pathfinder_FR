@@ -1,0 +1,41 @@
+﻿# Authors : Ludovic Fierville, Philippe Aubé
+SOURCELONG:Document de Référence du Système (version 3.5)	SOURCESHORT:DRS	SOURCEWEB:http://www.wizards.com/default.asp?x=d20/article/srd35
+
+Common.MOD			OUTPUTNAME:Commun
+
+#	racial languages (base races)
+Dwarven				OUTPUTNAME:Nain
+Elven				OUTPUTNAME:Elfique
+Gnome				OUTPUTNAME:Gnome
+Halfling			OUTPUTNAME:Halfelin
+
+#	other languages (races.rtf)
+Giant				OUTPUTNAME:Géant
+Gnoll				OUTPUTNAME:Gnoll
+Goblin				OUTPUTNAME:Gobelin
+Orc					OUTPUTNAME:Orque
+Terran				OUTPUTNAME:Terreux
+Undercommon			OUTPUTNAME:Commun des profondeurs
+
+#	class-specific languages (i.e. they are on the list of bonus languages for classes)
+Abyssal				OUTPUTNAME:Abyssal
+Celestial			OUTPUTNAME:Céleste
+Draconic			OUTPUTNAME:Draconique
+Infernal			OUTPUTNAME:Infernal
+Sylvan				OUTPUTNAME:Sylvain
+Druidic				OUTPUTNAME:Druidique
+
+Aboleth				OUTPUTNAME:Aboleth
+Aquan				OUTPUTNAME:Aquatique
+Auran				OUTPUTNAME:Aérien
+Blink Dog			OUTPUTNAME:Chien esquiveur
+Drow Sign Language	OUTPUTNAME:Langue des signes drow
+Ettin Pidgin		OUTPUTNAME:Baragouinage Ettin
+Formian				OUTPUTNAME:Formien
+Grimlock			OUTPUTNAME:Torve
+Ignan				OUTPUTNAME:Igné
+Sahuagin			OUTPUTNAME:Sahuagin
+Sphinx				OUTPUTNAME:Sphinx
+Treant				OUTPUTNAME:Sylvain
+Telepathy			OUTPUTNAME:Télépathie
+Worg				OUTPUTNAME:Worg

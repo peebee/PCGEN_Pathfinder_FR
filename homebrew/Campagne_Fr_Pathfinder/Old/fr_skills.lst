@@ -1,0 +1,89 @@
+﻿# Authors : Ludovic Fierville, Philippe Aubé
+SOURCELONG:Document de Référence du Système (version 3.5)	SOURCESHORT:DRS	SOURCEWEB:http://www.wizards.com/default.asp?x=d20/article/srd35
+
+Appraise.MOD										OUTPUTNAME:Estimation
+Balance.MOD											OUTPUTNAME:Equilibre
+Bluff.MOD											OUTPUTNAME:Bluff
+Climb.MOD											OUTPUTNAME:Escalade
+Concentration.MOD									OUTPUTNAME:Concentration
+Control Shape.MOD									OUTPUTNAME:Contrôle de forme
+Craft (Alchemy).MOD									OUTPUTNAME:Artisanat (alchimie)
+Craft (Armorsmithing).MOD							OUTPUTNAME:Artisanat (fabrication d'armures)
+Craft (Bowmaking).MOD								OUTPUTNAME:Artisanat (fabrication d'arcs)
+Craft (Blacksmithing).MOD							OUTPUTNAME:Artisanat (travail de forge)
+Craft (Carpentry).MOD								OUTPUTNAME:Artisanat (charpenterie)
+Craft (Leatherworking).MOD							OUTPUTNAME:Artisanat (maroquinerie)
+Craft (Painting).MOD								OUTPUTNAME:Artisanat (peinture)
+Craft (Pottery).MOD									OUTPUTNAME:Artisanat (poterie)
+Craft (Sculpting).MOD								OUTPUTNAME:Artisanat (sculpture)
+Craft (Shipmaking).MOD								OUTPUTNAME:Artisanat (fabrication de navires)
+Craft (Stonemasonry).MOD							OUTPUTNAME:Artisanat (taille de pierre)
+Craft (Trapmaking).MOD								OUTPUTNAME:Artisanat (fabrication de pièges)
+Craft (Weaponsmithing).MOD							OUTPUTNAME:Artisanat (fabrication d'armes)
+Craft (Woodworking).MOD								OUTPUTNAME:Artisanat (travail du bois)
+Craft (Untrained).MOD								OUTPUTNAME:Artisanat (sans entraînement)
+Decipher Script.MOD									OUTPUTNAME:Décryptage
+Diplomacy.MOD										OUTPUTNAME:Diplomatie
+Disable Device.MOD									OUTPUTNAME:Désamorcage/sabotage
+Disguise.MOD										OUTPUTNAME:Déguisement
+Escape Artist.MOD									OUTPUTNAME:Evasion
+Forgery.MOD											OUTPUTNAME:Contrefaçon
+Gather Information.MOD								OUTPUTNAME:Renseignements
+Handle Animal.MOD									OUTPUTNAME:Dressage
+Heal.MOD											OUTPUTNAME:Premiers secours
+Hide.MOD											OUTPUTNAME:Discrétion
+Intimidate.MOD										OUTPUTNAME:Intimidation
+Jump.MOD											OUTPUTNAME:Saut
+Knowledge (Arcana).MOD								OUTPUTNAME:Connaissances (mystères)
+Knowledge (Architecture and Engineering).MOD		OUTPUTNAME:Connaissances (architecture et ingénierie)
+Knowledge (Dungeoneering).MOD						OUTPUTNAME:Connaissances (exploration souterraine)
+Knowledge (Geography).MOD							OUTPUTNAME:Connaissances (géographie)
+Knowledge (History).MOD								OUTPUTNAME:Connaissances (histoire)
+Knowledge (Local).MOD								OUTPUTNAME:Connaissances (folklore local)
+Knowledge (Nature).MOD								OUTPUTNAME:Connaissances (nature)
+Knowledge (Nobility and Royalty).MOD				OUTPUTNAME:Connaissances (noblesse et royauté)
+Knowledge (Religion).MOD							OUTPUTNAME:Connaissances (religion)
+Knowledge (The Planes).MOD							OUTPUTNAME:Connaissances (plans)
+Listen.MOD											OUTPUTNAME:Perception auditive
+Literacy.MOD										OUTPUTNAME:Litterature
+Move Silently.MOD									OUTPUTNAME:Déplacement silencieux
+Open Lock.MOD										OUTPUTNAME:Crochetage
+Perform (Act).MOD									OUTPUTNAME:Représentation (scène)
+Perform (Comedy).MOD								OUTPUTNAME:Représentation (comédie)
+Perform (Dance).MOD									OUTPUTNAME:Représentation (danse)
+Perform (Keyboard Instruments).MOD					OUTPUTNAME:Représentation (claviers)
+Perform (Oratory).MOD								OUTPUTNAME:Représentation (oraison)
+Perform (Percussion Instruments).MOD				OUTPUTNAME:Représentation (percussions)
+Perform (String Instruments).MOD					OUTPUTNAME:Représentation (cordes)
+Perform (Wind Instruments).MOD						OUTPUTNAME:Représentation (vents)
+Perform (Sing).MOD									OUTPUTNAME:Représentation (chant)
+Profession (Hunter).MOD								OUTPUTNAME:Profession (chasseur)
+Profession (Miner).MOD								OUTPUTNAME:Profession (mineur)
+Profession (Siege Engineer).MOD						OUTPUTNAME:Profession (ingénieur de siège)
+Ride.MOD											OUTPUTNAME:Equitation
+Search.MOD											OUTPUTNAME:Fouille
+Sense Motive.MOD									OUTPUTNAME:Psychologie
+Sleight of Hand.MOD									OUTPUTNAME:Escamotage
+Speak Language.MOD									OUTPUTNAME:Langue
+Spellcraft.MOD										OUTPUTNAME:Art de la magie
+Spot.MOD											OUTPUTNAME:Détection
+Survival.MOD										OUTPUTNAME:Survie
+Swim.MOD											OUTPUTNAME:Natation
+Tumble.MOD											OUTPUTNAME:Acrobaties
+Use Magic Device.MOD								OUTPUTNAME:Utilisation d'objets magiques
+Use Rope.MOD										OUTPUTNAME:Maîtrise des cordes
+
+Climb (Using a rope).MOD							OUTPUTNAME:Escalade (avec une corde)
+Concentration (Cast defensively).MOD				OUTPUTNAME:Concentration (incantation sur la défensive)
+Disguise (Act in character).MOD						OUTPUTNAME:Déguisement (jouer un rôle)
+Escape Artist (Escape from rope bonds).MOD			OUTPUTNAME:Evasion (délier des liens de corde)
+Search (Secret doors and hidden compartments).MOD	OUTPUTNAME:Fouille (portes secrètes et compartiments cachés)
+Spellcraft (Decipher spell on scroll).MOD			OUTPUTNAME:Art de la magie (déchiffrer des sorts sur parchemin)
+Survival (Underground).MOD							OUTPUTNAME:Survie (environnement souterrain)
+Survival (The Planes).MOD							OUTPUTNAME:Survie (plans)
+Survival (Natural environments).MOD					OUTPUTNAME:Survie (environnement naturel)
+Survival (Lost/Natural hazards).MOD					OUTPUTNAME:Survie (perdu/dangers naturels)
+Survival (Find or follow tracks).MOD				OUTPUTNAME:Survie (trouver ou suivre une piste)
+Use Magic Device (Scroll).MOD						OUTPUTNAME:Utilisation d'objets magiques (parchemin)	 
+Use Rope (Bind someone).MOD							OUTPUTNAME:Maîtrise des cordes (lier quelqu'un)			
+Swim (Avoid taking nonlethal fatigue damage).MOD	OUTPUTNAME:Natation (éviter les dommages non-letaux de fa
