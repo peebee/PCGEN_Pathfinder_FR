@@ -1,0 +1,1275 @@
+# Authors : Pascal Bousquet
+SOURCELONG:Base de référence 	SOURCESHORT:PFR	SOURCEWEB:http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Glossaire%20des%20sorts.ashx
+
+Tiny Hut.MOD	OUTPUTNAME:Abri	DESC:.CLEAR	DESC:Crée un abri pour dix créatures.
+Energy Drain.MOD	OUTPUTNAME:Absorption d'énergie	DESC:.CLEAR	DESC:La cible gagne 2d4 niveaux négatifs.
+Keen Edge.MOD	OUTPUTNAME:Affûtage	DESC:.CLEAR	DESC:Double la zone de critique possible d'une arme.
+Enlarge Person.MOD	OUTPUTNAME:Agrandissement	DESC:.CLEAR	DESC:Double la taille d'un humanoïde.
+Enlarge Person, Mass.MOD	OUTPUTNAME:Agrandissement de groupe	DESC:.CLEAR	DESC:Agrandit plusieurs créatures.
+Aid.MOD	OUTPUTNAME:Aide	DESC:.CLEAR	DESC:+1 aux jets d'attaque et de sauvegarde contre la terreur, 1d8 pv temporaires, +1/niveau (max. +10).
+Alarm.MOD	OUTPUTNAME:Alarme	DESC:.CLEAR	DESC:Protège une zone pendant 2 heures/niveau.
+Insanity.MOD	OUTPUTNAME:Aliénation mentale	DESC:.CLEAR	DESC:La cible souffre en permanence de confusion.
+Undetectable Alignment.MOD	OUTPUTNAME:Alignement indétectable	DESC:.CLEAR	DESC:Masque l'alignement pendant 24 heures.
+Planar Ally, Lesser.MOD	OUTPUTNAME:Allié d'outreplan	DESC:.CLEAR	DESC:Échange de services avec une créature extraplanaire à 6 DV.
+Planar Ally.MOD	OUTPUTNAME:Allié majeur d'outreplan	DESC:.CLEAR	DESC:Comme allié d'outreplan, mais jusqu'à 12 DV.
+Planar Ally, Greater.MOD	OUTPUTNAME:Allié suprême d'outreplan	DESC:.CLEAR	DESC:Comme allié d'outreplan, mais jusqu'à 18 DV.
+Analyze Dweomer.MOD	OUTPUTNAME:Analyse d'enchantement	DESC:.CLEAR	DESC:Révèle les propriétés magiques.
+Doom.MOD	OUTPUTNAME:Anathème	DESC:.CLEAR	DESC:Inflige un malus de -2 aux jets d'attaque, aux jets de sauvegarde et aux tests.
+Dimensional Anchor.MOD	OUTPUTNAME:Ancre dimensionnelle	DESC:.CLEAR	DESC:Empêche tout déplacement extradimensionnel.
+Animate Dead.MOD	OUTPUTNAME:Animation des morts	DESC:.CLEAR	DESC:Crée squelettes et zombis morts-vivants.
+Animate Plants.MOD	OUTPUTNAME:Animation des plantes	DESC:.CLEAR	DESC:Une ou plusieurs plantes s'animent et attaquent les adversaires du PJ.
+Animate Objects.MOD	OUTPUTNAME:Animation d'objets	DESC:.CLEAR	DESC:Les objets attaquent les adversaires du PJ.
+Temporal Stasis.MOD	OUTPUTNAME:Animation suspendue	DESC:.CLEAR	DESC:Met la cible en état de stase.
+Undeath To Death.MOD	OUTPUTNAME:Annihilation de mort-vivant	DESC:.CLEAR	DESC:Détruit 1d4 DV de morts-vivants/niveau (max. 20d4).
+Break Enchantment.MOD	OUTPUTNAME:Annulation d'enchantement	DESC:.CLEAR	DESC:Libère la cible des enchantements, des altérations, des malédictions et de la pétrification.
+Nondetection.MOD	OUTPUTNAME:Antidétection	DESC:.CLEAR	DESC:Protège contre la scrutation et les divinations.
+Calm Animals.MOD	OUTPUTNAME:Apaisement des animaux	DESC:.CLEAR	DESC:Calme (2d4 + niveau) DV d'animaux.
+Calm Emotions.MOD	OUTPUTNAME:Apaisement des émotions	DESC:.CLEAR	DESC:Calme des créatures.
+Call Lightning.MOD	OUTPUTNAME:Appel de la foudre	DESC:.CLEAR	DESC:Appelle la foudre (3d6 points de dégâts par éclair).
+Call Lightning Storm.MOD	OUTPUTNAME:Appel de la tempête	DESC:.CLEAR	DESC:Comme appel de la foudre, mais 5d6 points de dégâts par éclair.
+Align Weapon.MOD	OUTPUTNAME:Arme alignée	DESC:.CLEAR	DESC:Une arme devient bonne, chaotique, loyale ou mauvaise.
+Disrupting Weapon.MOD	OUTPUTNAME:Arme destructrice	DESC:.CLEAR	DESC:Une arme de corps à corps détruit les morts-vivants.
+Magic Weapon.MOD	OUTPUTNAME:Arme magique	DESC:.CLEAR	DESC:Confère un bonus de +1 à une arme.
+Magic Weapon, Greater.MOD	OUTPUTNAME:Arme magique suprême	DESC:.CLEAR	DESC:Confère un bonus de +1/4 niveaux à une arme (max. +5).
+Spiritual Weapon.MOD	OUTPUTNAME:Arme spirituelle	DESC:.CLEAR	DESC:Arme magique attaquant d'elle-même.
+Mage Armor.MOD	OUTPUTNAME:Armure de mage	DESC:.CLEAR	DESC:Confère un bonus d'armure de +4.
+Time Stop.MOD	OUTPUTNAME:Arrêt du temps	DESC:.CLEAR	DESC:Seul le PJ peut agir pendant 1d4+1 rounds.
+Acid Splash.MOD	OUTPUTNAME:Aspersion acide	DESC:.CLEAR	DESC:Orbe infligeant 1d3 points de dégâts d'acide.
+Phantasmal Killer.MOD	OUTPUTNAME:Assassin imaginaire	DESC:.CLEAR	DESC:Illusion terrifiante tuant la cible ou lui infligeant 3d6 points de dégâts.
+Guidance.MOD	OUTPUTNAME:Assistance divine	DESC:.CLEAR	DESC:+1 sur un jet d'attaque, un jet de sauvegarde ou un test de compétence.
+Sympathy.MOD	OUTPUTNAME:Attirance	DESC:.CLEAR	DESC:Objet ou lieu attire certaines créatures.
+Augury.MOD	OUTPUTNAME:Augure	DESC:.CLEAR	DESC:Révèle si une action aura de bonnes conséquences ou non.
+Magic Aura.MOD	OUTPUTNAME:Aura magique	DESC:.CLEAR	DESC:Crée une fausse aura magique.
+Unholy Aura.MOD	OUTPUTNAME:Aura maudite	DESC:.CLEAR	DESC:+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Bien.
+Holy Aura.MOD	OUTPUTNAME:Aura sacrée	DESC:.CLEAR	DESC:+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Mal.
+Antipathy.MOD	OUTPUTNAME:Aversion	DESC:.CLEAR	DESC:Objet ou lieu repousse certaines créatures.
+Glibness.MOD	OUTPUTNAME:Bagou	DESC:.CLEAR	DESC:Confère +30 aux tests de Bluff ; résiste aux divinations censées détecter les mensonges.
+Goodberry.MOD	OUTPUTNAME:Baie nourricière	DESC:.CLEAR	DESC:2d4 baies rendant chacune 1 pv (max. 8 pv/24 heures).
+Ghoul Touch.MOD	OUTPUTNAME:Baiser de la goule	DESC:.CLEAR	DESC:Paralyse la cible et lui fait dégager une odeur répugnante qui la rend nauséeuse.
+Vampiric Touch.MOD	OUTPUTNAME:Baiser du vampire	DESC:.CLEAR	DESC:1d6 points de dégâts/2 niveaux, récupérés sous forme de pv par le PJ.
+Banishment.MOD	OUTPUTNAME:Bannissement	DESC:.CLEAR	DESC:Bannit 2 DV/niveau de créatures extraplanaires.
+Blade Barrier.MOD	OUTPUTNAME:Barrière de lames	DESC:.CLEAR	DESC:Lames infligeant 1d6 points de dégâts/niveau.
+Spellstaff.MOD	OUTPUTNAME:Bâton à sort	DESC:.CLEAR	DESC:Permet de stocker un sort dans un bâton.
+Changestaff.MOD	OUTPUTNAME:Bâton sylvanien	DESC:.CLEAR	DESC:Transforme le bâton du PJ en sylvanien.
+Bless.MOD	OUTPUTNAME:Bénédiction	DESC:.CLEAR	DESC:Les alliés gagnent +1 à l'attaque et aux jets de sauvegarde contre la terreur.
+Bless Weapon.MOD	OUTPUTNAME:Bénédiction d'arme	DESC:.CLEAR	DESC:Arme plus efficace contre les adversaires d'alignement Mauvais.
+Bless Water.MOD	OUTPUTNAME:Bénédiction de l'eau	DESC:.CLEAR	DESC:Crée de l'eau bénite.
+Lullaby.MOD	OUTPUTNAME:Berceuse	DESC:.CLEAR	DESC:Rend les sujets somnolents ; -5 aux tests Perception, -2 aux jets de Volonté contre sommeil.
+Blasphemy.MOD	OUTPUTNAME:Blasphème	DESC:.CLEAR	DESC:Tue, paralyse, affaiblit ou hébète les cibles non-Mauvaises.
+Inflict Critical Wounds.MOD	OUTPUTNAME:Blessure critique	DESC:.CLEAR	DESC:Inflige 4d8 pts de dégâts, +1/niveau (max. +20).
+Inflict Critical Wounds, Mass.MOD	OUTPUTNAME:Blessure critique de groupe	DESC:.CLEAR	DESC:Inflige 4d8 points de dégâts +1/niveau à une créature/niveau.
+Inflict Serious Wounds.MOD	OUTPUTNAME:Blessure grave	DESC:.CLEAR	DESC:Inflige 3d8 pts de dégâts, +1/niveau (max. +15).
+Inflict Serious Wounds, Mass.MOD	OUTPUTNAME:Blessure importante de groupe	DESC:.CLEAR	DESC:Inflige 3d8 points de dégâts +1/niveau à une créature/niveau.
+Inflict Light Wounds.MOD	OUTPUTNAME:Blessure légère	DESC:.CLEAR	DESC:Inflige 1d8 points de dégâts, +1/niveau (max. +5).
+Inflict Light Wounds, Mass.MOD	OUTPUTNAME:Blessure légère de groupe	DESC:.CLEAR	DESC:Inflige 1d8 points de dégâts +1/niveau à une créature/niveau.
+Inflict Moderate Wounds.MOD	OUTPUTNAME:Blessure modérée	DESC:.CLEAR	DESC:Inflige 2d8 points de dégâts, +1/niveau (max. +10).
+Inflict Moderate Wounds, Mass.MOD	OUTPUTNAME:Blessure modérée de groupe	DESC:.CLEAR	DESC:Inflige 2d8 points de dégâts +1/niveau à une créature/niveau.
+Ironwood.MOD	OUTPUTNAME:Bois de fer	DESC:.CLEAR	DESC:Rend le bois aussi dur que le fer.
+Magic Mouth.MOD	OUTPUTNAME:Bouche magique	DESC:.CLEAR	DESC:Délivre un message quand on la déclenche.
+Shield.MOD	OUTPUTNAME:Bouclier	DESC:.CLEAR	DESC:Disque invisible conférant +4 à la CA et protégeant des projectiles magiques.
+Fire Shield.MOD	OUTPUTNAME:Bouclier de feu	DESC:.CLEAR	DESC:Brûle les créatures attaquant le PJ en protégeant ce dernier contre le feu ou le froid.
+Shield Of Faith.MOD	OUTPUTNAME:Bouclier de la foi	DESC:.CLEAR	DESC:Aura conférant un bonus de parade de +2 (ou plus).
+Shield Of Law.MOD	OUTPUTNAME:Bouclier de la Loi	DESC:.CLEAR	DESC:+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Chaos.
+Entropic Shield.MOD	OUTPUTNAME:Bouclier entropique	DESC:.CLEAR	DESC:Les attaques à distance ont 20 % de chances de rater le PJ.
+Fireball.MOD	OUTPUTNAME:Boule de feu	DESC:.CLEAR	DESC:1d6 points de dégâts de feu/niveau, 6 m de rayon.
+Delayed Blast Fireball.MOD	OUTPUTNAME:Boule de feu à retardement	DESC:.CLEAR	DESC:1d6 points de dégâts de feu/niveau ; l'explosion peut être retardée un max. de 5 rounds.
+Gust Of Wind.MOD	OUTPUTNAME:Bourrasque	DESC:.CLEAR	DESC:Emporte ou renverse les créatures de taille modeste.
+Solid Fog.MOD	OUTPUTNAME:Brouillard dense	DESC:.CLEAR	DESC:Réduit la visibilité et gêne les déplacements.
+Acid Fog.MOD	OUTPUTNAME:Brume acide	DESC:.CLEAR	DESC:Brouillard infligeant des dégâts d'acide.
+Obscuring Mist.MOD	OUTPUTNAME:Brume de dissimulation	DESC:.CLEAR	DESC:Le PJ est entouré de brouillard.
+Mind Fog.MOD	OUTPUTNAME:Brume mentale	DESC:.CLEAR	DESC:Malus de -10 aux tests de Sagesse et jets de Volonté.
+Cloudkill.MOD	OUTPUTNAME:Brume mortelle	DESC:.CLEAR	DESC:Tue les créatures de 3 DV ou moins ; celles de 4-6 DV meurent en cas de jet de sauvegarde raté ; celles de 6 DV ou plus subissent un affaiblissement temporaire de Con.
+Sound Burst.MOD	OUTPUTNAME:Cacophonie	DESC:.CLEAR	DESC:1d8 points de dégâts de son, étourdissement possible.
+Forcecage.MOD	OUTPUTNAME:Cage de force	DESC:.CLEAR	DESC:Cube de force emprisonnant ce qui se trouve à l'intérieur.
+Soul Bind.MOD	OUTPUTNAME:Capture d'âme	DESC:.CLEAR	DESC:Retient l'âme d'un défunt pour empêcher sa résurrection.
+Nightmare.MOD	OUTPUTNAME:Cauchemar	DESC:.CLEAR	DESC:Envoie des visions causant fatigue et perte de 1d10 pv.
+Blindness/Deafness.MOD	OUTPUTNAME:Cécité/surdité	DESC:.CLEAR	DESC:Rend la cible aveugle ou sourde.
+Circle Of Death.MOD	OUTPUTNAME:Cercle de mort	DESC:.CLEAR	DESC:Tue 1d4 DV de créatures/niveau.
+Teleportation Circle.MOD	OUTPUTNAME:Cercle de téléportation	DESC:.CLEAR	DESC:Amène qui entre dans le cercle à une destination programmée.
+Magic Circle Against Law.MOD	OUTPUTNAME:Cercle magique contre la Loi	DESC:.CLEAR	DESC:Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+Magic Circle Against Good.MOD	OUTPUTNAME:Cercle magique contre le Bien	DESC:.CLEAR	DESC:Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+Magic Circle Against Chaos.MOD	OUTPUTNAME:Cercle magique contre le Chaos	DESC:.CLEAR	DESC:Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+Magic Circle Against Evil.MOD	OUTPUTNAME:Cercle magique contre le Mal	DESC:.CLEAR	DESC:Comme protection, mais avec un rayon de 3 m et une durée de 10 minutes/niveau.
+Repulsion.MOD	OUTPUTNAME:Champ de force	DESC:.CLEAR	DESC:Nul ne peut approcher du PJ.
+Shapechange.MOD	OUTPUTNAME:Changement de forme	DESC:.CLEAR	DESC:Le PJ peut se transformer à l'envi (1 fois/round).
+Plane Shift.MOD	OUTPUTNAME:Changement de plan	DESC:.CLEAR	DESC:Permet de changer de plan (huit sujets max.).
+Song Of Discord.MOD	OUTPUTNAME:Chant de discorde	DESC:.CLEAR	DESC:Force les cibles à s'entretuer.
+Charm Animal.MOD	OUTPUTNAME:Charme-animal	DESC:.CLEAR	DESC:Un animal devient l'ami du PJ.
+Charm Monster.MOD	OUTPUTNAME:Charme-monstre	DESC:.CLEAR	DESC:Le monstre croit être l'allié du PJ.
+Charm Monster, Mass.MOD	OUTPUTNAME:Charme-monstre de groupe	DESC:.CLEAR	DESC:Comme charme-monstre, mais sur 9 m de rayon.
+Charm Person.MOD	OUTPUTNAME:Charme-personne	DESC:.CLEAR	DESC:La cible devient l'ami du PJ.
+Holy Smite.MOD	OUTPUTNAME:Châtiment sacré	DESC:.CLEAR	DESC:Blesse et aveugle les créatures Mauvaises (1d8 pts de dégâts/2 niveaux).
+Liveoak.MOD	OUTPUTNAME:Chêne animé	DESC:.CLEAR	DESC:Transforme un chêne en sylvanien.
+Mage's Faithful Hound.MOD	OUTPUTNAME:Chien de garde	DESC:.CLEAR	DESC:Chien spectral capable de combattre.
+Clairaudience/Clairvoyance.MOD	OUTPUTNAME:Clairaudience/clairvoyance	DESC:.CLEAR	DESC:Permet d'entendre ou de voir de loin pendant 1 minute/niveau.
+Blink.MOD	OUTPUTNAME:Clignotement	DESC:.CLEAR	DESC:Le PJ apparaît et disparaît pendant 1 round/niveau.
+Clone.MOD	OUTPUTNAME:Clone	DESC:.CLEAR	DESC:Double s'éveillant à la mort de l'original.
+Secret Chest.MOD	OUTPUTNAME:Coffre secret	DESC:.CLEAR	DESC:Coffre caché dans le plan Éthéré.
+Snare.MOD	OUTPUTNAME:Collet	DESC:.CLEAR	DESC:Crée un piège magique tout simple.
+Flame Strike.MOD	OUTPUTNAME:Colonne de feu	DESC:.CLEAR	DESC:Feu divin (1d6 points de dégâts/niveau).
+Sending.MOD	OUTPUTNAME:Communication à distance	DESC:.CLEAR	DESC:Transmet un court message n'importe où.
+Speak With Animals.MOD	OUTPUTNAME:Communication avec les animaux	DESC:.CLEAR	DESC:Permet de communiquer avec les animaux.
+Speak With Dead.MOD	OUTPUTNAME:Communication avec les morts	DESC:.CLEAR	DESC:Un cadavre répond à 1 question/2 niveaux.
+Speak With Plants.MOD	OUTPUTNAME:Communication avec les plantes	DESC:.CLEAR	DESC:Permet de communiquer avec les plantes et les créatures végétales.
+Commune.MOD	OUTPUTNAME:Communion	DESC:.CLEAR	DESC:Le dieu du PJ répond par oui ou non à une question/niveau.
+Commune With Nature.MOD	OUTPUTNAME:Communion avec la nature	DESC:.CLEAR	DESC:Permet de connaître les environs (1,5 km/niveau).
+Comprehend Languages.MOD	OUTPUTNAME:Compréhension des langages	DESC:.CLEAR	DESC:Le PJ comprend tous les langages écrits ou parlés.
+Cone Of Cold.MOD	OUTPUTNAME:Cône de froid	DESC:.CLEAR	DESC:1d6 points de dégâts de froid/niveau.
+Confusion.MOD	OUTPUTNAME:Confusion	DESC:.CLEAR	DESC:Le sujet se comporte bizarrement pendant 1 round/niv.
+Confusion, Lesser.MOD	OUTPUTNAME:Confusion mineure	DESC:.CLEAR	DESC:Une créature est confuse pendant 1 round.
+Consecrate.MOD	OUTPUTNAME:Consécration	DESC:.CLEAR	DESC:Affaiblit les morts-vivants au sein d'une zone.
+Contact Other Plane.MOD	OUTPUTNAME:Contact avec les plans	DESC:.CLEAR	DESC:Permet d'interroger une entité extraplanaire.
+Chill Touch.MOD	OUTPUTNAME:Contact glacial	DESC:.CLEAR	DESC:1 attaque/niveau ; 1d6 points de dégâts, perte de 1 point de Force possible.
+Contagion.MOD	OUTPUTNAME:Contagion	DESC:.CLEAR	DESC:Infecte la cible.
+Planar Binding, Lesser.MOD	OUTPUTNAME:Contrat	DESC:.CLEAR	DESC:Force un élémentaire ou un Extérieur de 6 DV ou moins à accomplir une tâche pour le PJ.
+Planar Binding.MOD	OUTPUTNAME:Contrat intermédiaire	DESC:.CLEAR	DESC:Comme contrat, mais jusqu'à 12 DV.
+Planar Binding, Greater.MOD	OUTPUTNAME:Contrat suprême	DESC:.CLEAR	DESC:Comme contrat, mais jusqu'à 18 DV.
+Control Water.MOD	OUTPUTNAME:Contrôle de l'eau	DESC:.CLEAR	DESC:Abaisse ou élève le niveau de l'eau.
+Control Undead.MOD	OUTPUTNAME:Contrôle des morts-vivants	DESC:.CLEAR	DESC:Les morts-vivants n'attaquent pas le PJ.
+Control Plants.MOD	OUTPUTNAME:Contrôle des plantes	DESC:.CLEAR	DESC:Permet de contrôler une ou plusieurs créatures végétales.
+Control Winds.MOD	OUTPUTNAME:Contrôle des vents	DESC:.CLEAR	DESC:Modifie la direction et la force du vent.
+Control Weather.MOD	OUTPUTNAME:Contrôle du climat	DESC:.CLEAR	DESC:Modifie le climat local.
+Command Undead.MOD	OUTPUTNAME:Contrôle mineur des morts-vivants	DESC:.CLEAR	DESC:Les morts-vivants obéissent au PJ.
+Summon Nature's Ally I.MOD	OUTPUTNAME:Convocation d'alliés naturels I	DESC:.CLEAR	DESC:Appelle une créature luttant pour le PJ.
+Summon Nature's Ally II.MOD	OUTPUTNAME:Convocation d'alliés naturels II	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally III.MOD	OUTPUTNAME:Convocation d'alliés naturels III	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally IV.MOD	OUTPUTNAME:Convocation d'alliés naturels IV	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally IX.MOD	OUTPUTNAME:Convocation d'alliés naturels IX	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally V.MOD	OUTPUTNAME:Convocation d'alliés naturels V	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally VI.MOD	OUTPUTNAME:Convocation d'alliés naturels VI	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally VII.MOD	OUTPUTNAME:Convocation d'alliés naturels VII	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Nature's Ally VIII.MOD	OUTPUTNAME:Convocation d'alliés naturels VIII	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures luttant pour le PJ.
+Summon Monster I.MOD	OUTPUTNAME:Convocation de monstres I	DESC:.CLEAR	DESC:Appelle une créature extraplanaire luttant pour le PJ.
+Summon Monster II.MOD	OUTPUTNAME:Convocation de monstres II	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster III.MOD	OUTPUTNAME:Convocation de monstres III	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster IV.MOD	OUTPUTNAME:Convocation de monstres IV	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster IX.MOD	OUTPUTNAME:Convocation de monstres IX	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster V.MOD	OUTPUTNAME:Convocation de monstres V	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster VI.MOD	OUTPUTNAME:Convocation de monstres VI	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster VII.MOD	OUTPUTNAME:Convocation de monstres VII	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Monster VIII.MOD	OUTPUTNAME:Convocation de monstres VIII	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
+Summon Instrument.MOD	OUTPUTNAME:Convocation d'instrument	DESC:.CLEAR	DESC:Convoque un instrument de musique au choix.
+Shadow Conjuration.MOD	OUTPUTNAME:Convocation d'ombres	DESC:.CLEAR	DESC:Reproduit les invocations de 3e niveau ou moins ; 20 % sont réelles.
+Shadow Conjuration, Greater.MOD	OUTPUTNAME:Convocation d'ombres suprême	DESC:.CLEAR	DESC:Comme convocation d'ombres, mais jusqu'au 6e niveau ; 60 % sont réelles.
+Antiplant Shell.MOD	OUTPUTNAME:Coquille antiplantes	DESC:.CLEAR	DESC:Empêche les plantes animées d'approcher.
+Antilife Shell.MOD	OUTPUTNAME:Coquille antivie	DESC:.CLEAR	DESC:Tient les créatures vivantes à distance (3 m).
+Animate Rope.MOD	OUTPUTNAME:Corde animée	DESC:.CLEAR	DESC:Une corde bouge sur ordre du PJ.
+Rope Trick.MOD	OUTPUTNAME:Corde enchantée	DESC:.CLEAR	DESC:Huit créatures peuvent se cacher dans un espace extradimensionnel.
+Iron Body.MOD	OUTPUTNAME:Corps de fer	DESC:.CLEAR	DESC:Le corps du PJ se transforme en fer vivant.
+Elemental Body I.MOD	OUTPUTNAME:Corps élémentaire I	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en élémentaire de taille P.
+Elemental Body II.MOD	OUTPUTNAME:Corps élémentaire II	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en élémentaire de taille M.
+Elemental Body III.MOD	OUTPUTNAME:Corps élémentaire III	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en élémentaire de taille G.
+Elemental Body IV.MOD	OUTPUTNAME:Corps élémentaire IV	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en élémentaire de taille TG.
+Color Spray.MOD	OUTPUTNAME:Couleurs dansantes	DESC:.CLEAR	DESC:Assomme, aveugle et/ou étourdit 1d6 créatures.
+True Strike.MOD	OUTPUTNAME:Coup au but	DESC:.CLEAR	DESC:Confère un bonus de +20 au prochain jet d'attaque.
+Order's Wrath.MOD	OUTPUTNAME:Courroux de l'ordre	DESC:.CLEAR	DESC:Blesse et étourdit les créatures Chaotiques (1d8 pts de dégâts/2 niveaux).
+Phantom Steed.MOD	OUTPUTNAME:Coursier fantôme	DESC:.CLEAR	DESC:Crée un cheval magique pour 1 heure/niveau.
+Create Undead.MOD	OUTPUTNAME:Création de mort-vivant	DESC:.CLEAR	DESC:Goule, blême, momie ou mohrg.
+Create Greater Undead.MOD	OUTPUTNAME:Création de mort-vivant dominant	DESC:.CLEAR	DESC:Ombre, âme en peine, spectre ou dévoreur.
+Create Food And Water.MOD	OUTPUTNAME:Création de nourriture et d'eau	DESC:.CLEAR	DESC:Nourrit trois humains ou un cheval/niveau.
+Create Water.MOD	OUTPUTNAME:Création d'eau	DESC:.CLEAR	DESC:Crée huit litres d'eau pure/niveau.
+Major Creation.MOD	OUTPUTNAME:Création majeure	DESC:.CLEAR	DESC:Comme création mineure, plus pierre et métal.
+Minor Creation.MOD	OUTPUTNAME:Création mineure	DESC:.CLEAR	DESC:Crée un objet en tissu ou en bois.
+Shout.MOD	OUTPUTNAME:Cri	DESC:.CLEAR	DESC:Assourdit les victimes et leur inflige 5d6 points de dégâts de son.
+Shout, Greater.MOD	OUTPUTNAME:Cri suprême	DESC:.CLEAR	DESC:Cri dévastateur infligeant 10d6 points de dégâts de son ; étourdit les créatures, abîme les objets.
+Animal Growth.MOD	OUTPUTNAME:Croissance animale	DESC:.CLEAR	DESC:Double la taille de 1 animal/2 niveaux.
+Spike Growth.MOD	OUTPUTNAME:Croissance d'épines	DESC:.CLEAR	DESC:1d4 points de dégâts, ralentissement possible.
+Plant Growth.MOD	OUTPUTNAME:Croissance végétale	DESC:.CLEAR	DESC:Fait pousser la végétation, améliore son rendement.
+Whirlwind.MOD	OUTPUTNAME:Cyclone	DESC:.CLEAR	DESC:Inflige des dégâts et peut soulever les petites créatures.
+Irresistible Dance.MOD	OUTPUTNAME:Danse irrésistible	DESC:.CLEAR	DESC:Force le sujet à danser.
+Feeblemind.MOD	OUTPUTNAME:Débilité	DESC:.CLEAR	DESC:L'Intelligence et le Charisme de la cible tombent à 1.
+Knock.MOD	OUTPUTNAME:Déblocage	DESC:.CLEAR	DESC:Ouvre les portes fermées, même par magie.
+Shocking Grasp.MOD	OUTPUTNAME:Décharge électrique	DESC:.CLEAR	DESC:1d6 points de dégâts d'électricité/niveau (max. 5d6).
+Dictum.MOD	OUTPUTNAME:Décret	DESC:.CLEAR	DESC:Tue, paralyse, ralentit ou assourdit les cibles non-Loyales.
+Maze.MOD	OUTPUTNAME:Dédale	DESC:.CLEAR	DESC:Enferme la cible dans un labyrinthe extradimensionnel.
+Guards And Wards.MOD	OUTPUTNAME:Défense magique	DESC:.CLEAR	DESC:Plusieurs effets magiques protègent une zone.
+Disguise Self.MOD	OUTPUTNAME:Déguisement	DESC:.CLEAR	DESC:Modifie l'apparence du PJ.
+Freedom.MOD	OUTPUTNAME:Délivrance	DESC:.CLEAR	DESC:Libère la victime d'un emprisonnement.
+Remove Paralysis.MOD	OUTPUTNAME:Délivrance de la paralysie	DESC:.CLEAR	DESC:Délivre de la paralysie, d'immobilisation et de lenteur.
+Remove Curse.MOD	OUTPUTNAME:Délivrance des malédictions	DESC:.CLEAR	DESC:Libère des malédictions.
+Displacement.MOD	OUTPUTNAME:Déplacement	DESC:.CLEAR	DESC:Chaque attaque a 50 % de chances de rater la cible.
+Crushing Despair.MOD	OUTPUTNAME:Désespoir foudroyant	DESC:.CLEAR	DESC:Les sujets subissent -2 aux jets d'attaque, aux jets de dégâts, aux jets de sauvegarde et aux tests.
+Disintegrate.MOD	OUTPUTNAME:Désintégration	DESC:.CLEAR	DESC:Fait disparaître un objet ou une créature.
+Destruction.MOD	OUTPUTNAME:Destruction	DESC:.CLEAR	DESC:Tue la cible et détruit son corps.
+Disrupt Undead.MOD	OUTPUTNAME:Destruction de mort-vivant	DESC:.CLEAR	DESC:1d6 points de dégâts à un mort-vivant.
+Detect Animals Or Plants.MOD	OUTPUTNAME:Détection de la faune ou de la flore	DESC:.CLEAR	DESC:Détecte les espèces de plantes et d'animaux.
+Detect Law.MOD	OUTPUTNAME:Détection de la Loi	DESC:.CLEAR	DESC:Révèle l'aura des créatures, sorts ou objets.
+Detect Magic.MOD	OUTPUTNAME:Détection de la magie	DESC:.CLEAR	DESC:Détecte sorts et objets magiques à 18 m à la ronde.
+Detect Scrying.MOD	OUTPUTNAME:Détection de la scrutation	DESC:.CLEAR	DESC:Détecte l'espionnage magique.
+See Invisibility.MOD	OUTPUTNAME:Détection de l'invisibilité	DESC:.CLEAR	DESC:Révèle créatures et objets invisibles.
+Detect Thoughts.MOD	OUTPUTNAME:Détection de pensées	DESC:.CLEAR	DESC:Permet d'écouter les pensées superficielles.
+Detect Snares And Pits.MOD	OUTPUTNAME:Détection des collets et des fosses	DESC:.CLEAR	DESC:Détecte pièges naturels et primitifs.
+Detect Undead.MOD	OUTPUTNAME:Détection des morts-vivants	DESC:.CLEAR	DESC:Révèle les morts-vivants à 18 m ou moins.
+Detect Secret Doors.MOD	OUTPUTNAME:Détection des passages secrets	DESC:.CLEAR	DESC:Révèle les passages secrets à 18 m ou moins.
+Find Traps.MOD	OUTPUTNAME:Détection des pièges	DESC:.CLEAR	DESC:Le PJ repère les pièges comme un roublard.
+Detect Good.MOD	OUTPUTNAME:Détection du Bien	DESC:.CLEAR	DESC:Révèle l'aura des créatures, sorts ou objets.
+Detect Chaos.MOD	OUTPUTNAME:Détection du Chaos	DESC:.CLEAR	DESC:Révèle l'aura des créatures, sorts ou objets.
+Detect Evil.MOD	OUTPUTNAME:Détection du Mal	DESC:.CLEAR	DESC:Révèle l'aura des créatures, sorts ou objets.
+Discern Lies.MOD	OUTPUTNAME:Détection du mensonge	DESC:.CLEAR	DESC:Révèle les mensonges délibérés.
+Detect Poison.MOD	OUTPUTNAME:Détection du poison	DESC:.CLEAR	DESC:Détecte le poison chez une créature ou un petit objet.
+Misdirection.MOD	OUTPUTNAME:Détection faussée	DESC:.CLEAR	DESC:Abuse les divinations lancées sur la cible (créature ou objet).
+Enthrall.MOD	OUTPUTNAME:Discours captivant	DESC:.CLEAR	DESC:Captive à 30 m (+ 3 m/niveau) à la ronde.
+Mage's Disjunction.MOD	OUTPUTNAME:Disjonction	DESC:.CLEAR	DESC:Dissipe la magie et les propriétés des objets magiques.
+Floating Disk.MOD	OUTPUTNAME:Disque flottant	DESC:.CLEAR	DESC:Disque horizontal de 90 cm de diamètre portant 50 kg/niveau.
+Obscure Object.MOD	OUTPUTNAME:Dissimulation d'objet	DESC:.CLEAR	DESC:Dissimule un objet à la scrutation.
+Sequester.MOD	OUTPUTNAME:Dissimulation suprême	DESC:.CLEAR	DESC:Rend le sujet invisible, même à la scrutation.
+Dispel Magic.MOD	OUTPUTNAME:Dissipation de la magie	DESC:.CLEAR	DESC:Annule sorts et effets magiques.
+Dispel Magic, Greater.MOD	OUTPUTNAME:Dissipation suprême	DESC:.CLEAR	DESC:Comme dissipation de la magie, mais sur cibles multiples.
+Warp Wood.MOD	OUTPUTNAME:Distorsion du bois	DESC:.CLEAR	DESC:Tord le bois (manche d'arme, planche, porte, etc.).
+Divination.MOD	OUTPUTNAME:Divination	DESC:.CLEAR	DESC:Donne des conseils en rapport avec une action envisagée.
+Finger Of Death.MOD	OUTPUTNAME:Doigt de mort	DESC:.CLEAR	DESC:Inflige 10 points de dégâts/niveau à une cible.
+Dominate Person.MOD	OUTPUTNAME:Domination	DESC:.CLEAR	DESC:Permet de contrôler un humanoïde par télépathie.
+Dominate Animal.MOD	OUTPUTNAME:Domination d'animal	DESC:.CLEAR	DESC:L'animal obéit aux ordres télépathiques du PJ.
+Dominate Monster.MOD	OUTPUTNAME:Domination universelle	DESC:.CLEAR	DESC:Comme domination, mais sur n'importe qui.
+Tongues.MOD	OUTPUTNAME:Don des langues	DESC:.CLEAR	DESC:Permet de parler toutes les langues.
+Mislead.MOD	OUTPUTNAME:Double illusoire	DESC:.CLEAR	DESC:Rend le PJ invisible et crée son double illusoire.
+Lightning Bolt.MOD	OUTPUTNAME:Éclair	DESC:.CLEAR	DESC:1d6 points de dégâts d'électricité/niveau.
+Chain Lightning.MOD	OUTPUTNAME:Éclair multiple	DESC:.CLEAR	DESC:1d6 pts de dégâts/niveau et 1 éclair secondaire/niveau.
+Screen.MOD	OUTPUTNAME:Écran	DESC:.CLEAR	DESC:Empêche de voir dans une zone, même par scrutation.
+Erase.MOD	OUTPUTNAME:Effacement	DESC:.CLEAR	DESC:Efface un texte, même magique.
+Scare.MOD	OUTPUTNAME:Effroi	DESC:.CLEAR	DESC:Panique les créatures ayant moins de 6 DV.
+Repel Wood.MOD	OUTPUTNAME:Éloignement du bois	DESC:.CLEAR	DESC:Repousse les objets en bois.
+Repel Metal Or Stone.MOD	OUTPUTNAME:Éloignement du métal et de la pierre	DESC:.CLEAR	DESC:Repousse le métal et la pierre.
+Command Plants.MOD	OUTPUTNAME:Empire végétal	DESC:.CLEAR	DESC:Influence les actions d'une ou plusieurs créatures végétales.
+Poison.MOD	OUTPUTNAME:Empoisonnement	DESC:.CLEAR	DESC:Le sujet perd 1d3 points de Con/round pendant 6 rounds.
+Imprisonment.MOD	OUTPUTNAME:Emprisonnement	DESC:.CLEAR	DESC:Emprisonne la cible au centre de la terre.
+Entangle.MOD	OUTPUTNAME:Enchevêtrement	DESC:.CLEAR	DESC:La végétation immobilise tout dans un rayon de 12 m.
+Endure Elements.MOD	OUTPUTNAME:Endurance aux énergies destructives	DESC:.CLEAR	DESC:Protège des environnements chauds ou froids.
+Bear's Endurance.MOD	OUTPUTNAME:Endurance de l'ours	DESC:.CLEAR	DESC:Confère +4 en Con pendant 1 minute/niveau.
+Bear's Endurance, Mass.MOD	OUTPUTNAME:Endurance de l'ours de groupe	DESC:.CLEAR	DESC:Comme endurance de l'ours, mais affecte un sujet/niveau.
+Enervation.MOD	OUTPUTNAME:Énergie négative	DESC:.CLEAR	DESC:La cible gagne 1d4 niveaux négatifs.
+Weird.MOD	OUTPUTNAME:Ennemi subconscient	DESC:.CLEAR	DESC:Comme assassin imaginaire, mais dans un rayon de 9 m.
+Binding.MOD	OUTPUTNAME:Entrave	DESC:.CLEAR	DESC:Diverses possibilités pour emprisonner une créature.
+Mage's Sword.MOD	OUTPUTNAME:Épée de force	DESC:.CLEAR	DESC:Lame d'énergie flottante qui frappe les adversaires.
+Holy Sword.MOD	OUTPUTNAME:Épée sainte	DESC:.CLEAR	DESC:L'arme devient +5 et inflige +2d6 points de dégâts contre le Mal.
+Good Hope.MOD	OUTPUTNAME:Espoir	DESC:.CLEAR	DESC:Les sujets bénéficient de +2 aux jets d'attaque, aux jets de dégâts, aux jets de sauvegarde et aux tests de compétences.
+Mind Blank.MOD	OUTPUTNAME:Esprit impénétrable	DESC:.CLEAR	DESC:Sujet immunisé contre les sorts mentaux et la scrutation.
+Gaseous Form.MOD	OUTPUTNAME:État gazeux	DESC:.CLEAR	DESC:Le sujet devient intangible et peut voler lentement.
+Awaken.MOD	OUTPUTNAME:Éveil	DESC:.CLEAR	DESC:Rend un animal ou un arbre intelligent.
+Slay Living.MOD	OUTPUTNAME:Exécution	DESC:.CLEAR	DESC:Attaque de contact qui inflige 12d6 points de dégâts +1 pts par niveau.
+Demand.MOD	OUTPUTNAME:Exigence	DESC:.CLEAR	DESC:Comme communication à distance, plus suggestion.
+Sunburst.MOD	OUTPUTNAME:Explosion de lumière	DESC:.CLEAR	DESC:Aveugle à moins de 3 m, 6d6 points de dégâts.
+Quench.MOD	OUTPUTNAME:Extinction des feux	DESC:.CLEAR	DESC:Éteint les feux.
+Fabricate.MOD	OUTPUTNAME:Fabrication	DESC:.CLEAR	DESC:Transforme les matières premières en produit fini.
+Stone Shape.MOD	OUTPUTNAME:Façonnage de la pierre	DESC:.CLEAR	DESC:Permet de modeler la pierre.
+Wood Shape.MOD	OUTPUTNAME:Façonnage du bois	DESC:.CLEAR	DESC:Permet de modeler le bois.
+Touch Of Fatigue.MOD	OUTPUTNAME:Fatigue	DESC:.CLEAR	DESC:Attaque de contact fatiguant la cible.
+Seeming.MOD	OUTPUTNAME:Faux-semblant	DESC:.CLEAR	DESC:Modifie l'aspect d'une personne tous les 2 niveaux.
+Divine Favor.MOD	OUTPUTNAME:Faveur divine	DESC:.CLEAR	DESC:Confère un bonus de +1 tous les 3 niveaux aux jets d'attaque et de dégâts.
+Heroes' Feast.MOD	OUTPUTNAME:Festin des héros	DESC:.CLEAR	DESC:Nourriture pour une créature/niveau ; confère des bonus au combat.
+Feather Fall.MOD	OUTPUTNAME:Feuille morte	DESC:.CLEAR	DESC:Ralentit la chute.
+Continual Flame.MOD	OUTPUTNAME:Flamme éternelle	DESC:.CLEAR	DESC:Torche permanente ne dégageant aucune chaleur.
+Produce Flame.MOD	OUTPUTNAME:Flammes	DESC:.CLEAR	DESC:1d6 points de dégâts, +1/niveau, contact ou lancer.
+Insect Plague.MOD	OUTPUTNAME:Fléau d'insectes	DESC:.CLEAR	DESC:Nuée de criquets attaquant des créatures.
+Acid Arrow.MOD	OUTPUTNAME:Flèche acide	DESC:.CLEAR	DESC:Attaque de contact à distance ; 2d4 points de dégâts pendant 1 round + 1 round/3 niveaux.
+Flame Arrow.MOD	OUTPUTNAME:Flèches enflammées	DESC:.CLEAR	DESC:Les flèches infligent 1d6 points de dégâts de feu.
+Blight.MOD	OUTPUTNAME:Flétrissement végétal	DESC:.CLEAR	DESC:Flétrit une plante ou inflige 1d6 points de dégâts/niveau à une créature végétale.
+Horrid Wilting.MOD	OUTPUTNAME:Flétrissure	DESC:.CLEAR	DESC:1d6 points de dégâts/niveau dans un rayon de 9 m.
+Blur.MOD	OUTPUTNAME:Flou	DESC:.CLEAR	DESC:Chaque attaque a 20 % de chances de rater la cible.
+Bull's Strength.MOD	OUTPUTNAME:Force de taureau	DESC:.CLEAR	DESC:Confère +4 en Force pendant 1 minute/niveau.
+Bull's Strength, Mass.MOD	OUTPUTNAME:Force de taureau de groupe	DESC:.CLEAR	DESC:Comme force de taureau, mais affecte un sujet/niveau.
+Righteous Might.MOD	OUTPUTNAME:Force du colosse	DESC:.CLEAR	DESC:Accroît la taille du PJ et lui confère des bonus au combat.
+Beast Shape I.MOD	OUTPUTNAME:Forme bestiale I	DESC:.CLEAR	DESC:Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille P ou M.
+Beast Shape II.MOD	OUTPUTNAME:Forme bestiale II	DESC:.CLEAR	DESC:Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille TP, P, M ou G.
+Beast Shape III.MOD	OUTPUTNAME:Forme bestiale III	DESC:.CLEAR	DESC:Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille Min, TP, P, M, G ou TG ou d'une créature magique de taille P ou M.
+Beast Shape IV.MOD	OUTPUTNAME:Forme bestiale IV	DESC:.CLEAR	DESC:Le lanceur de sorts adopte la forme et les pouvoirs d'un animal de taille Min, TP, P, M, G ou TG ou d'une créature magique de taille TP, P, M ou G.
+Tree Shape.MOD	OUTPUTNAME:Forme d'arbre	DESC:.CLEAR	DESC:Transforme le PJ en arbre pendant 1 heure/niveau.
+Giant Form I.MOD	OUTPUTNAME:Forme de géant I	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en géant de taille G.
+Giant Form II.MOD	OUTPUTNAME:Forme de géant II	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en géant TG.
+Ooze Shape I.MOD	OUTPUTNAME:Forme de vase I	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en vase de taille P ou M.
+Ooze Shape II.MOD	OUTPUTNAME:Forme de vase II	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en vase de taille G.
+Ooze Shape III.MOD	OUTPUTNAME:Forme de vase III	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en vase de taille TG.
+Form Of The Dragon I.MOD	OUTPUTNAME:Forme draconique I	DESC:.CLEAR	DESC:Transforme le lanceur de sorts en dragon de taille M.
+Form Of The Dragon II.MOD	OUTPUTNAME:Forme draconique II	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en dragon de taille G.
+Form Of The Dragon III.MOD	OUTPUTNAME:Forme draconique III	DESC:.CLEAR	DESC:Transforme le lanceur de sorts en dragon TG.
+Ethereal Jaunt.MOD	OUTPUTNAME:Forme éthérée	DESC:.CLEAR	DESC:Le PJ passe dans le plan Éthéré pour 1 round/niveau.
+Plant Shape I.MOD	OUTPUTNAME:Forme végétale I	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en plante de taille P ou M.
+Plant Shape II.MOD	OUTPUTNAME:Forme végétale II	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en plante de taille G.
+Plant Shape III.MOD	OUTPUTNAME:Forme végétale III	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en plante de taille G.
+Hideous Laughter.MOD	OUTPUTNAME:Fou rire	DESC:.CLEAR	DESC:La cible perd ses actions pendant 1 round/niveau.
+Shatter.MOD	OUTPUTNAME:Fracassement	DESC:.CLEAR	DESC:Endommage objets ou créatures cristallines.
+Cause Fear.MOD	OUTPUTNAME:Frayeur	DESC:.CLEAR	DESC:Une créature possédant 5 DV ou moins fuit pendant 1d4 rounds.
+Meld Into Stone.MOD	OUTPUTNAME:Fusion dans la pierre	DESC:.CLEAR	DESC:Permet d'entrer dans la pierre.
+Fire Seeds.MOD	OUTPUTNAME:Germes de feu	DESC:.CLEAR	DESC:Glands et baies deviennent des projectiles ou des bombes.
+Move Earth.MOD	OUTPUTNAME:Glissement de terrain	DESC:.CLEAR	DESC:Fait apparaître tranchées et collines.
+Globe Of Invulnerability, Lesser.MOD	OUTPUTNAME:Globe d'invulnérabilité partielle	DESC:.CLEAR	DESC:Bloque les sorts de 3e niveau ou moins.
+Globe Of Invulnerability.MOD	OUTPUTNAME:Globe d'invulnérabilité renforcée	DESC:.CLEAR	DESC:Comme globe d'invulnérabilité partielle, mais bloque aussi les sorts du 4e niveau.
+Glyph Of Warding.MOD	OUTPUTNAME:Glyphe de garde	DESC:.CLEAR	DESC:Inscription affectant ceux qui la touchent.
+Glyph Of Warding, Greater.MOD	OUTPUTNAME:Glyphe de garde suprême	DESC:.CLEAR	DESC:Comme glyphe de garde, mais avec un sort du 6e niveau ou des dégâts de 10d8 max.
+Shillelagh.MOD	OUTPUTNAME:Gourdin magique	DESC:.CLEAR	DESC:Transforme bâton ou gourdin en arme +1 (dégâts équivalent à une arme du même type de deux tailles supérieures) pendant 1 minute/niveau.
+Cat's Grace.MOD	OUTPUTNAME:Grâce féline	DESC:.CLEAR	DESC:Confère +4 en Dex pendant 1 minute/niveau.
+Cat's Grace, Mass.MOD	OUTPUTNAME:Grâce féline de groupe	DESC:.CLEAR	DESC:Comme grâce féline, mais affecte un sujet/niveau.
+Grease.MOD	OUTPUTNAME:Graisse	DESC:.CLEAR	DESC:Rend glissant un objet ou une zone (3 m de côté).
+Longstrider.MOD	OUTPUTNAME:Grand pas	DESC:.CLEAR	DESC:Augmente la vitesse de déplacement.
+Shambler.MOD	OUTPUTNAME:Grand tertre	DESC:.CLEAR	DESC:Appelle 1d4+2 tertres errants luttant pour le PJ.
+Heal Mount.MOD	OUTPUTNAME:Guérison de destrier	DESC:.CLEAR	DESC:Guérison suprême sur la monture du PJ.
+Remove Blindness/Deafness.MOD	OUTPUTNAME:Guérison de la cécité/surdité	DESC:.CLEAR	DESC:Soigne la cécité ou la surdité.
+Remove Disease.MOD	OUTPUTNAME:Guérison des maladies	DESC:.CLEAR	DESC:Guérit tous les maux du sujet.
+Heal.MOD	OUTPUTNAME:Guérison suprême	DESC:.CLEAR	DESC:Soigne 10 points de dégâts/niveau, les maladies et les troubles mentaux.
+Heal, Mass.MOD	OUTPUTNAME:Guérison suprême de groupe	DESC:.CLEAR	DESC:Comme guérison suprême, mais sur plusieurs sujets.
+Daze.MOD	OUTPUTNAME:Hébétement	DESC:.CLEAR	DESC:Fait perdre 1 action à un humanoïde de 4 DV ou moins.
+Daze Monster.MOD	OUTPUTNAME:Hébétement de monstre	DESC:.CLEAR	DESC:Une créature vivante de 6 DV ou moins perd sa prochaine action.
+Heroism.MOD	OUTPUTNAME:Héroïsme	DESC:.CLEAR	DESC:Confère +2 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence.
+Heroism, Greater.MOD	OUTPUTNAME:Héroïsme suprême	DESC:.CLEAR	DESC:Confère un bonus de +4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence ; immunité contre la terreur ; pv temporaires.
+Hypnotism.MOD	OUTPUTNAME:Hypnose	DESC:.CLEAR	DESC:Fascine 2d4 DV de créatures.
+Animal Trance.MOD	OUTPUTNAME:Hypnose des animaux	DESC:.CLEAR	DESC:Fascine 2d6 DV d'animaux.
+Identify.MOD	OUTPUTNAME:Identification	DESC:.CLEAR	DESC:Bonus de +10 pour identifier un objet magique.
+Touch Of Idiocy.MOD	OUTPUTNAME:Idiotie	DESC:.CLEAR	DESC:Le sujet perd 1d6 points d'Int, de Sag et de Cha.
+Flare.MOD	OUTPUTNAME:Illumination	DESC:.CLEAR	DESC:Éblouit la cible (-1 aux jets d'attaque).
+Major Image.MOD	OUTPUTNAME:Image accomplie	DESC:.CLEAR	DESC:Comme image silencieuse, plus sons, odeurs et température.
+Minor Image.MOD	OUTPUTNAME:Image imparfaite	DESC:.CLEAR	DESC:Comme image silencieuse, plus sons limités.
+Mirror Image.MOD	OUTPUTNAME:Image miroir	DESC:.CLEAR	DESC:Crée des doubles illusoires du PJ.
+Permanent Image.MOD	OUTPUTNAME:Image permanente	DESC:.CLEAR	DESC:Illusion permanente qui comprend les aspects visuels, sonores et olfactifs et de température.
+Persistent Image.MOD	OUTPUTNAME:Image prédéterminée	DESC:.CLEAR	DESC:Comme image accomplie, mais sans concentration.
+Programmed Image.MOD	OUTPUTNAME:Image programmée	DESC:.CLEAR	DESC:Comme image accomplie, mais déclenchée par condition.
+Silent Image.MOD	OUTPUTNAME:Image silencieuse	DESC:.CLEAR	DESC:Illusion visuelle mineure.
+Hold Animal.MOD	OUTPUTNAME:Immobilisation d'animal	DESC:.CLEAR	DESC:Immobilise un animal pour 1 round/niveau.
+Hold Monster.MOD	OUTPUTNAME:Immobilisation de monstre	DESC:.CLEAR	DESC:Immobilise n'importe quelle créature.
+Hold Monster, Mass.MOD	OUTPUTNAME:Immobilisation de monstre de groupe	DESC:.CLEAR	DESC:Comme immobilisation de monstre, mais sur 9 m de rayon.
+Halt Undead.MOD	OUTPUTNAME:Immobilisation de morts-vivants	DESC:.CLEAR	DESC:Stoppe les morts-vivants pendant 1 round/niveau.
+Hold Person.MOD	OUTPUTNAME:Immobilisation de personne	DESC:.CLEAR	DESC:Immobilise un humanoïde pendant 1 round/niveau.
+Hold Person, Mass.MOD	OUTPUTNAME:Immobilisation de personne de groupe	DESC:.CLEAR	DESC:Comme immobilisation de personne, mais dans un rayon de 9 m.
+Spell Immunity.MOD	OUTPUTNAME:Immunité contre les sorts	DESC:.CLEAR	DESC:Immunise le sujet contre 1 sort/4 niveaux.
+Spell Immunity, Greater.MOD	OUTPUTNAME:Immunité contre les sorts suprême	DESC:.CLEAR	DESC:Comme immunité contre les sorts, mais jusqu'au 8e niveau.
+Implosion.MOD	OUTPUTNAME:Implosion	DESC:.CLEAR	DESC:Inflige 10 pts de dégâts/niveau à une créature/round.
+Bane.MOD	OUTPUTNAME:Imprécation	DESC:.CLEAR	DESC:Les adversaires subissent -1 à l'attaque et aux jets de sauvegarde contre la terreur.
+Command.MOD	OUTPUTNAME:Injonction	DESC:.CLEAR	DESC:La cible obéit à un ordre d'un mot pendant 1 round.
+Command, Greater.MOD	OUTPUTNAME:Injonction suprême	DESC:.CLEAR	DESC:Comme injonction, mais affecte un sujet/niveau.
+Forbiddance.MOD	OUTPUTNAME:Interdiction	DESC:.CLEAR	DESC:Bloque les déplacements planaires, blesse les créatures d'un alignement différent.
+Reverse Gravity.MOD	OUTPUTNAME:Inversion de la gravité	DESC:.CLEAR	DESC:Objets et créatures tombent vers le haut.
+Invisibility.MOD	OUTPUTNAME:Invisibilité	DESC:.CLEAR	DESC:Sujet invisible pendant 1 minute/niveau ou jusqu'à ce qu'il attaque.
+Invisibility, Mass.MOD	OUTPUTNAME:Invisibilité de groupe	DESC:.CLEAR	DESC:Comme invisibilité, mais multiples sujets.
+Hide From Animals.MOD	OUTPUTNAME:Invisibilité pour les animaux	DESC:.CLEAR	DESC:Les animaux ne voient pas un sujet/niveau.
+Hide From Undead.MOD	OUTPUTNAME:Invisibilité pour les morts-vivants	DESC:.CLEAR	DESC:Les morts-vivants ne voient pas les sujets (1/niveau).
+Invisibility, Greater.MOD	OUTPUTNAME:Invisibilité suprême	DESC:.CLEAR	DESC:Comme invisibilité, mais continue quand le sujet attaque.
+Instant Summons.MOD	OUTPUTNAME:Invocation instantanée	DESC:.CLEAR	DESC:L'objet préparé apparaît dans la main du PJ.
+Flame Blade.MOD	OUTPUTNAME:Lame de feu	DESC:.CLEAR	DESC:Attaque de contact infligeant 1d8 points de dégâts, +1/2 niveaux.
+Read Magic.MOD	OUTPUTNAME:Lecture de la magie	DESC:.CLEAR	DESC:Permet de lire parchemins et livres de sorts.
+Slow.MOD	OUTPUTNAME:Lenteur	DESC:.CLEAR	DESC:1 cible/niveau n'a droit qu'à une action/round, -1 à la CA et aux jets d'attaque, de dégâts et de Réflexes.
+False Vision.MOD	OUTPUTNAME:Leurre	DESC:.CLEAR	DESC:Illusion abusant la scrutation magique.
+Levitate.MOD	OUTPUTNAME:Lévitation	DESC:.CLEAR	DESC:La cible monte ou descend au gré du PJ.
+Freedom Of Movement.MOD	OUTPUTNAME:Liberté de mouvement	DESC:.CLEAR	DESC:La cible bouge normalement malgré les entraves.
+Telepathic Bond.MOD	OUTPUTNAME:Lien télépathique	DESC:.CLEAR	DESC:Permet de communiquer mentalement.
+Locate Creature.MOD	OUTPUTNAME:Localisation de créature	DESC:.CLEAR	DESC:Indique la direction d'une créature connue.
+Locate Object.MOD	OUTPUTNAME:Localisation d'objet	DESC:.CLEAR	DESC:Indique la direction de l'objet cherché.
+Discern Location.MOD	OUTPUTNAME:Localisation suprême	DESC:.CLEAR	DESC:Localise précisément une créature ou un objet.
+Rainbow Pattern.MOD	OUTPUTNAME:Lueur d'arc-en-ciel	DESC:.CLEAR	DESC:Fascine jusqu'à 24 DV de créatures.
+Faerie Fire.MOD	OUTPUTNAME:Lueur féerique	DESC:.CLEAR	DESC:Illumine le sujet (annule flou, camouflage, etc.).
+Hypnotic Pattern.MOD	OUTPUTNAME:Lueurs hypnotiques	DESC:.CLEAR	DESC:Fascine (2d4 + niveau) DV de créatures.
+Light.MOD	OUTPUTNAME:Lumière	DESC:.CLEAR	DESC:Fait briller un objet comme une torche.
+Searing Light.MOD	OUTPUTNAME:Lumière brûlante	DESC:.CLEAR	DESC:1d8 points de dégâts/2 niveaux ; plus contre les morts-vivants.
+Daylight.MOD	OUTPUTNAME:Lumière du jour	DESC:.CLEAR	DESC:Vive lumière sur 18 m de rayon.
+Dancing Lights.MOD	OUTPUTNAME:Lumières dansantes	DESC:.CLEAR	DESC:Crée torches ou autres lueurs.
+Shadow Evocation.MOD	OUTPUTNAME:Magie des ombres	DESC:.CLEAR	DESC:Reproduit les évocations de 4e niveau ou moins ; 20 % sont réelles.
+Shadow Evocation, Greater.MOD	OUTPUTNAME:Magie des ombres suprême	DESC:.CLEAR	DESC:Comme magie des ombres, mais jusqu'au 7e niveau ; 60 % sont réelles.
+Crushing Hand.MOD	OUTPUTNAME:Main broyeuse	DESC:.CLEAR	DESC:Main géante qui abrite, pousse ou attaque.
+Helping Hand.MOD	OUTPUTNAME:Main du berger	DESC:.CLEAR	DESC:Guide le sujet jusqu'au PJ.
+Forceful Hand.MOD	OUTPUTNAME:Main impérieuse	DESC:.CLEAR	DESC:Main repoussant les adversaires.
+Interposing Hand.MOD	OUTPUTNAME:Main interposée	DESC:.CLEAR	DESC:Abri contre un adversaire.
+Spectral Hand.MOD	OUTPUTNAME:Main spectrale	DESC:.CLEAR	DESC:Main désincarnée portant des attaques de contact.
+Burning Hands.MOD	OUTPUTNAME:Mains brûlantes	DESC:.CLEAR	DESC:1d4 points de dégâts de feu/niveau (max. 5d4).
+Bestow Curse.MOD	OUTPUTNAME:Malédiction	DESC:.CLEAR	DESC:-6 à une caractéristique, -4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence, ou 50 % de chances de perdre chaque action.
+Curse Water.MOD	OUTPUTNAME:Malédiction de l'eau	DESC:.CLEAR	DESC:Crée de l'eau maudite.
+Mage Hand.MOD	OUTPUTNAME:Manipulation à distance	DESC:.CLEAR	DESC:Télékinésie limitée (2,5 kg max.).
+Sculpt Sound.MOD	OUTPUTNAME:Manipulation des sons	DESC:.CLEAR	DESC:Altère les sons ou en crée de nouveaux.
+Mage's Magnificent Mansion.MOD	OUTPUTNAME:Manoir somptueux	DESC:.CLEAR	DESC:Demeure extradimensionnelle.
+Cloak Of Chaos.MOD	OUTPUTNAME:Manteau du Chaos	DESC:.CLEAR	DESC:+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts de la Loi.
+Air Walk.MOD	OUTPUTNAME:Marche dans les airs	DESC:.CLEAR	DESC:Le sujet marche dans les airs comme sur la terre ferme.
+Water Walk.MOD	OUTPUTNAME:Marche sur l'onde	DESC:.CLEAR	DESC:Permet de marcher sur l'eau.
+Mark Of Justice.MOD	OUTPUTNAME:Marque de la justice	DESC:.CLEAR	DESC:Définit une condition maudissant la cible.
+Chaos Hammer.MOD	OUTPUTNAME:Marteau du chaos	DESC:.CLEAR	DESC:Blesse et ralentit les créatures Loyales (1d8 pts de dégâts/2 niveaux).
+Eyebite.MOD	OUTPUTNAME:Mauvais œil	DESC:.CLEAR	DESC:Cible paniquée, fiévreuse et comateuse.
+Mnemonic Enhancer.MOD	OUTPUTNAME:Mémorisation	DESC:.CLEAR	DESC:Permet de préparer des sorts supplémentaires ou d'en récupérer un que l'on vient de lancer. Magiciens uniquement.
+Message.MOD	OUTPUTNAME:Message	DESC:.CLEAR	DESC:Conversation à distance.
+Animal Messenger.MOD	OUTPUTNAME:Messager animal	DESC:.CLEAR	DESC:Envoie un animal de taille TP en un lieu donné.
+Heat Metal.MOD	OUTPUTNAME:Métal brûlant	DESC:.CLEAR	DESC:Chauffe le métal et inflige des dégâts à qui le touche.
+Chill Metal.MOD	OUTPUTNAME:Métal gelé	DESC:.CLEAR	DESC:Gèle le métal et inflige des dégâts à qui le touche.
+Polymorph.MOD	OUTPUTNAME:Métamorphose	DESC:.CLEAR	DESC:Change la forme du sujet.
+Animal Shapes.MOD	OUTPUTNAME:Métamorphose animale	DESC:.CLEAR	DESC:Un allié/niveau se transforme en un animal choisi.
+Baleful Polymorph.MOD	OUTPUTNAME:Métamorphose funeste	DESC:.CLEAR	DESC:Transforme le sujet en animal inoffensif.
+Polymorph, Greater.MOD	OUTPUTNAME:Métamorphose suprême	DESC:.CLEAR	DESC:Donne une nouvelle forme, plus puissante, à une cible consentante.
+Polymorph Any Object.MOD	OUTPUTNAME:Métamorphose universelle	DESC:.CLEAR	DESC:Transforme n'importe quoi en n'importe quoi d'autre.
+Miracle.MOD	OUTPUTNAME:Miracle	DESC:.CLEAR	DESC:Demande l'aide du dieu.
+Mirage Arcana.MOD	OUTPUTNAME:Mirage	DESC:.CLEAR	DESC:Comme terrain hallucinatoire, plus structures artificielles.
+Harm.MOD	OUTPUTNAME:Mise à mal	DESC:.CLEAR	DESC:Inflige 10 points de dégâts/niveau.
+Death Knell.MOD	OUTPUTNAME:Mise à mort	DESC:.CLEAR	DESC:Achève une créature mourante ; le PJ gagne temporairement 1d8 pv, +2 en Force et +1 niveau de lanceur de sorts.
+Geas/Quest.MOD	OUTPUTNAME:Mission	DESC:.CLEAR	DESC:Assigne une tâche à une cible de 7 DV ou moins.
+Alter Self.MOD	OUTPUTNAME:Modification d'apparence	DESC:.CLEAR	DESC:Permet d'adopter la forme d'une créature de taille P ou M.
+Modify Memory.MOD	OUTPUTNAME:Modification de mémoire	DESC:.CLEAR	DESC:Change cinq minutes de souvenirs de la cible.
+Moment Of Prescience.MOD	OUTPUTNAME:Moment de prescience	DESC:.CLEAR	DESC:Bonus d'intuition sur un jet d'attaque, un test ou un jet de sauvegarde.
+Mount.MOD	OUTPUTNAME:Monture	DESC:.CLEAR	DESC:Appelle un cheval pendant 2 heures/niveau.
+Magic Fang.MOD	OUTPUTNAME:Morsure magique	DESC:.CLEAR	DESC:Une arme naturelle du sujet gagne +1 aux jets d'attaque et de dégâts.
+Magic Fang, Greater.MOD	OUTPUTNAME:Morsure magique suprême	DESC:.CLEAR	DESC:Une arme naturelle du sujet gagne +1 à l'attaque et aux dégâts/3 niveaux (max. +5).
+Creeping Doom.MOD	OUTPUTNAME:Mort rampante	DESC:.CLEAR	DESC:Nuée de mille-pattes tuant tout sur son passage.
+Power Word Blind.MOD	OUTPUTNAME:Mot de pouvoir aveuglant	DESC:.CLEAR	DESC:Aveugle jusqu'à 200 pv de créatures.
+Power Word Stun.MOD	OUTPUTNAME:Mot de pouvoir étourdissant	DESC:.CLEAR	DESC:Étourdit une créature de 150 pv ou moins.
+Power Word Kill.MOD	OUTPUTNAME:Mot de pouvoir mortel	DESC:.CLEAR	DESC:Tue un adversaire doté de 100 pv ou moins.
+Word Of Recall.MOD	OUTPUTNAME:Mot de rappel	DESC:.CLEAR	DESC:Téléporte le PJ à un endroit choisi à l'avance.
+Scintillating Pattern.MOD	OUTPUTNAME:Motif scintillant	DESC:.CLEAR	DESC:Les couleurs frappent de confusion, d'étourdissement ou d'inconscience.
+Wall Of Iron.MOD	OUTPUTNAME:Mur de fer	DESC:.CLEAR	DESC:30 pv/4 niveaux ; peut s'effondrer sur les adversaires.
+Wall Of Fire.MOD	OUTPUTNAME:Mur de feu	DESC:.CLEAR	DESC:2d4 points de dégâts à moins de 3 m, 1d4 à moins de 6 m ; 2d6 points de dégâts, +1/niveau, en cas de traversée.
+Wall Of Force.MOD	OUTPUTNAME:Mur de force	DESC:.CLEAR	DESC:Mur immunisé contre les dégâts.
+Wall Of Ice.MOD	OUTPUTNAME:Mur de glace	DESC:.CLEAR	DESC:Crée un mur ou un hémisphère de glace.
+Wall Of Stone.MOD	OUTPUTNAME:Mur de pierre	DESC:.CLEAR	DESC:Crée un mur qui peut être façonné.
+Wind Wall.MOD	OUTPUTNAME:Mur de vent	DESC:.CLEAR	DESC:Détourne projectiles, gaz et créatures de taille modeste.
+Wall Of Thorns.MOD	OUTPUTNAME:Mur d'épines	DESC:.CLEAR	DESC:Épines blessant quiconque tente de passer.
+Illusory Wall.MOD	OUTPUTNAME:Mur illusoire	DESC:.CLEAR	DESC:Mur, plancher ou plafond illusoire.
+Prismatic Wall.MOD	OUTPUTNAME:Mur prismatique	DESC:.CLEAR	DESC:Mur à effets magiques variés.
+Legend Lore.MOD	OUTPUTNAME:Mythes et légendes	DESC:.CLEAR	DESC:Révèle l'histoire d'un lieu, d'un individu ou d'un objet.
+Fog Cloud.MOD	OUTPUTNAME:Nappe de brouillard	DESC:.CLEAR	DESC:Brume gênant la visibilité.
+Invisibility Purge.MOD	OUTPUTNAME:Négation de l'invisibilité	DESC:.CLEAR	DESC:Dissipe l'invisibilité sur 1,50 m/niveau.
+Neutralize Poison.MOD	OUTPUTNAME:Neutralisation du poison	DESC:.CLEAR	DESC:Rend le poison inoffensif.
+Incendiary Cloud.MOD	OUTPUTNAME:Nuage incendiaire	DESC:.CLEAR	DESC:Nuage infligeant 6d6 points de dégâts de feu/round.
+Stinking Cloud.MOD	OUTPUTNAME:Nuage nauséabond	DESC:.CLEAR	DESC:Vapeurs nocives, 1 round/niveau.
+Meteor Swarm.MOD	OUTPUTNAME:Nuée de météores	DESC:.CLEAR	DESC:Quatre sphères explosives infligeant 6d6 points de dégâts de feu chacune.
+Elemental Swarm.MOD	OUTPUTNAME:Nuée d'élémentaires	DESC:.CLEAR	DESC:Appelle plusieurs élémentaires.
+Summon Swarm.MOD	OUTPUTNAME:Nuée grouillante	DESC:.CLEAR	DESC:Convoque une nuée de chauves-souris, de rats ou d'araignées.
+Arcane Eye.MOD	OUTPUTNAME:Œil du mage	DESC:.CLEAR	DESC:Œil invisible avançant de 9 m/round.
+Prying Eyes.MOD	OUTPUTNAME:Œil indiscret	DESC:.CLEAR	DESC:1d4 yeux flottants, +1/niveau, servant d'éclaireurs.
+Prying Eyes, Greater.MOD	OUTPUTNAME:Œil indiscret suprême	DESC:.CLEAR	DESC:Comme œil indiscret, les yeux bénéficiant d'une vision lucide.
+Find The Path.MOD	OUTPUTNAME:Orientation	DESC:.CLEAR	DESC:Indique comment se rendre à l'endroit choisi.
+Open/Close.MOD	OUTPUTNAME:Ouverture/fermeture	DESC:.CLEAR	DESC:Ouvre ou ferme portes, fenêtres ou objets.
+Secret Page.MOD	OUTPUTNAME:Page secrète	DESC:.CLEAR	DESC:Modifie une page pour cacher son contenu.
+Magic Vestment.MOD	OUTPUTNAME:Panoplie magique	DESC:.CLEAR	DESC:Armure ou bouclier gagne un bonus d'altération de +1/4 niveaux.
+Word Of Chaos.MOD	OUTPUTNAME:Parole du Chaos	DESC:.CLEAR	DESC:Tue, cause la confusion, étourdit ou assourdit les cibles non-Chaotiques.
+Holy Word.MOD	OUTPUTNAME:Parole sacrée	DESC:.CLEAR	DESC:Tue, paralyse, aveugle ou assourdit les cibles non-Bonnes.
+Etherealness.MOD	OUTPUTNAME:Passage dans l'éther	DESC:.CLEAR	DESC:Emmène plusieurs créatures dans le plan Éthéré.
+Pass Without Trace.MOD	OUTPUTNAME:Passage sans traces	DESC:.CLEAR	DESC:Les sujets (1/niveau) ne laissent pas de traces.
+Passwall.MOD	OUTPUTNAME:Passe-muraille	DESC:.CLEAR	DESC:Permet de se tailler un chemin au travers du bois ou de la pierre.
+Spider Climb.MOD	OUTPUTNAME:Pattes d'araignée	DESC:.CLEAR	DESC:Permet de grimper aux murs.
+Stoneskin.MOD	OUTPUTNAME:Peau de pierre	DESC:.CLEAR	DESC:RD 10/adamantium.
+Barkskin.MOD	OUTPUTNAME:Peau d'écorce	DESC:.CLEAR	DESC:Confère un bonus d'armure naturelle de +2 (ou plus).
+Atonement.MOD	OUTPUTNAME:Pénitence	DESC:.CLEAR	DESC:Permet au sujet d'expier ses fautes.
+Deathwatch.MOD	OUTPUTNAME:Perception de la mort	DESC:.CLEAR	DESC:Révèle l'état de santé des créatures à 9 m à la ronde.
+Permanency.MOD	OUTPUTNAME:Permanence	DESC:.CLEAR	DESC:Rend certains sorts permanents.
+Flesh To Stone.MOD	OUTPUTNAME:Pétrification	DESC:.CLEAR	DESC:Transforme la cible en statue.
+Fire Trap.MOD	OUTPUTNAME:Piège à feu	DESC:.CLEAR	DESC:L'objet piégé inflige 1d4 points de dégâts, +1/niveau.
+Phantom Trap.MOD	OUTPUTNAME:Piège illusoire	DESC:.CLEAR	DESC:Confère l'impression qu'un objet est piégé.
+Magic Stone.MOD	OUTPUTNAME:Pierre magique	DESC:.CLEAR	DESC:Trois projectiles ; +1 à l'attaque, 1d6+1 points de dégâts.
+Spike Stones.MOD	OUTPUTNAME:Pierres acérées	DESC:.CLEAR	DESC:1d8 points de dégâts, lenteur possible.
+Stone Tell.MOD	OUTPUTNAME:Pierres commères	DESC:.CLEAR	DESC:Permet de communiquer avec la pierre.
+Wail Of The Banshee.MOD	OUTPUTNAME:Plainte d'outre-tombe	DESC:.CLEAR	DESC:Inflige 10 points de dégâts/niveau à une créature/niveau.
+Grasping Hand.MOD	OUTPUTNAME:Poigne agrippeuse	DESC:.CLEAR	DESC:Main géante qui abrite, pousse ou agrippe.
+Clenched Fist.MOD	OUTPUTNAME:Poing serré	DESC:.CLEAR	DESC:Main géante qui abrite, pousse ou attaque.
+Gate.MOD	OUTPUTNAME:Portail	DESC:.CLEAR	DESC:Relie deux plans pour se déplacer ou appeler une entité.
+Phase Door.MOD	OUTPUTNAME:Porte de phase	DESC:.CLEAR	DESC:Passage invisible au travers du bois ou de la pierre.
+Dimension Door.MOD	OUTPUTNAME:Porte dimensionnelle	DESC:.CLEAR	DESC:Téléporte le PJ sur une courte distance.
+Magic Jar.MOD	OUTPUTNAME:Possession	DESC:.CLEAR	DESC:Permet de s'emparer du corps d'un autre.
+Glitterdust.MOD	OUTPUTNAME:Poussière scintillante	DESC:.CLEAR	DESC:Aveugle, révèle la position des créatures invisibles.
+Foresight.MOD	OUTPUTNAME:Prémonition	DESC:.CLEAR	DESC:Sixième sens avertissant le PJ en cas de danger.
+Gentle Repose.MOD	OUTPUTNAME:Préservation des morts	DESC:.CLEAR	DESC:Préserve un cadavre.
+Prestidigitation.MOD	OUTPUTNAME:Prestidigitation	DESC:.CLEAR	DESC:Tours de passe-passe.
+Contingency.MOD	OUTPUTNAME:Prévoyance	DESC:.CLEAR	DESC:Déclenche un autre sort sous condition.
+Prayer.MOD	OUTPUTNAME:Prière	DESC:.CLEAR	DESC:+1 pour les alliés à presque tous les jets, -1 pour les adversaires.
+Desecrate.MOD	OUTPUTNAME:Profanation	DESC:.CLEAR	DESC:Rend les morts-vivants plus forts au sein d'une zone.
+Magic Missile.MOD	OUTPUTNAME:Projectile magique	DESC:.CLEAR	DESC:1d4+1 points de dégâts, +1 projectile tous les 2 niveaux au-delà de 1 (max. 5).
+Astral Projection.MOD	OUTPUTNAME:Projection astrale	DESC:.CLEAR	DESC:Emmène le PJ et ses compagnons dans le plan Astral.
+Project Image.MOD	OUTPUTNAME:Projection d'image	DESC:.CLEAR	DESC:Double illusoire pouvant parler et lancer des sorts.
+Protection From Law.MOD	OUTPUTNAME:Protection contre la Loi	DESC:.CLEAR	DESC:+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+Death Ward.MOD	OUTPUTNAME:Protection contre la mort	DESC:.CLEAR	DESC:Confère une immunité contre les sorts de mort et les effets d'énergie négative.
+Protection From Good.MOD	OUTPUTNAME:Protection contre le Bien	DESC:.CLEAR	DESC:+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+Protection From Chaos.MOD	OUTPUTNAME:Protection contre le Chaos	DESC:.CLEAR	DESC:+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+Protection From Evil.MOD	OUTPUTNAME:Protection contre le Mal	DESC:.CLEAR	DESC:+2 à la CA et aux jets de sauvegarde, protection supplémentaire contre l'alignement choisi.
+Protection From Energy.MOD	OUTPUTNAME:Protection contre les énergies destructives	DESC:.CLEAR	DESC:Absorbe 12 points de dégâts/niveau infligés par le type d'énergie choisi.
+Protection From Arrows.MOD	OUTPUTNAME:Protection contre les projectiles	DESC:.CLEAR	DESC:La cible gagne RD 10/magie contre les attaques à distance.
+Protection From Spells.MOD	OUTPUTNAME:Protection contre les sorts	DESC:.CLEAR	DESC:Confère un bonus de résistance de +8.
+Shield Other.MOD	OUTPUTNAME:Protection d'autrui	DESC:.CLEAR	DESC:Le PJ subit 1/2 dégâts à la place du sujet.
+Divine Power.MOD	OUTPUTNAME:Puissance divine	DESC:.CLEAR	DESC:Bonus à l'attaque et +1 pv/niveau.
+Purify Food And Drink.MOD	OUTPUTNAME:Purification de nourriture et d'eau	DESC:.CLEAR	DESC:Purifie 30 dm³/niveau de nourriture et d'eau.
+Pyrotechnics.MOD	OUTPUTNAME:Pyrotechnie	DESC:.CLEAR	DESC:Transforme un feu en fumée étouffante ou en lumière aveuglante.
+Geas/Quest.MOD	OUTPUTNAME:Quête	DESC:.CLEAR	DESC:Comme mission, mais affecte n'importe quelle créature.
+Diminish Plants.MOD	OUTPUTNAME:Rabougrissement des plantes	DESC:.CLEAR	DESC:Réduit la taille des plantes ou empêche leur croissance.
+Rage.MOD	OUTPUTNAME:Rage	DESC:.CLEAR	DESC:Confère +2 en For et en Con, +1 aux jets de Vol, -2 à la CA.
+Delay Poison.MOD	OUTPUTNAME:Ralentissement du poison	DESC:.CLEAR	DESC:Neutralise le poison pendant 1 heure/niveau.
+Soften Earth And Stone.MOD	OUTPUTNAME:Ramollissement de la terre et de la pierre	DESC:.CLEAR	DESC:Transforme la pierre en argile et la terre en sable ou en boue.
+Reduce Person.MOD	OUTPUTNAME:Rapetissement	DESC:.CLEAR	DESC:Réduit la taille d'un humanoïde de moitié.
+Reduce Animal.MOD	OUTPUTNAME:Rapetissement d'animal	DESC:.CLEAR	DESC:Réduit la taille d'un animal consentant.
+Reduce Person, Mass.MOD	OUTPUTNAME:Rapetissement de groupe	DESC:.CLEAR	DESC:Réduit la taille de plusieurs créatures.
+Haste.MOD	OUTPUTNAME:Rapidité	DESC:.CLEAR	DESC:Une créature/niveau se déplace plus rapidement, +1 aux jets d'attaque, à la CA et aux jets de Réflexes.
+Raise Dead.MOD	OUTPUTNAME:Rappel à la vie	DESC:.CLEAR	DESC:Ressuscite quelqu'un mort depuis 1 jour/niveau max.
+Status.MOD	OUTPUTNAME:Rapport	DESC:.CLEAR	DESC:Indique où se trouvent les alliés et quel est leur état.
+Ray Of Enfeeblement.MOD	OUTPUTNAME:Rayon affaiblissant	DESC:.CLEAR	DESC:La cible perd 1d6 points de For, +1/2 niveaux.
+Scorching Ray.MOD	OUTPUTNAME:Rayon ardent	DESC:.CLEAR	DESC:Attaque à distance infligeant 4d6 points de dégâts de feu, +1 rayon/4 niveaux (max. 3).
+Ray Of Frost.MOD	OUTPUTNAME:Rayon de givre	DESC:.CLEAR	DESC:Rayon infligeant 1d3 points de dégâts.
+Sunbeam.MOD	OUTPUTNAME:Rayon de soleil	DESC:.CLEAR	DESC:Aveugle et inflige 4d6 points de dégâts.
+Ray Of Exhaustion.MOD	OUTPUTNAME:Rayon d'épuisement	DESC:.CLEAR	DESC:Un rayon épuise la cible.
+Polar Ray.MOD	OUTPUTNAME:Rayon polaire	DESC:.CLEAR	DESC:Attaque de contact à distance infligeant 1d6 points de dégâts de froid/niveau et 1d4 point de réduction permanente de Dextérité.
+Prismatic Spray.MOD	OUTPUTNAME:Rayons prismatiques	DESC:.CLEAR	DESC:Rayons magiques à effets variés.
+Shrink Item.MOD	OUTPUTNAME:Réduction d'objet	DESC:.CLEAR	DESC:Réduit un objet (1/16e de sa taille initiale).
+Shades.MOD	OUTPUTNAME:Reflets d'ombre	DESC:.CLEAR	DESC:Comme convocation d'ombres, mais jusqu'au 8e niveau ; 80 % sont réelles.
+Refuge.MOD	OUTPUTNAME:Refuge	DESC:.CLEAR	DESC:Enchante un objet pour ramener son possesseur jusqu'au PJ.
+Secure Shelter.MOD	OUTPUTNAME:Refuge du mage	DESC:.CLEAR	DESC:Crée une solide maisonnette.
+Remove Fear.MOD	OUTPUTNAME:Regain d'assurance	DESC:.CLEAR	DESC:+4 aux jets de sauvegarde contre la terreur (un sujet, +1/4 niveaux).
+Regenerate.MOD	OUTPUTNAME:Régénération	DESC:.CLEAR	DESC:Fait repousser les membres tranchés, rend 4d8 points de vie, +1/niveau (max. +35).
+Reincarnate.MOD	OUTPUTNAME:Réincarnation	DESC:.CLEAR	DESC:Ramène le sujet à la vie, mais dans un autre corps.
+Dispel Law.MOD	OUTPUTNAME:Rejet de la Loi	DESC:.CLEAR	DESC:Bonus de +4 contre les attaques.
+Dispel Good.MOD	OUTPUTNAME:Rejet du Bien	DESC:.CLEAR	DESC:Bonus de +4 contre les attaques.
+Dispel Chaos.MOD	OUTPUTNAME:Rejet du Chaos	DESC:.CLEAR	DESC:Bonus de +4 contre les attaques.
+Dispel Evil.MOD	OUTPUTNAME:Rejet du Mal	DESC:.CLEAR	DESC:Bonus de +4 contre les attaques.
+Mage's Lucubration.MOD	OUTPUTNAME:Remémoration	DESC:.CLEAR	DESC:Permet de se rappeler d'un sort du 5e niveau ou moins. Magiciens uniquement
+Dismissal.MOD	OUTPUTNAME:Renvoi	DESC:.CLEAR	DESC:Force une créature à repartir dans son plan d'origine.
+Spell Turning.MOD	OUTPUTNAME:Renvoi des sorts	DESC:.CLEAR	DESC:Retourne 1d4+6 niveaux de sorts à l'envoyeur.
+Mending.MOD	OUTPUTNAME:Réparation	DESC:.CLEAR	DESC:Répare sommairement un objet.
+Make Whole.MOD	OUTPUTNAME:Réparation intégrale	DESC:.CLEAR	DESC:Répare totalement un objet.
+Know Direction.MOD	OUTPUTNAME:Repérage	DESC:.CLEAR	DESC:Le PJ sait où se trouve le nord.
+Expeditious Retreat.MOD	OUTPUTNAME:Repli expéditif	DESC:.CLEAR	DESC:Augmente la vitesse de déplacement de 9 m.
+Repel Vermin.MOD	OUTPUTNAME:Répulsif	DESC:.CLEAR	DESC:Les insectes, araignées et autres vermines restent à 3 m du PJ.
+Resistance.MOD	OUTPUTNAME:Résistance	DESC:.CLEAR	DESC:Confère +1 aux jets de sauvegarde.
+Spell Resistance.MOD	OUTPUTNAME:Résistance à la magie	DESC:.CLEAR	DESC:Le sujet gagne une RM de 12, +1/niveau.
+Resist Energy.MOD	OUTPUTNAME:Résistance aux énergies destructives	DESC:.CLEAR	DESC:Protège contre la forme d'énergie choisie à raison de 10 (ou plus) points de dégâts/attaque.
+Sympathetic Vibration.MOD	OUTPUTNAME:Résonance	DESC:.CLEAR	DESC:Inflige 2d10 points de dégâts/round aux constructions.
+Water Breathing.MOD	OUTPUTNAME:Respiration aquatique	DESC:.CLEAR	DESC:Permet de respirer sous l'eau.
+Restoration.MOD	OUTPUTNAME:Restauration	DESC:.CLEAR	DESC:Rend niveaux et points de caractéristique perdus.
+Restoration, Lesser.MOD	OUTPUTNAME:Restauration partielle	DESC:.CLEAR	DESC:Dissipe effets magiques affaiblissants ou rend 1d4 points de caractéristique perdus.
+Restoration, Greater.MOD	OUTPUTNAME:Restauration suprême	DESC:.CLEAR	DESC:Comme restauration, mais rend tous les niveaux et points de caractéristique perdus.
+Resurrection.MOD	OUTPUTNAME:Résurrection	DESC:.CLEAR	DESC:Ramène un mort à la vie.
+True Resurrection.MOD	OUTPUTNAME:Résurrection suprême	DESC:.CLEAR	DESC:Comme résurrection, sans avoir besoin du corps.
+Rusting Grasp.MOD	OUTPUTNAME:Rouille	DESC:.CLEAR	DESC:Fait rouiller le métal d'un simple contact.
+Explosive Runes.MOD	OUTPUTNAME:Runes explosives	DESC:.CLEAR	DESC:6d6 points de dégâts à qui les lit.
+Fox's Cunning.MOD	OUTPUTNAME:Ruse du renard	DESC:.CLEAR	DESC:Confère +4 en Int pendant 1 minute/niveau.
+Fox's Cunning, Mass.MOD	OUTPUTNAME:Ruse du renard de groupe	DESC:.CLEAR	DESC:Comme ruse du renard, mais affecte un sujet/niveau.
+Owl's Wisdom.MOD	OUTPUTNAME:Sagesse du hibou	DESC:.CLEAR	DESC:Confère +4 en Sag pendant 1 minute/niveau.
+Owl's Wisdom, Mass.MOD	OUTPUTNAME:Sagesse du hibou de groupe	DESC:.CLEAR	DESC:Comme sagesse du hibou, mais affecte un sujet/niveau.
+Bleed.MOD	OUTPUTNAME:Saignement	DESC:.CLEAR	DESC:Une créature stabilisée agonise à nouveau.
+Hallow.MOD	OUTPUTNAME:Sanctification	DESC:.CLEAR	DESC:Rend un site sacré.
+Unhallow.MOD	OUTPUTNAME:Sanctification maléfique	DESC:.CLEAR	DESC:Rend un site maudit.
+Sanctuary.MOD	OUTPUTNAME:Sanctuaire	DESC:.CLEAR	DESC:Les adversaires ne peuvent pas attaquer le PJ, et inversement.
+Mage's Private Sanctum.MOD	OUTPUTNAME:Sanctuaire secret	DESC:.CLEAR	DESC:Empêche quiconque d'observer ou de scruter une zone pendant 24 heures.
+Jump.MOD	OUTPUTNAME:Saut	DESC:.CLEAR	DESC:Confère un bonus aux tests d'Acrobaties.
+Sepia Snake Sigil.MOD	OUTPUTNAME:Sceau du serpent	DESC:.CLEAR	DESC:Crée un symbole immobilisant le lecteur.
+Scrying.MOD	OUTPUTNAME:Scrutation	DESC:.CLEAR	DESC:Permet d'espionner le sujet à distance.
+Scrying, Greater.MOD	OUTPUTNAME:Scrutation suprême	DESC:.CLEAR	DESC:Comme scrutation, mais plus rapidement et plus longtemps.
+Trap The Soul.MOD	OUTPUTNAME:Séquestration	DESC:.CLEAR	DESC:Emprisonne la cible dans une gemme.
+Unseen Servant.MOD	OUTPUTNAME:Serviteur invisible	DESC:.CLEAR	DESC:Force invisible obéissant au PJ.
+Arcane Mark.MOD	OUTPUTNAME:Signature magique	DESC:.CLEAR	DESC:Inscrit la rune personnelle du PJ (visible ou non).
+Silence.MOD	OUTPUTNAME:Silence	DESC:.CLEAR	DESC:Étouffe tout bruit dans un rayon de 4,50 m.
+Simulacrum.MOD	OUTPUTNAME:Simulacre	DESC:.CLEAR	DESC:Crée un double partiellement réel du sujet.
+False Life.MOD	OUTPUTNAME:Simulacre de vie	DESC:.CLEAR	DESC:Confère 1d10 pv temporaires, +1/niveau (max. +10).
+Cure Serious Wounds.MOD	OUTPUTNAME:Soins importants	DESC:.CLEAR	DESC:Rend 3d8 pv au sujet, +1/niveau (max. +15).
+Cure Serious Wounds, Mass.MOD	OUTPUTNAME:Soins importants de groupe	DESC:.CLEAR	DESC:Rend 3d8 pv +1/niveau à une créature/niveau.
+Cure Critical Wounds.MOD	OUTPUTNAME:Soins intensifs	DESC:.CLEAR	DESC:Rend 4d8 pv au sujet, +1/niveau (max. +20).
+Cure Critical Wounds, Mass.MOD	OUTPUTNAME:Soins intensifs de groupe	DESC:.CLEAR	DESC:Rend 4d8 pv +1/niveau à une créature/niveau.
+Cure Light Wounds.MOD	OUTPUTNAME:Soins légers	DESC:.CLEAR	DESC:Rend 1d8 pv au sujet, +1/niveau (max. +5).
+Cure Light Wounds, Mass.MOD	OUTPUTNAME:Soins légers de groupe	DESC:.CLEAR	DESC:Rend 1d8 pv+1/niveau à une créature/niveau.
+Cure Moderate Wounds.MOD	OUTPUTNAME:Soins modérés	DESC:.CLEAR	DESC:Rend 2d8 pv au sujet, +1/niveau (max. +10).
+Cure Moderate Wounds, Mass.MOD	OUTPUTNAME:Soins modérés de groupe	DESC:.CLEAR	DESC:Rend 2d8 pv +1/niveau à une créature/niveau.
+Sleep.MOD	OUTPUTNAME:Sommeil	DESC:.CLEAR	DESC:Endort 4 DV de créatures.
+Deep Slumber.MOD	OUTPUTNAME:Sommeil profond	DESC:.CLEAR	DESC:Endort 10 DV de créatures.
+Ghost Sound.MOD	OUTPUTNAME:Son imaginaire	DESC:.CLEAR	DESC:Sons illusoires.
+Dream.MOD	OUTPUTNAME:Songe	DESC:.CLEAR	DESC:Envoie un message à un dormeur.
+Breath Of Life.MOD	OUTPUTNAME:Souffle de vie	DESC:.CLEAR	DESC:Soigne 5d8 pts de dégâts +1/niveau et ramène des créatures récemment décédées à la vie.
+Wish.MOD	OUTPUTNAME:Souhait	DESC:.CLEAR	DESC:Comme souhait limité, mais avec moins de limitations.
+Limited Wish.MOD	OUTPUTNAME:Souhait limité	DESC:.CLEAR	DESC:Modifie la réalité dans une certaine mesure.
+Flaming Sphere.MOD	OUTPUTNAME:Sphère de feu	DESC:.CLEAR	DESC:Roule au sol, 3d6 points de dégâts.
+Invisibility Sphere.MOD	OUTPUTNAME:Sphère d'invisibilité	DESC:.CLEAR	DESC:Rend tout le monde invisible à 3 m à la ronde.
+Resilient Sphere.MOD	OUTPUTNAME:Sphère d'isolement	DESC:.CLEAR	DESC:Globe de force emprisonne ou protège le sujet.
+Freezing Sphere.MOD	OUTPUTNAME:Sphère glaciale	DESC:.CLEAR	DESC:Gèle l'eau ou inflige des dégâts de froid.
+Prismatic Sphere.MOD	OUTPUTNAME:Sphère prismatique	DESC:.CLEAR	DESC:Comme mur prismatique, mais protège de tous les côtés.
+Telekinetic Sphere.MOD	OUTPUTNAME:Sphère téléguidée	DESC:.CLEAR	DESC:Comme sphère d'isolement, mais le PJ la déplace par télékinésie.
+Eagle's Splendor.MOD	OUTPUTNAME:Splendeur de l'aigle	DESC:.CLEAR	DESC:Confère +4 en Cha pendant 1 minute/niveau.
+Eagle's Splendor, Mass.MOD	OUTPUTNAME:Splendeur de l'aigle de groupe	DESC:.CLEAR	DESC:Comme splendeur de l'aigle, mais affecte un sujet/niveau.
+Stabilize.MOD	OUTPUTNAME:Stabilisation	DESC:.CLEAR	DESC:Stabilise une créature agonisante.
+Statue.MOD	OUTPUTNAME:Statue	DESC:.CLEAR	DESC:Le sujet peut se statufier à volonté.
+Virtue.MOD	OUTPUTNAME:Stimulant	DESC:.CLEAR	DESC:Confère 1 pv temporaire à la cible.
+Suggestion.MOD	OUTPUTNAME:Suggestion	DESC:.CLEAR	DESC:Force la cible à accomplir un acte décidé par le PJ.
+Suggestion, Mass.MOD	OUTPUTNAME:Suggestion de groupe	DESC:.CLEAR	DESC:Comme suggestion, mais une cible/niveau.
+Symbol Of Insanity.MOD	OUTPUTNAME:Symbole d'aliénation mentale	DESC:.CLEAR	DESC:La rune frappe les créatures proches de démence.
+Symbol Of Pain.MOD	OUTPUTNAME:Symbole de douleur	DESC:.CLEAR	DESC:La rune inflige de terribles douleurs.
+Symbol Of Weakness.MOD	OUTPUTNAME:Symbole de faiblesse	DESC:.CLEAR	DESC:La rune affaiblit les créatures proches.
+Symbol Of Death.MOD	OUTPUTNAME:Symbole de mort	DESC:.CLEAR	DESC:La rune tue les créatures proches.
+Symbol Of Persuasion.MOD	OUTPUTNAME:Symbole de persuasion	DESC:.CLEAR	DESC:La rune charme les créatures proches.
+Symbol Of Sleep.MOD	OUTPUTNAME:Symbole de sommeil	DESC:.CLEAR	DESC:La rune plonge les créatures proches dans un sommeil catatonique.
+Symbol Of Fear.MOD	OUTPUTNAME:Symbole de terreur	DESC:.CLEAR	DESC:La rune frappe les créatures proches de panique.
+Symbol Of Stunning.MOD	OUTPUTNAME:Symbole d'étourdissement	DESC:.CLEAR	DESC:La rune étourdit les créatures proches.
+Telekinesis.MOD	OUTPUTNAME:Télékinésie	DESC:.CLEAR	DESC:Permet de déplacer des objets, d'attaquer des créatures, de lancer des objets.
+Teleport.MOD	OUTPUTNAME:Téléportation	DESC:.CLEAR	DESC:Transporte instantanément le PJ jusqu'à 150 km/niveau.
+Teleport Object.MOD	OUTPUTNAME:Téléportation d'objet	DESC:.CLEAR	DESC:Comme téléportation, mais sur un objet.
+Teleport, Greater.MOD	OUTPUTNAME:Téléportation suprême	DESC:.CLEAR	DESC:Comme téléportation, sans limite de portée et sans risque d'erreur.
+Fire Storm.MOD	OUTPUTNAME:Tempête de feu	DESC:.CLEAR	DESC:Inflige 1d6 points de dégâts de feu/niveau.
+Ice Storm.MOD	OUTPUTNAME:Tempête de grêle	DESC:.CLEAR	DESC:5d6 points de dégâts dans un cylindre de 12 m de diamètre.
+Sleet Storm.MOD	OUTPUTNAME:Tempête de neige	DESC:.CLEAR	DESC:Réduit la visibilité et gêne les déplacements.
+Storm Of Vengeance.MOD	OUTPUTNAME:Tempête vengeresse	DESC:.CLEAR	DESC:Tempête mêlant acide, éclairs et grêlons.
+Darkness.MOD	OUTPUTNAME:Ténèbres	DESC:.CLEAR	DESC:Obscurité surnaturelle sur 6 m de rayon.
+Unholy Blight.MOD	OUTPUTNAME:Ténèbres maudites	DESC:.CLEAR	DESC:Blesse les créatures Bonnes (1d8 pts de dégâts/2 niveaux) et les rend malades.
+Deeper Darkness.MOD	OUTPUTNAME:Ténèbres profondes	DESC:.CLEAR	DESC:Ténèbres surnaturelles sur 18 m de rayon.
+Black Tentacles.MOD	OUTPUTNAME:Tentacules noirs	DESC:.CLEAR	DESC:Tentacules attaquant les créatures dans un rayon de 6 m.
+Hallucinatory Terrain.MOD	OUTPUTNAME:Terrain hallucinatoire	DESC:.CLEAR	DESC:Transforme un type de terrain en un autre (champ en forêt, etc.).
+Fear.MOD	OUTPUTNAME:Terreur	DESC:.CLEAR	DESC:Les sujets fuient pendant 1 round/niveau.
+Illusory Script.MOD	OUTPUTNAME:Texte illusoire	DESC:.CLEAR	DESC:Seul le sujet parvient à le déchiffrer.
+Web.MOD	OUTPUTNAME:Toile d'araignée	DESC:.CLEAR	DESC:Toiles gluantes dans un rayon de 6 m.
+Imbue With Spell Ability.MOD	OUTPUTNAME:Transfert de sorts	DESC:.CLEAR	DESC:Transfère des sorts du PJ au sujet.
+Transformation.MOD	OUTPUTNAME:Transformation martiale	DESC:.CLEAR	DESC:Le PJ gagne des bonus au combat.
+Transmute Mud To Rock.MOD	OUTPUTNAME:Transmutation de la boue en pierre	DESC:.CLEAR	DESC:Affecte deux cubes de 3 m d'arête/niveau.
+Transmute Rock To Mud.MOD	OUTPUTNAME:Transmutation de la pierre en boue	DESC:.CLEAR	DESC:Affecte deux cubes de 3 m d'arête/niveau.
+Stone To Flesh.MOD	OUTPUTNAME:Transmutation de la pierre en chair	DESC:.CLEAR	DESC:Ramène une créature pétrifiée à la vie.
+Transmute Metal To Wood.MOD	OUTPUTNAME:Transmutation du métal en bois	DESC:.CLEAR	DESC:Affecte tout métal à moins de 12 m.
+Shadow Walk.MOD	OUTPUTNAME:Traversée des ombres	DESC:.CLEAR	DESC:Permet de voyager plus rapidement.
+Earthquake.MOD	OUTPUTNAME:Tremblement de terre	DESC:.CLEAR	DESC:Secousse sismique dans un rayon de 1,50 m/niveau.
+Waves Of Fatigue.MOD	OUTPUTNAME:Vagues de fatigue	DESC:.CLEAR	DESC:Plusieurs cibles sont fatiguées.
+Waves Of Exhaustion.MOD	OUTPUTNAME:Vagues d'épuisement	DESC:.CLEAR	DESC:Plusieurs cibles sont épuisées.
+Whispering Wind.MOD	OUTPUTNAME:Vent de murmures	DESC:.CLEAR	DESC:Transmet un court message à 1,5 km de distance/niv.
+Wind Walk.MOD	OUTPUTNAME:Vent divin	DESC:.CLEAR	DESC:Transforme les cibles en vapeur et les emporte rapidement.
+Ventriloquism.MOD	OUTPUTNAME:Ventriloquie	DESC:.CLEAR	DESC:Permet de parler à distance pendant 1 minute/niveau.
+Giant Vermin.MOD	OUTPUTNAME:Vermine géante	DESC:.CLEAR	DESC:Transforme les insectes en vermine géante.
+Dimensional Lock.MOD	OUTPUTNAME:Verrou dimensionnel	DESC:.CLEAR	DESC:Téléportation et voyages interplanaires bloqués pendant 1 jour/niveau.
+Arcane Lock.MOD	OUTPUTNAME:Verrou du mage	DESC:.CLEAR	DESC:Ferme une serrure (porte, coffre) par magie.
+Hold Portal.MOD	OUTPUTNAME:Verrouillage	DESC:.CLEAR	DESC:Bloque une porte.
+Darkvision.MOD	OUTPUTNAME:Vision dans le noir	DESC:.CLEAR	DESC:Permet de voir à 18 m sans la moindre luminosité.
+True Seeing.MOD	OUTPUTNAME:Vision lucide	DESC:.CLEAR	DESC:Permet de voir les choses telles qu'elles sont.
+Arcane Sight.MOD	OUTPUTNAME:Vision magique	DESC:.CLEAR	DESC:Le PJ voit les auras magiques.
+Arcane Sight, Greater.MOD	OUTPUTNAME:Vision magique suprême	DESC:.CLEAR	DESC:Comme vision magique, mais révèle également les effets magiques sur les créatures et les objets.
+Vision.MOD	OUTPUTNAME:Vision mystique	DESC:.CLEAR	DESC:Comme mythes et légendes, mais plus rapide.
+Transport Via Plants.MOD	OUTPUTNAME:Voie végétale	DESC:.CLEAR	DESC:Le PJ entre dans une plante et ressort par une autre.
+Veil.MOD	OUTPUTNAME:Voile	DESC:.CLEAR	DESC:Change l'aspect d'un groupe de créatures.
+Fly.MOD	OUTPUTNAME:Vol	DESC:.CLEAR	DESC:Le sujet vole à la vitesse de 18 m/round.
+Overland Flight.MOD	OUTPUTNAME:Vol supérieur	DESC:.CLEAR	DESC:Le PJ vole à 12 m/round et fait du footing sur de longues distances.
+Tree Stride.MOD	OUTPUTNAME:Voyage par les arbres	DESC:.CLEAR	DESC:Le PJ entre dans un arbre et ressort par un autre.
+Antimagic Field.MOD	OUTPUTNAME:Zone d'antimagie	DESC:.CLEAR	DESC:Réprime toute magie à moins de 3 m.
+Zone Of Silence.MOD	OUTPUTNAME:Zone de silence	DESC:.CLEAR	DESC:Empêche les espions d'entendre des conversations.
+Zone Of Truth.MOD	OUTPUTNAME:Zone de vérité	DESC:.CLEAR	DESC:Les créatures affectées ne peuvent pas mentir.
+Accelerate Poison.MOD	OUTPUTNAME:Accélération du poison	DESC:.CLEAR	DESC:Accélère le délai d'action du poison ciblé.
+Bestow Grace.MOD	OUTPUTNAME:Accorder la grâce	DESC:.CLEAR	DESC:Le sujet gagne un bonus aux jets de sauvegarde égal au modificateur de Charisme du personnage.
+Planar Adaptation.MOD	OUTPUTNAME:Adaptation planaire	DESC:.CLEAR	DESC:Résiste aux effets néfastes d'un plan.
+Planar Adaptation, Mass.MOD	OUTPUTNAME:Adaptation planaire de groupe	DESC:.CLEAR	DESC:Comme adaptation planaire mais affecte des cibles multiples.
+Unwitting Ally.MOD	OUTPUTNAME:Allié involontaire	DESC:.CLEAR	DESC:Le sujet est considéré comme l'allié du personnage pendant 1 round.
+Spiritual Ally.MOD	OUTPUTNAME:Allié spirituel	DESC:.CLEAR	DESC:Crée un allié divin pour aider le personnage.
+Amplify Elixir.MOD	OUTPUTNAME:Amplification d'élixir	DESC:.CLEAR	DESC:Augmente la puissance ou la durée des effets d'une potion ou d'un élixir.
+Cacophonous Call.MOD	OUTPUTNAME:Appel cacophonique	DESC:.CLEAR	DESC:Rend la cible nauséeuse.
+Delayed Consumption.MOD	OUTPUTNAME:Assimilation retardée	DESC:.CLEAR	DESC:L'extrait ne fait pas effet tant que le personnage ne l'a pas décidé.
+Cacophonous Call, Mass.MOD	OUTPUTNAME:Appel cacophonique de groupe	DESC:.CLEAR	DESC:Rend de multiples cibles nauséeuses.
+Stone Call.MOD	OUTPUTNAME:Appel des pierres	DESC:.CLEAR	DESC:2d6 points de dégâts à toutes les créatures de la zone.
+Knight's Calling.MOD	OUTPUTNAME:Appel du chevalier	DESC:.CLEAR	DESC:Oblige la cible à s'avancer vers le personnage et à le combattre.
+Call Animal.MOD	OUTPUTNAME:Appel d'un animal	DESC:.CLEAR	DESC:Fait venir un animal au personnage.
+Purified Calling.MOD	OUTPUTNAME:Appel purifié	DESC:.CLEAR	DESC:L'eidolon invoqué est entièrement guéri.
+Gravity Bow.MOD	OUTPUTNAME:Arc de gravité	DESC:.CLEAR	DESC:Les flèches causent des dégâts comme si elles étaient d'une catégorie de taille supérieure.
+Weapon of Awe.MOD	OUTPUTNAME:Arme merveilleuse	DESC:.CLEAR	DESC:L'arme gagne +2 aux jets de dégâts.
+Versatile Weapon.MOD	OUTPUTNAME:Arme polyvalente	DESC:.CLEAR	DESC:L'arme ignore certaines RD.
+Defile Armor.MOD	OUTPUTNAME:Armure impie	DESC:.CLEAR	DESC:Comme armure sainte mais RD 5/bien contre un jugement ou un châtiment.
+Instant Armor.MOD	OUTPUTNAME:Armure instantanée	DESC:.CLEAR	DESC:Convoque une armure qui remplace temporairement l'équipement actuel du personnage.
+Sanctify Armor.MOD	OUTPUTNAME:Armure sainte	DESC:.CLEAR	DESC:+1 CA/quatre niveaux (max +5).
+Aspect of the Bear.MOD	OUTPUTNAME:Aspect de l'ours	DESC:.CLEAR	DESC:+2 à la CA et aux jets de manœuvre de combat.
+Aspect of the Stag.MOD	OUTPUTNAME:Aspect du cerf	DESC:.CLEAR	DESC:+2 à la CA contre les attaques d'opportunités et augmentation de vitesse.
+Aspect of the Falcon.MOD	OUTPUTNAME:Aspect du faucon	DESC:.CLEAR	DESC:Accorde un bonus aux tests de Perception et aux attaques à distance.
+Aspect of the Wolf.MOD	OUTPUTNAME:Aspect du loup	DESC:.CLEAR	DESC:+4 For et Dex, +2 bonus aux attaques de croc-en-jambe.
+Aura of Greater Courage.MOD	OUTPUTNAME:Aura de bravoure supérieure	DESC:.CLEAR	DESC:Augmente la puissance de l'aura de bravoure du paladin.
+Elemental Aura.MOD	OUTPUTNAME:Aura élémentaire	DESC:.CLEAR	DESC:Crée une aura d'énergie autour du personnage.
+Banish Seeming.MOD	OUTPUTNAME:Bannir les faux-semblants	DESC:.CLEAR	DESC:Dissipe une illusion touchée ou le changement de forme d'une créature.
+Snake Staff.MOD	OUTPUTNAME:Bâton serpent	DESC:.CLEAR	DESC:Transforme un bâton ou un autre objet de bois en serpents qui combattent pour le personnage.
+Blessing of Fervor.MOD	OUTPUTNAME:Bénédiction de ferveur	DESC:.CLEAR	DESC:Accorde des avantages au choix des alliés.
+Blessing of the Salamander.MOD	OUTPUTNAME:Bénédiction de la salamandre	DESC:.CLEAR	DESC:La cible gagne guérison accélérée 2, résistance au feu 10 et +2 au DMD.
+Blessing of Courage and Life.MOD	OUTPUTNAME:Bénédiction de vie et de courage	DESC:.CLEAR	DESC:+2 aux jets de sauvegarde contre la peur et la mort.
+Blood Biography.MOD	OUTPUTNAME:Biographie du sang	DESC:.CLEAR	DESC:Apprend des informations sur une créature grâce à son sang.
+Grove of Respite.MOD	OUTPUTNAME:Bosquet reposant	DESC:.CLEAR	DESC:Crée des arbres et une petite source.
+Unwilling Shield.MOD	OUTPUTNAME:Bouclier involontaire	DESC:.CLEAR	DESC:La cible partage les blessures reçues par le lanceur de sorts.
+Ball Lightning.MOD	OUTPUTNAME:Boule de foudre	DESC:.CLEAR	DESC:Petites sphères de foudre volantes qui infligent chacune 3d6 points de dégâts d'électricité.
+Firebrand.MOD	OUTPUTNAME:Brandon	DESC:.CLEAR	DESC:Les alliés gagnent arme enflammée, sont immunisés contre les sorts de feu du personnage et bénéficient d'un rayon de feu.
+Burst Bonds.MOD	OUTPUTNAME:Briser les liens	DESC:.CLEAR	DESC:1d6 points de dégâts/niveau (max 5d6) sur des liens.
+Treasure Stitching.MOD	OUTPUTNAME:Broderie	DESC:.CLEAR	DESC:Les objets en tissu s'ornent de broderies.
+Life Bubble.MOD	OUTPUTNAME:Bulle de vie	DESC:.CLEAR	DESC:Protège les créatures contre l'environnement.
+Hide Campsite.MOD	OUTPUTNAME:Cacher le camp	DESC:.CLEAR	DESC:Cache toute trace de camp du personnage.
+Touch of the Sea.MOD	OUTPUTNAME:Caresse de la mer	DESC:.CLEAR	DESC:Vitesse de nage de 9 mètres (6 c).
+Elemental Touch.MOD	OUTPUTNAME:Caresse élémentaire	DESC:.CLEAR	DESC:Gagne une attaque de contact d'énergie.
+Break.MOD	OUTPUTNAME:Cassé	DESC:.CLEAR	DESC:Donne à un objet la condition brisé.
+Crafter's Fortune.MOD	OUTPUTNAME:Chance de l'artisan	DESC:.CLEAR	DESC:Le sujet gagne +5 au prochain test d'Artisanat.
+Deafening Song Bolt.MOD	OUTPUTNAME:Chant assourdissant	DESC:.CLEAR	DESC:Explosion de chants qui inflige 3d10 points de dégâts et rend les cible sourdes.
+Ant Haul.MOD	OUTPUTNAME:Charge de fourmi	DESC:.CLEAR	DESC:Triple la capacité de charge d'une créature.
+Beguiling Gift.MOD	OUTPUTNAME:Charmant cadeau	DESC:.CLEAR	DESC:Le sujet accepte immédiatement un objet offert et l'utilise.
+Bloodhound.MOD	OUTPUTNAME:Chien de chasse	DESC:.CLEAR	DESC:Augmente l'odorat et donne au lanceur de sorts le pouvoir spécial odorat.
+Wrath.MOD	OUTPUTNAME:Colère	DESC:.CLEAR	DESC:Bonus de moral aux jets d'attaque et de dégâts et avantages divers contre une créature.
+Shared Wrath.MOD	OUTPUTNAME:Colère partagée	DESC:.CLEAR	DESC:Comme Colère mais bénéficie à plusieurs cibles.
+Confess.MOD	OUTPUTNAME:Confession	DESC:.CLEAR	DESC:La créature répond honnêtement aux questions ou subit 1d6 point de dégâts /deux niveaux (Max. 5d6).
+Absorbing Touch.MOD	OUTPUTNAME:Contact absorbant	DESC:.CLEAR	DESC:Le lanceur absorbe un objet pendant 1 jour/niveau.
+Calcific Touch.MOD	OUTPUTNAME:Contact calcificateur	DESC:.CLEAR	DESC:Contact qui ralentit la cible, 1d4 points d'affaiblissement temporaire de Dextérité.
+Summon Eidolon.MOD	OUTPUTNAME:Convocation d'eidolon	DESC:.CLEAR	DESC:Convoque instantanément l'eidolon du personnage pendant 1 minute/niveau.
+Fiery Body.MOD	OUTPUTNAME:Corps enflammé	DESC:.CLEAR	DESC:Le lanceur de sorts se transforme en flamme vivante.
+Thorn Body.MOD	OUTPUTNAME:Corps épineux	DESC:.CLEAR	DESC:Ceux qui attaquent le personnage subissent 1d6+1 points de dégâts/niveau.
+Resounding Blow.MOD	OUTPUTNAME:Coup retentissant	DESC:.CLEAR	DESC:Attaque de corps à corps qui inflige 1d6 points de dégâts sonores supplémentaires.
+Cup of Dust.MOD	OUTPUTNAME:Coupe de poussière	DESC:.CLEAR	DESC:Déshydrate une créature.
+Create Treasure Map.MOD	OUTPUTNAME:Création de carte au trésor	DESC:.CLEAR	DESC:Crée une carte au trésor à partir du cadavre d'une créature.
+Create Pit.MOD	OUTPUTNAME:Création de fosse	DESC:.CLEAR	DESC:Crée une fosse extradimensionnelle.
+Screech.MOD	OUTPUTNAME:Cri strident	DESC:.CLEAR	DESC:Les ennemis provoquent des attaques d'opportunité.
+Deadly Finale.MOD	OUTPUTNAME:Dangereux final	DESC:.CLEAR	DESC:Inflige 2d8 points de dégâts à des cibles multiples.
+Hero's Defiance.MOD	OUTPUTNAME:Défi du héros	DESC:.CLEAR	DESC:Permet au personnage de se servir de l'imposition des mains quand il tombe inconscient.
+Challenge Evil.MOD	OUTPUTNAME:Défier le mal	DESC:.CLEAR	DESC:La créature est fivreuse si elle refuse de combattre le personnage.
+Feather Step.MOD	OUTPUTNAME:Démarche aérienne	DESC:.CLEAR	DESC:Ignore les pénalités de mouvement en terrain difficile.
+Feather Step, Mass.MOD	OUTPUTNAME:Démarche aérienne de groupe	DESC:.CLEAR	DESC:Comme démarche aérienne mais sur plusieurs cibles.
+Chameleon Stride.MOD	OUTPUTNAME:Démarche du caméléon	DESC:.CLEAR	DESC:Bonus de + 4 aux tests de Discrétion et obtient un camouflage.
+Denounce.MOD	OUTPUTNAME:Dénonciation	DESC:.CLEAR	DESC:Fait empirer l'attitude des gens envers une créature cible.
+Expend.MOD	OUTPUTNAME:Dépense	DESC:.CLEAR	DESC:Gaspille les utilisations limitées des pouvoirs magiques de la cible.
+Detect Aberration.MOD	OUTPUTNAME:Détection des aberrations	DESC:.CLEAR	DESC:Révèle la présence des aberrations.
+Detonate.MOD	OUTPUTNAME:Détonation	DESC:.CLEAR	DESC:Inflige 1d8 points de dégâts d'énergie/niveau à toutes les céatures qui se trouvent à moins de 4,50 m.
+Discordant Blast.MOD	OUTPUTNAME:Détonation discordante	DESC:.CLEAR	DESC:3d6 points de dégâts sonores dans un rayon de 3 m ou un cône de 9 m ; peut également bousculer les créatures.
+Deflection.MOD	OUTPUTNAME:Déviation	DESC:.CLEAR	DESC:Les attaques qui ratent le personnage sont redirigées vers leur source.
+Vanish.MOD	OUTPUTNAME:Disparition	DESC:.CLEAR	DESC:Comme invisibilité pendant 1 round/niveau (Max 5 rounds).
+Mask Dweomer.MOD	OUTPUTNAME:Dissimuler la magie	DESC:.CLEAR	DESC:Cache la présence d'un sort à la détection de la magie.
+Elude Time.MOD	OUTPUTNAME:Échapper au temps	DESC:.CLEAR	DESC:Place temporairement le personnage en animation suspendue.
+Coordinated Effort.MOD	OUTPUTNAME:Efforts coordonnés	DESC:.CLEAR	DESC:Accorde un don de travail en équipe dont dispose le personnage.
+Borrow Fortune.MOD	OUTPUTNAME:Emprunt de chance	DESC:.CLEAR	DESC:Relance immédiatement un test ou une attaque mais fait pire aux deux suivants.
+Borrow Skill.MOD	OUTPUTNAME:Emprunt de compétence	DESC:.CLEAR	DESC:Test de compétence avec le rang de quelqu'un d'autre.
+Fire of Entanglement.MOD	OUTPUTNAME:Enchevêtrement flamboyant	DESC:.CLEAR	DESC:Le châtiment du mal du personnage enchevêtre également son ennemi.
+Foe to Friend.MOD	OUTPUTNAME:Ennemi amical	DESC:.CLEAR	DESC:Redirige l'attaque d'un ennemi.
+Enemy Hammer.MOD	OUTPUTNAME:Ennemi contondant	DESC:.CLEAR	DESC:Permet au personnage d'user de télékinésie pour se servir d'une créature comme d'une arme.
+Instant Enemy.MOD	OUTPUTNAME:Ennemi du moment	DESC:.CLEAR	DESC:Le personnage considère la cible comme un ennemi juré du type de son choix.
+Enter Image.MOD	OUTPUTNAME:Entrer dans une image	DESC:.CLEAR	DESC:Transfère la conscience du personnage dans un objet à son effigie.
+Arrow Eruption.MOD	OUTPUTNAME:Éruption de flèches	DESC:.CLEAR	DESC:Crée un double d'une flèche utilisée pour tuer une créature au round précédent.
+Bow Spirit.MOD	OUTPUTNAME:Esprit de l'arc	DESC:.CLEAR	DESC:Convoque un esprit invisible qui tire des flèches à la place du personnage.
+Protective Spirit.MOD	OUTPUTNAME:Esprit protecteur	DESC:.CLEAR	DESC:Protège contre les attaques d'opportunité.
+Spark.MOD	OUTPUTNAME:Étincelles	DESC:.CLEAR	DESC:Met le feu à des objets inflammables.
+Evolution Surge.MOD	OUTPUTNAME:Évolution	DESC:.CLEAR	DESC:Accorde à l'eidolon une évolution coûtant 4 points d'évolution.
+Evolution Surge, Lesser.MOD	OUTPUTNAME:Évolution mineure	DESC:.CLEAR	DESC:Accorde à l'eidolon une évolution coûtant 2 points d'évolution.
+Evolution Surge, Greater.MOD	OUTPUTNAME:Évolution supérieure	DESC:.CLEAR	DESC:Accorde deux évolutions à l'eidolon pour un total de 6 points d'évolution.
+Expeditious Excavation.MOD	OUTPUTNAME:Excavation expéditive	DESC:.CLEAR	DESC:Déplace un cube de terre de 1,5 m d'arête.
+Nature's Exile.MOD	OUTPUTNAME:Exilé par la nature	DESC:.CLEAR	DESC:Donne un malus de -10 aux tests de Survie.
+Sculpt Corpse.MOD	OUTPUTNAME:Façonnage de cadavre	DESC:.CLEAR	DESC:Donne à un cadavre l'apparence d'une autre créature.
+Oracle's Burden.MOD	OUTPUTNAME:Fardeau de l'oracle	DESC:.CLEAR	DESC:La créature est affectée par les effets négatifs de la malédiction de l'oracle.
+Feast of Ashes.MOD	OUTPUTNAME:Festin de cendres	DESC:.CLEAR	DESC:La cible souffre d'une faim insatiable.
+Campfire Wall.MOD	OUTPUTNAME:Feu de camp abrité	DESC:.CLEAR	DESC:Crée un abri autour d'un feu de camp.
+Fire of Judgment.MOD	OUTPUTNAME:Feu du jugement	DESC:.CLEAR	DESC:Les créatures châtiées souffrent reçoivent des dégâts quand elles attaquent.
+Stunning Finale.MOD	OUTPUTNAME:Final étourdissant	DESC:.CLEAR	DESC:Étourdit les créatures pendant 1 round.
+Heroic Finale.MOD	OUTPUTNAME:Final héroïque	DESC:.CLEAR	DESC:Les sujets affectés par une performance de barde peuvent faire une action.
+Purging Finale.MOD	OUTPUTNAME:Final purificateur	DESC:.CLEAR	DESC:Dissipe un effet négatif.
+Reviving Finale.MOD	OUTPUTNAME:Final revigorant	DESC:.CLEAR	DESC:Soigne les alliés de 2d6 points de dégâts.
+Saving Finale.MOD	OUTPUTNAME:Final salvateur	DESC:.CLEAR	DESC:Le sujet relance un jet de sauvegarde raté.
+Contagious Flame.MOD	OUTPUTNAME:Flamme contagieuse	DESC:.CLEAR	DESC:Rayon qui inflige 4d6 points de dégâts de feu avant de passer à une nouvelle cible.
+Fire of Vengeance.MOD	OUTPUTNAME:Flammes de la vengeance	DESC:.CLEAR	DESC:Les créatures châtiées subissent 3d8 points de dégâts.
+Flames of the Faithful.MOD	OUTPUTNAME:Flammes du fidèle	DESC:.CLEAR	DESC:Donne le pouvoir de feu à une arme.
+Fluid Form.MOD	OUTPUTNAME:Forme liquide	DESC:.CLEAR	DESC:Gagne RD 10/tranchant, augmente l'allonge de 3 m et peut respirer sous l'eau.
+True Form.MOD	OUTPUTNAME:Forme véritable	DESC:.CLEAR	DESC:Dissipe les effets de métamorphose.
+Universal Formula.MOD	OUTPUTNAME:Formule universelle	DESC:.CLEAR	DESC:Remplace tout extrait de niveau 3 ou moins.
+Acid Pit.MOD	OUTPUTNAME:Fosse acide	DESC:.CLEAR	DESC:Crée une fosse avec de l'acide au fond.
+Hungry Pit.MOD	OUTPUTNAME:Fosse affamée	DESC:.CLEAR	DESC:Comme création de fosse mais inflige 4d6 points de dégâts à ceux sur lesquels elle se referme.
+Spiked Pit.MOD	OUTPUTNAME:Fosse hérissée de pieux	DESC:.CLEAR	DESC:Comme création de fosse mais elle est remplie de pieux.
+Pain Strike.MOD	OUTPUTNAME:Frappe douloureuse	DESC:.CLEAR	DESC:Inflige 1d6 points de dégâts non létaux pendant 1 round par niveau.
+Pain Strike, Mass.MOD	OUTPUTNAME:Frappe douloureuse de groupe	DESC:.CLEAR	DESC:Comme frappe douloureuse mais affecte plusieurs créatures.
+Bard's Escape.MOD	OUTPUTNAME:Fuite du barde	DESC:.CLEAR	DESC:Le personnage et ses alliés s'échappent en urgence en se téléportant en sûreté.
+Castigate.MOD	OUTPUTNAME:Fustiger	DESC:.CLEAR	DESC:La cible est secouée et se recroqueville de peur.
+Castigate, Mass.MOD	OUTPUTNAME:Fustiger de groupe	DESC:.CLEAR	DESC:Comme fustiger mais le sort affecte plusieurs créatures.
+Geyser.MOD	OUTPUTNAME:Geyser	DESC:.CLEAR	DESC:Crée un geyser d'eau bouillante.
+Grace.MOD	OUTPUTNAME:Grâce	DESC:.CLEAR	DESC:Les mouvements ne provoquent pas d'attaque d'opportunité.
+Flare Burst.MOD	OUTPUTNAME:Grandes illuminations	DESC:.CLEAR	DESC:Comme illumination mais touche toutes les créatures dans un rayon de 3 m.
+Bloody Claws.MOD	OUTPUTNAME:Griffes sanglantes	DESC:.CLEAR	DESC:Provoque des dégâts de saignement sur les attaques naturelles.
+Guiding Star.MOD	OUTPUTNAME:Guide	DESC:.CLEAR	DESC:Révèle la distance approximative qui sépare le personnage de l'endroit où il a lancé ce sort.
+Saddle Surge.MOD	OUTPUTNAME:Habileté en selle	DESC:.CLEAR	DESC:Bonus aux dégâts quand le personnage se déplace sur sa monture.
+Blaze of Glory.MOD	OUTPUTNAME:Halo de gloire	DESC:.CLEAR	DESC:Un dernier sursaut soigne les créatures bonnes et blesse les mauvaises.
+Arcane Concordance.MOD	OUTPUTNAME:Harmonie profane	DESC:.CLEAR	DESC:Accorde la métamagie aux sorts profanes et +1 au DD.
+Clashing Rocks.MOD	OUTPUTNAME:Heurt de pierres	DESC:.CLEAR	DESC:Inflige 20d6 points de dégâts aux créatures cibles.
+Hunter's Howl.MOD	OUTPUTNAME:Hurlement du chasseur	DESC:.CLEAR	DESC:Le personnage considère ses adversaires comme des ennemis jurés pendant 1 round/niveau.
+Tireless Pursuit.MOD	OUTPUTNAME:Infatigable poursuivant	DESC:.CLEAR	DESC:Le personnage ignore la fatigue quand il court en petites foulées.
+Tireless Pursuers.MOD	OUTPUTNAME:Infatigables poursuivants	DESC:.CLEAR	DESC:Comme infatigable poursuivant mais affecte plusieurs créatures.
+Innocence.MOD	OUTPUTNAME:Innocence	DESC:.CLEAR	DESC:Gagne +10 aux tests de Bluff pour paraître innocent.
+Sift.MOD	OUTPUTNAME:Inspection	DESC:.CLEAR	DESC:Voit la zone comme s'il l'examinait.
+Brilliant Inspiration.MOD	OUTPUTNAME:Inspiration brillante	DESC:.CLEAR	DESC:Le personnage lance deux d20 et choisit le meilleur.
+Gallant Inspiration.MOD	OUTPUTNAME:Inspiration galante	DESC:.CLEAR	DESC:Bonus d'attaque de +2d4 aux jets d'attaque ratés ou aux tests de compétence ratés.
+Timely Inspiration.MOD	OUTPUTNAME:Inspiration opportune	DESC:.CLEAR	DESC:Donne un bonus sur un test/jet d'attaque raté.
+Fool's Forbiddance.MOD	OUTPUTNAME:Interdiction du fou	DESC:.CLEAR	DESC:Les ennemis qui approchent à portée d'une émanation centrée sur le personnage sont confus.
+Firefall.MOD	OUTPUTNAME:Jet de flammes	DESC:.CLEAR	DESC:Des flammes jaillissent et infligent 2d6 points de dégâts.
+Pied Piping.MOD	OUTPUTNAME:Joueur de flûte	DESC:.CLEAR	DESC:Oblige des créatures similaires similaires à vous suivre.
+Twin Form.MOD	OUTPUTNAME:Jumeau	DESC:.CLEAR	DESC:Crée un double contrôlable du personnage .
+Twilight Knife.MOD	OUTPUTNAME:Lame du crépuscule	DESC:.CLEAR	DESC:Couteau flottant qui attaque avec le personnage.
+Coward's Lament.MOD	OUTPUTNAME:Lamentation du lâche	DESC:.CLEAR	DESC:Si le sujet n'attaque pas le personnage, il reçoit un malus.
+Lead Blades.MOD	OUTPUTNAME:Lames de plomb	DESC:.CLEAR	DESC:Les armes de corps à corps causent des dégâts comme si elles étaient d'une catégorie de taille supérieure.
+Light Lance.MOD	OUTPUTNAME:Lance de lumière	DESC:.CLEAR	DESC:Crée une colonne de lumière.
+Hidden Speech.MOD	OUTPUTNAME:Langage caché	DESC:.CLEAR	DESC:+10 aux tests de Bluff pour envoyer des messages secrets.
+Honeyed Tongue.MOD	OUTPUTNAME:Langue de miel	DESC:.CLEAR	DESC:Le personnage lance 2 dés pour les tests de Diplomatie et conserve le meilleur.
+Elemental Speech.MOD	OUTPUTNAME:Langue élémentaire	DESC:.CLEAR	DESC:Le personnage lance 2 dés pour les tests de Diplomatie et conserve le meilleur.
+Dancing Lantern.MOD	OUTPUTNAME:Lanterne dansante	DESC:.CLEAR	DESC:Anime une lanterne qui suit le personnage.
+King's Castle.MOD	OUTPUTNAME:Le roi et la tour	DESC:.CLEAR	DESC:Le personnage échange instantanément de place avec un allié.
+Unfetter.MOD	OUTPUTNAME:Libération	DESC:.CLEAR	DESC:Enlève les restrictions de distance sur l'eidolon.
+Sacred Bond.MOD	OUTPUTNAME:Lien sacré	DESC:.CLEAR	DESC:Lance les sorts de soins de contact de loin.
+Lockjaw.MOD	OUTPUTNAME:Mâchoires d'acier	DESC:.CLEAR	DESC:La créature gagne l'aptitude étreinte avec une attaque naturelle.
+Touch of Gracelessness.MOD	OUTPUTNAME:Maladresse	DESC:.CLEAR	DESC:Le sujet perd 1d6+1 Dex/2 niveaux et risque de tomber.
+Crafter's Curse.MOD	OUTPUTNAME:Malchance de l'artisan	DESC:.CLEAR	DESC:Le sujet perd -5 au prochain test d'Artisanat.
+Wrathful Mantle.MOD	OUTPUTNAME:Manteau de colère	DESC:.CLEAR	DESC:La cible gagne +1/quatre niveaux à tous les jets de sauvegarde.
+Cloak of Dreams.MOD	OUTPUTNAME:Manteau de rêves	DESC:.CLEAR	DESC:Les créatures vivantes situées dans un rayon de 1,5 m s'endorment.
+Cloak of Winds.MOD	OUTPUTNAME:Manteau de vent	DESC:.CLEAR	DESC:Crée un écran de vents violents autour du personnage.
+Cloak of Shade.MOD	OUTPUTNAME:Manteau d'ombre	DESC:.CLEAR	DESC:Réduit les effets de l'exposition au soleil et à la châleur.
+Seamantle.MOD	OUTPUTNAME:Manteau marin	DESC:.CLEAR	DESC:Enveloppe la créature d'une couche d'eau protectrice.
+Brand.MOD	OUTPUTNAME:Marque	DESC:.CLEAR	DESC:Crée une marque permanente sur la cible.
+Brand, Greater.MOD	OUTPUTNAME:Marque supérieure	DESC:.CLEAR	DESC:Crée une marque permanente sur la cible.
+Marks Of Forbiddance.MOD	OUTPUTNAME:Marques d'interdiction	DESC:.CLEAR	DESC:2 créatures doivent réussir des jets de Volonté si elles veulent s'attaquer.
+Ill Omen.MOD	OUTPUTNAME:Mauvais présage	DESC:.CLEAR	DESC:La cible lance deux fois les dés pour les tests et les attaques et prend le résultat le moins bon.
+Alter Winds.MOD	OUTPUTNAME:Modification des vents	DESC:.CLEAR	DESC:Augmente/diminue la force des vents.
+Wall of Lava.MOD	OUTPUTNAME:Mur de lave	DESC:.CLEAR	DESC:Un mur blesse les ennemis qui tentent de le franchir et envoie régulièrement de la lave sur les cibles voisines.
+Wall of Suppression.MOD	OUTPUTNAME:Mur de suppression	DESC:.CLEAR	DESC:Crée un mur qui désactive la magie.
+Holy Whisper.MOD	OUTPUTNAME:Murmure sacré	DESC:.CLEAR	DESC:Un murmure qui rend les créatures mauvaises fiévreuses et offre un bonus aux bonnes.
+Negate Aroma.MOD	OUTPUTNAME:Négation de l'arôme	DESC:.CLEAR	DESC:Impossible de traquer le personnage à l'ôdeur.
+Frozen Note.MOD	OUTPUTNAME:Note pétrifiante	DESC:.CLEAR	DESC:Paralyse les créatures qui écoutent la chanson.
+Solid Note.MOD	OUTPUTNAME:Note tangible	DESC:.CLEAR	DESC:Matérialise une note de musique.
+Stormbolts.MOD	OUTPUTNAME:Nuées d'orage	DESC:.CLEAR	DESC:1d8 dégâts par niveau (max 20d8) aux cibles.
+Eagle Eye.MOD	OUTPUTNAME:Œil de faucon	DESC:.CLEAR	DESC:Crée un détecteur magique loin au dessus du personnage.
+Hunter's Eye.MOD	OUTPUTNAME:Œil du chasseur	DESC:.CLEAR	DESC:+20 aux tests de Perception pour repérer une cible.
+Bomber's Eye.MOD	OUTPUTNAME:Œil du mitrailleur	DESC:.CLEAR	DESC:Augmente la portée des armes de jet ; +1 attaque.
+Aqueous Orb.MOD	OUTPUTNAME:Orbe aqueux	DESC:.CLEAR	DESC:Crée une sphère d'eau qui roule.
+Cast Out.MOD	OUTPUTNAME:Paria	DESC:.CLEAR	DESC:Inflige 2d8 points de dégâts +1/niveau (max +15) à une créature et dissipe un effet.
+Share Language.MOD	OUTPUTNAME:Partage de la langue	DESC:.CLEAR	DESC:Le sujet comprend une langue choisie.
+Share Senses.MOD	OUTPUTNAME:Partage des sens	DESC:.CLEAR	DESC:Voit/entend/sent la même chose que le familier.
+Swarm Skin.MOD	OUTPUTNAME:Peau de nuée	DESC:.CLEAR	DESC:Transforme le corps du lanceur de sorts en une nuée capable d'attaquer.
+Perceive Cues.MOD	OUTPUTNAME:Perception des indices	DESC:.CLEAR	DESC:+5 Perception et Psychologie 10 min/niveau.
+Pillar of Life.MOD	OUTPUTNAME:Pilier de vie	DESC:.CLEAR	DESC:Les piliers créés soignent 2d8 +1/niveau (max +20).
+Residual Tracking.MOD	OUTPUTNAME:Pistage des traces	DESC:.CLEAR	DESC:Le personnage peut découvrir l'apparence d'une créature grâce à ses seules empreintes.
+Scent Trail.MOD	OUTPUTNAME:Piste olfactive	DESC:.CLEAR	DESC:Laisse une piste que les alliés peuvent suivre.
+Glide.MOD	OUTPUTNAME:Planer	DESC:.CLEAR	DESC:Le personnage ne reçoit pas de dégâts de chute, se déplace à 18 m/round pendant la chute.
+Moonstruck.MOD	OUTPUTNAME:Pleine lune	DESC:.CLEAR	DESC:Le sujet est enragé et confus.
+Stone Fist.MOD	OUTPUTNAME:Poing de pierre	DESC:.CLEAR	DESC:Les dégâts à mains nues du personnage sont létaux.
+Rally Point.MOD	OUTPUTNAME:Point de ralliement	DESC:.CLEAR	DESC:La case donne des bonus aux créatures bonnes.
+Getaway.MOD	OUTPUTNAME:Poudre d'escampette	DESC:.CLEAR	DESC:Téléporte un groupe d'alliés et de créatures préétabli en un endroit prédéterminé.
+Hydraulic Push.MOD	OUTPUTNAME:Poussée hydraulique	DESC:.CLEAR	DESC:Vague d'eau qui bouscule un ennemi.
+Wandering Star Motes.MOD	OUTPUTNAME:Poussière d'étoile	DESC:.CLEAR	DESC:Silhouette la cible et émet de la lumière.
+Dust of Twilight.MOD	OUTPUTNAME:Poussière du crépuscule	DESC:.CLEAR	DESC:Des particules noires étouffent les sources lumineuses.
+Venomous Bolt.MOD	OUTPUTNAME:Projectile empoisonné	DESC:.CLEAR	DESC:La flèche ou le carreau empoisonne la cible.
+Shadow Projection.MOD	OUTPUTNAME:Projection d'ombre	DESC:.CLEAR	DESC:Le personnage devient temporairement une ombre.
+Ward the Faithful.MOD	OUTPUTNAME:Protection des fidèles	DESC:.CLEAR	DESC:Les créatures du même alignement que la cible gagnent des bonus à la CA et aux jets de sauvegarde.
+Strong Jaw.MOD	OUTPUTNAME:Puissantes mâchoires	DESC:.CLEAR	DESC:Les attaques naturelles infligent les mêmes dégâts que si elles étaient de deux tailles au-dessus.
+Cleanse.MOD	OUTPUTNAME:Purification	DESC:.CLEAR	DESC:Soigne 4d8 points de dégâts +1/niveau (max +25) et dissipe plusieurs afflictions.
+Fester.MOD	OUTPUTNAME:Purulence	DESC:.CLEAR	DESC:Donne au sujet une RM 12 + niveau du personnage contre les effets de soins.
+Fester, Mass.MOD	OUTPUTNAME:Purulence de groupe	DESC:.CLEAR	DESC:Comme purulence mais affecte plusieurs cibles.
+Putrefy Food and Drink.MOD	OUTPUTNAME:Putréfaction de l'eau et de la nourriture	DESC:.CLEAR	DESC:Rend l'eau et la nourriture immangeables.
+Spite.MOD	OUTPUTNAME:Rancune	DESC:.CLEAR	DESC:Inflige un sort de contact sur la créature qui attaque le personnage.
+Divine Vessel.MOD	OUTPUTNAME:Réceptacle divin	DESC:.CLEAR	DESC:Transforme l'oracle en une énorme créature d'un autre monde.
+Seek Thoughts.MOD	OUTPUTNAME:Recherche de pensées	DESC:.CLEAR	DESC:Détecte les pensées des créatures intelligentes.
+Burning Gaze.MOD	OUTPUTNAME:Regard brûlant	DESC:.CLEAR	DESC:Inflige 1d6 points de dégâts de feu à une créature.
+Rejuvenate Eidolon.MOD	OUTPUTNAME:Régénération d'eidolon	DESC:.CLEAR	DESC:Comme régénération d'eidolon mineure mais guérit de 3d10 points de dégâts +1/niveau (max +10).
+Rejuvenate Eidolon, Lesser.MOD	OUTPUTNAME:Régénération d'eidolon mineure	DESC:.CLEAR	DESC:L'eidolon guérit de 1d10 points de dégâts +1/niveau (max +5).
+Rejuvenate Eidolon, Greater.MOD	OUTPUTNAME:Régénération d'eidolon supérieure	DESC:.CLEAR	DESC:Comme régénération d'eidolon mineure mais guérit de 5d10 points de dégâts +1/niveau (max +20).
+Devolution.MOD	OUTPUTNAME:Régression	DESC:.CLEAR	DESC:L'eidolon visé perd temporairement 1 évolution +1/cinq niveaux.
+Rampart.MOD	OUTPUTNAME:Rempart	DESC:.CLEAR	DESC:Crée une barrière de terre de 1,5 m (1 c) d'épaisseur.
+Forced Repentance.MOD	OUTPUTNAME:Repentir forcé	DESC:.CLEAR	DESC:La cible se laisse tomber à terre et confesse tous ses pêchés.
+Rest Eternal.MOD	OUTPUTNAME:Repos éternel	DESC:.CLEAR	DESC:Impossible de ramener la créature morte à la vie.
+Retribution.MOD	OUTPUTNAME:Représailles	DESC:.CLEAR	DESC:Le dernier attaquant est affligé de malus.
+Rebuke.MOD	OUTPUTNAME:Réprimande	DESC:.CLEAR	DESC:Les ennemis subissent 1d8 points de dégâts/2 niveaux de lanceur de sort (max 5d8).
+Ghostbane Dirge.MOD	OUTPUTNAME:Requiem pour les fantômes	DESC:.CLEAR	DESC:Les créatures intangibles reçoivent la moitié des dégâts des armes non magiques.
+Ghostbane Dirge, Mass.MOD	OUTPUTNAME:Requiem pour les fantômes de groupe	DESC:.CLEAR	DESC:Comme requiem pour les fantômes mais sur plusieurs créatures.
+Draconic Reservoir.MOD	OUTPUTNAME:Réservoir draconique	DESC:.CLEAR	DESC:Le personnage peut absorber les dégâts d'énergie et s'en servir pour améliorer une attaque de contact.
+Corruption Resistance.MOD	OUTPUTNAME:Résistance à la corruption	DESC:.CLEAR	DESC:Protège la créature contre les dégâts des attaques basées sur les alignements.
+Stay the Hand.MOD	OUTPUTNAME:Retenir la main	DESC:.CLEAR	DESC:Le sujet ne peut pas attaquer avec une arme de corps-à-corps.
+Invigorate.MOD	OUTPUTNAME:Revigorer	DESC:.CLEAR	DESC:Soulage temporairement de la fatigue ou de l'épuisement.
+Invigorate, Mass.MOD	OUTPUTNAME:Revigorer de groupe	DESC:.CLEAR	DESC:Comme revigorer mais sur plusieurs créatures.
+River of Wind.MOD	OUTPUTNAME:Rivière de vent	DESC:.CLEAR	DESC:Créer un vent qui inflige des dégâts non létaux et peut renverser ou repousser des créatures.
+Natural Rhythm.MOD	OUTPUTNAME:Rythme naturel	DESC:.CLEAR	DESC:+1 aux jets de dégâts à chaque coup.
+Shifting Sand.MOD	OUTPUTNAME:Sables changeants	DESC:.CLEAR	DESC:Crée un terrain difficile et efface les traces ; peut emporter des créatures ou des objets.
+Paladin's Sacrifice.MOD	OUTPUTNAME:Sacrifice du paladin	DESC:.CLEAR	DESC:Reçoit les dégâts et les effets destinés à une autre créature.
+Jester's Jaunt.MOD	OUTPUTNAME:Saut du bouffon	DESC:.CLEAR	DESC:Téléporte la cible à 9 m de sa position initiale.
+Bristle.MOD	OUTPUTNAME:Se hérisser	DESC:.CLEAR	DESC:Échange un bonus d'armure naturelle contre un bonus aux attaques avec des armes naturelles.
+Keen Senses.MOD	OUTPUTNAME:Sens surdéveloppés	DESC:.CLEAR	DESC:Gagne +2 en Perception et la vision nocturne.
+Lily Pad Stride.MOD	OUTPUTNAME:Sentier de nénuphars	DESC:.CLEAR	DESC:Traverse l'eau en marchand sur des nénuphars.
+Oath of Peace.MOD	OUTPUTNAME:Serment de paix	DESC:.CLEAR	DESC:Accorde un bonus de +5 à la CA et une RD 10/Mal, ne peut pas attaquer.
+Sacrificial Oath.MOD	OUTPUTNAME:Serment de sacrifice	DESC:.CLEAR	DESC:Subit les dégâts destinés à un allié pendant de nombreux rounds.
+Fire Snake.MOD	OUTPUTNAME:Serpent de feu	DESC:.CLEAR	DESC:Crée un chemin de feu sinueux de 1,5 m de long/niveau qui inflige 1d6 points de dégâts de feu/niveau.
+Nap Stack.MOD	OUTPUTNAME:Sieste	DESC:.CLEAR	DESC:Les cibles n'ont besoin que de 2 heures de sommeil au lieu d'une nuit complète et peuvent dormir plus longtemps pour bénéficier d'avantages supplémentaires.
+Wake of Light.MOD	OUTPUTNAME:Sillage de lumière	DESC:.CLEAR	DESC:Traînée magique qui aide les créatures Bonnes et gêne les Mauvaises.
+Sirocco.MOD	OUTPUTNAME:Sirocco	DESC:.CLEAR	DESC:Vent chaud qui inflige 4d6 points de dégâts, fatigue les créatures touchées et les renverse.
+Restful Sleep.MOD	OUTPUTNAME:Sommeil réparateur	DESC:.CLEAR	DESC:Gagne plus de points de vie en dormant.
+Sleepwalk.MOD	OUTPUTNAME:Somnambulisme	DESC:.CLEAR	DESC:La créature se déplace en dormant.
+Dragon's Breath.MOD	OUTPUTNAME:Souffle de dragon	DESC:.CLEAR	DESC:Le personnage bénéficie du souffle d'un dragon.
+Fire Breath.MOD	OUTPUTNAME:Souffle de feu	DESC:.CLEAR	DESC:Exhale à volonté un cône de flamme.
+Suffocation.MOD	OUTPUTNAME:Suffocation	DESC:.CLEAR	DESC:La cible suffoque rapidement.
+Suffocation, Mass.MOD	OUTPUTNAME:Suffocation de groupe	DESC:.CLEAR	DESC:Une créature/niveau suffoque.
+Thundering Drums.MOD	OUTPUTNAME:Tambours tonnants	DESC:.CLEAR	DESC:1d8 points de dégâts/niveau et renversé.
+Phantasmal Web.MOD	OUTPUTNAME:Toile fantasmagorique	DESC:.CLEAR	DESC:La cible est prise dans une toile d'araignée imaginaire.
+Hydraulic Torrent.MOD	OUTPUTNAME:Torrent hydraulique	DESC:.CLEAR	DESC:Crée un torrent d'eau qui renverse toutes les créatures qui se trouvent sur son passage.
+Allfood.MOD	OUTPUTNAME:Tout se mange	DESC:.CLEAR	DESC:Transforme les objets de moins de 2,5 kg en nourriture.
+Euphoric Tranquility.MOD	OUTPUTNAME:Tranquillité euphorique	DESC:.CLEAR	DESC:Rend une unique créature pacifique et amicale.
+Divine Transfer.MOD	OUTPUTNAME:Transfert divin	DESC:.CLEAR	DESC:Transfert des points de vie et donne une RD/Mal à une créature.
+Transmogrify.MOD	OUTPUTNAME:Transformation	DESC:.CLEAR	DESC:Change les évolutions de l'eidolon.
+Resurgent Transformation.MOD	OUTPUTNAME:Transformation résurgente	DESC:.CLEAR	DESC:Quand le personnage frôle la mort, il bénéficie d'un regain d'énergie.
+Alchemical Allocation.MOD	OUTPUTNAME:Transmission alchimique	DESC:.CLEAR	DESC:Bénéficie des effets d'une potion sans la boire.
+Transmute Potion to Poison.MOD	OUTPUTNAME:Transmutation de potion en poison	DESC:.CLEAR	DESC:Crache du poison sur une arme après avoir bu une potion.
+Follow Aura.MOD	OUTPUTNAME:Traquer l'aura	DESC:.CLEAR	DESC:Permet de suivre la piste laissée par l'aura d'un alignement.
+Stumble Gap.MOD	OUTPUTNAME:Trébucher dans un trou	DESC:.CLEAR	DESC:Petits trous pour faire trébucher une créature.
+Threefold Aspect.MOD	OUTPUTNAME:Triple aspect	DESC:.CLEAR	DESC:Le personnage paraît plus jeune ou plus âgé.
+Memory Lapse.MOD	OUTPUTNAME:Trou de mémoire	DESC:.CLEAR	DESC:Le sujet oublie les évènements qui se sont déroulés depuis le dernier tour.
+Tsunami.MOD	OUTPUTNAME:Tsunami	DESC:.CLEAR	DESC:Une vague gigantesque abîme et balaye tout ce qui se trouve sur son passage.
+Slipstream.MOD	OUTPUTNAME:Vague	DESC:.CLEAR	DESC:Une vague augmente la vitesse de la créature.
+World Wave.MOD	OUTPUTNAME:Vague mondiale	DESC:.CLEAR	DESC:Une vague d'eau ou de terre emporte le personnage sur une grande distance.
+Phantasmal Revenge.MOD	OUTPUTNAME:Vengeance fantasmagorique	DESC:.CLEAR	DESC:Un fantôme se lève du cadavre et chasse son assassin.
+Winds of Vengeance.MOD	OUTPUTNAME:Vents de la vengeance	DESC:.CLEAR	DESC:Permet de voler et d'attaquer avec le vent.
+Pox Pustules.MOD	OUTPUTNAME:Vérole	DESC:.CLEAR	DESC:Le sujet est fiévreux et subit -4 Dex.
+Righteous Vigor.MOD	OUTPUTNAME:Vigueur du juste	DESC:.CLEAR	DESC:Améliore l'attaque à chaque coup.
+Veil of Positive Energy.MOD	OUTPUTNAME:Voile d'énergie positive	DESC:.CLEAR	DESC:+2 CA, +2 aux jets de sauvegarde contre les morts-vivants.
+Fly, Mass.MOD	OUTPUTNAME:Vol de groupe	DESC:.CLEAR	DESC:Une créature/niveau peut voler.
+Vomit Swarm.MOD	OUTPUTNAME:Vomir une nuée	DESC:.CLEAR	DESC:Produit une nuée d'araignées qui se battent pour le personnage.
+Vortex.MOD	OUTPUTNAME:Vortex	DESC:.CLEAR	DESC:Crée un tourbillon dans l'eau.
+Web Shelter.MOD	OUTPUTNAME:Abri de toile	DESC:.CLEAR	DESC:Crée un abri confortable en toile d'araignée.
+Exquisite Accompaniment.MOD	OUTPUTNAME:Accompagnement exquis	DESC:.CLEAR	DESC:L'instrument maintient la représentation bardique au profit du personnage.
+Bestow Grace of the Champion.MOD	OUTPUTNAME:Accorder la grâce du champion	DESC:.CLEAR	DESC:La cible gagne des pouvoirs de paladin pendant 1 round/niveau.
+Forbid Action.MOD	OUTPUTNAME:Action interdite	DESC:.CLEAR	DESC:La cible obéit au personnage qui lui interdit de faire quelque chose.
+Forbid Action, Greater.MOD	OUTPUTNAME:Action interdite supérieure	DESC:.CLEAR	DESC:Comme action interdite mais 1 créature/niveau.
+Agonize.MOD	OUTPUTNAME:Agonie	DESC:.CLEAR	DESC:La douleur encourage un extérieur à obéir au personnage.
+Persuasive Goad.MOD	OUTPUTNAME:Aiguillon persuasif	DESC:.CLEAR	DESC:La cible subit 1d6 points de dégâts non létaux, le personnage gagne un bonus d'Intimidation.
+Eagle Aerie.MOD	OUTPUTNAME:Aire de l'aigle	DESC:.CLEAR	DESC:Convoque 1 aigle géant/3 niveaux.
+Allegro.MOD	OUTPUTNAME:Allegro	DESC:.CLEAR	DESC:Rapidité pendant la représentation bardique.
+Compassionate Ally.MOD	OUTPUTNAME:Allié compatissant	DESC:.CLEAR	DESC:La cible est obligée d'aider un allié blessé.
+Vocal Alteration.MOD	OUTPUTNAME:Altération vocale	DESC:.CLEAR	DESC:Déguise la voix.
+Undead Anatomy I.MOD	OUTPUTNAME:Anatomie morte-vivante I	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs de morts-vivants P ou M.
+Undead Anatomy II.MOD	OUTPUTNAME:Anatomie morte-vivante II	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs de morts-vivants TP ou G.
+Undead Anatomy III.MOD	OUTPUTNAME:Anatomie morte-vivante III	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs de morts-vivants de taille Min ou TG.
+Undead Anatomy IV.MOD	OUTPUTNAME:Anatomie morte-vivante IV	DESC:.CLEAR	DESC:Comme forme de mort-vivant III mais avec plus de pouvoirs.
+Anthropomorphic Animal.MOD	OUTPUTNAME:Animal anthropomorphe	DESC:.CLEAR	DESC:Un animal devient bipède.
+Animate Dead, Lesser.MOD	OUTPUTNAME:Animation des morts mineure	DESC:.CLEAR	DESC:Crée un squelette ou un zombi.
+Anticipate Peril.MOD	OUTPUTNAME:Anticipation du danger	DESC:.CLEAR	DESC:La cible gagne un bonus à un test d'initiative.
+Soothe Construct.MOD	OUTPUTNAME:Apaisement de créatures artificielles	DESC:.CLEAR	DESC:Réduit les chances qu'une créature artificielle devienne berserk.
+Call Construct.MOD	OUTPUTNAME:Appel de créature artificielle	DESC:.CLEAR	DESC:Appelle un golem auprès du personnage.
+Blood Transcription.MOD	OUTPUTNAME:Apprentissage par le sang	DESC:.CLEAR	DESC:Apprend un sort grâce au sang de la cible.
+Lightning Arc.MOD	OUTPUTNAME:Arc électrique	DESC:.CLEAR	DESC:Les cibles situées sur une ligne prennent 1d6 électricité/niveau.
+Shadow Weapon.MOD	OUTPUTNAME:Arme d'ombre	DESC:.CLEAR	DESC:Crée une arme de maître quasi réelle.
+Atavism.MOD	OUTPUTNAME:Atavisme	DESC:.CLEAR	DESC:Les animaux gagnent l'archétype simple de créature évoluée.
+Atavism, Mass.MOD	OUTPUTNAME:Atavisme de groupe	DESC:.CLEAR	DESC:1 animal/niveau gagne l'archétype évolué.
+Archon's Aura.MOD	OUTPUTNAME:Aura d'archon	DESC:.CLEAR	DESC:L'aura pénalise l'attaque et la CA des ennemis.
+Aura of Doom.MOD	OUTPUTNAME:Aura de funeste destin	DESC:.CLEAR	DESC:Les créatures situées dans l'aura sont secouées.
+Fumbletongue.MOD	OUTPUTNAME:Bafouiller	DESC:.CLEAR	DESC:La cible ne peut plus parler de façon intelligible.
+Cushioning Bands.MOD	OUTPUTNAME:Bandes de protection	DESC:.CLEAR	DESC:Des bandes de force protègent contre l'écrasement.
+Shadowbard.MOD	OUTPUTNAME:Barde d'ombre	DESC:.CLEAR	DESC:Clone d'ombre qui commence une représentation bardique.
+Blessing of the Mole.MOD	OUTPUTNAME:Bénédiction de la taupe	DESC:.CLEAR	DESC:1 allié/niveau gagne vision dans le noir et +2 Discrétion.
+Holy Shield.MOD	OUTPUTNAME:Bouclier sacré	DESC:.CLEAR	DESC:Accorde la protection du bouclier du personnage à un tiers.
+Tar Ball.MOD	OUTPUTNAME:Boule de goudron	DESC:.CLEAR	DESC:Un goudron brûlant blesse la cible et réduit sa Dextérité.
+Bungle.MOD	OUTPUTNAME:Boulette	DESC:.CLEAR	DESC:La cible reçoit un malus de -20 à son prochain jet d'attaque ou test.
+Distressing Tone.MOD	OUTPUTNAME:Bruit pénible	DESC:.CLEAR	DESC:Le bruit rend 1d4 créatures fiévreuses.
+Vitriolic Mist.MOD	OUTPUTNAME:Brume de vitriol	DESC:.CLEAR	DESC:Comme bouclier de feu mais dégâts d'acide.
+Haunting Mists.MOD	OUTPUTNAME:Brume hantée	DESC:.CLEAR	DESC:Les créatures sont secouées et subissent des affaiblissements de Sagesse.
+Blood Mist.MOD	OUTPUTNAME:Brume sanglante	DESC:.CLEAR	DESC:La brume cause un affaiblissement de Sagesse et déclenche la rage.
+Distracting Cacophony.MOD	OUTPUTNAME:Cacophonie distrayante	DESC:.CLEAR	DESC:Le bruit complique les incantations.
+Toxic Gift.MOD	OUTPUTNAME:Cadeau empoisonné	DESC:.CLEAR	DESC:La cible souffre des effets d'un poison présent chez le personnage.
+Touch of Slime.MOD	OUTPUTNAME:Caresse vaseuse	DESC:.CLEAR	DESC:Le contact infeste la cible de vase verte.
+Dread Bolt.MOD	OUTPUTNAME:Carreau de peur	DESC:.CLEAR	DESC:Blesse et hébète peut-être les créatures Bonnes.
+Circle of Clarity.MOD	OUTPUTNAME:Cercle de clarté	DESC:.CLEAR	DESC:Une émanation gêne les illusions et la discrétion.
+Overwhelming Grief.MOD	OUTPUTNAME:Chagrin écrasant	DESC:.CLEAR	DESC:La cible attristée ne peut pas faire d'action et n'a plus son bonus de Dex.
+Ride the Lightning.MOD	OUTPUTNAME:Chevaucher la foudre	DESC:.CLEAR	DESC:Transforme en électricité.
+Ride the Waves.MOD	OUTPUTNAME:Chevaucher les vagues	DESC:.CLEAR	DESC:La cible peut respirer sous l'eau et nager.
+Strangling Hair.MOD	OUTPUTNAME:Cheveux étrangleurs	DESC:.CLEAR	DESC:Les cheveux s'animent et sont capables d'agripper quelqu'un.
+Haunting Choir.MOD	OUTPUTNAME:Chœur hanté	DESC:.CLEAR	DESC:Des esprits infligent des souffrances aux auditeurs.
+Unprepared Combatant.MOD	OUTPUTNAME:Combattant pris au dépourvu	DESC:.CLEAR	DESC:-4 aux tests d'initiative et de Réflexes de la cible.
+Know the Enemy.MOD	OUTPUTNAME:Connaître son ennemi	DESC:.CLEAR	DESC:Bonus de +10 à un test de Connaissance des monstres.
+Corrosive Touch.MOD	OUTPUTNAME:Contact corrosif	DESC:.CLEAR	DESC:Attaque de contact qui inflige 1d4 acide/niveau.
+Disfiguring Touch.MOD	OUTPUTNAME:Contact défigurant	DESC:.CLEAR	DESC:La cible est défigurée.
+Frigid Touch.MOD	OUTPUTNAME:Contact gelé	DESC:.CLEAR	DESC:La cible reçoit des dégâts de froid et elle est chancelante.
+Contagion, Greater.MOD	OUTPUTNAME:Contagion supérieure	DESC:.CLEAR	DESC:Infecte une cible avec une maladie magique.
+Control Construct.MOD	OUTPUTNAME:Contrôle de créature artificielle	DESC:.CLEAR	DESC:Prend le contrôle d'une créature artificielle.
+Control Summoned Creature.MOD	OUTPUTNAME:Contrôle des créatures convoquées	DESC:.CLEAR	DESC:Le personnage dirige un monstre convoqué comme si c'était lui qui l'avait appelé.
+Summon Minor Ally.MOD	OUTPUTNAME:Convocation d'alliés mineur	DESC:.CLEAR	DESC:Convoque 1d3 animaux TP.
+Summon Froghemoth.MOD	OUTPUTNAME:Convocation de froghémoth	DESC:.CLEAR	DESC:Convoque un froghémoth.
+Summon Minor Monster.MOD	OUTPUTNAME:Convocation de monstres mineure	DESC:.CLEAR	DESC:Convoque 1d3 animaux TP.
+Conjure Black Pudding.MOD	OUTPUTNAME:Convocation de pudding noir	DESC:.CLEAR	DESC:Convoque un pudding noir.
+Summon Elder Worm.MOD	OUTPUTNAME:Convocation de ver vénérable	DESC:.CLEAR	DESC:Convoque un vert pourpre géant.
+Horn of Pursuit.MOD	OUTPUTNAME:Cor de poursuite	DESC:.CLEAR	DESC:Crée trois notes entendues à des kilomètres.
+Chord of Shards.MOD	OUTPUTNAME:Corde d'échardes	DESC:.CLEAR	DESC:La représentation inflige 2d6 points de dégâts perforants.
+Ice Body.MOD	OUTPUTNAME:Corps de glace	DESC:.CLEAR	DESC:Le corps du personnage devient de la glace vivante.
+Corrosive Consumption.MOD	OUTPUTNAME:Corrosion	DESC:.CLEAR	DESC:Une tache acide blesse un adversaire.
+Spit Venom.MOD	OUTPUTNAME:Crachat venimeux	DESC:.CLEAR	DESC:Crache du venin de vipère noire aveuglant.
+Cackling Skull.MOD	OUTPUTNAME:Crâne ricanant	DESC:.CLEAR	DESC:Un crâne agit comme une bouche magique, les auditeurs sont secoués.
+Create Demiplane.MOD	OUTPUTNAME:Création de demi-plan	DESC:.CLEAR	DESC:Comme création de demi-plan mineure mais plus grand et avec des caractéristiques planaires.
+Create Demiplane, Lesser.MOD	OUTPUTNAME:Création de demi-plan mineure	DESC:.CLEAR	DESC:Création d'un demi-plan.
+Create Demiplane, Greater.MOD	OUTPUTNAME:Création de demi-plan supérieure	DESC:.CLEAR	DESC:Comme création de demi-plan mais plus grand et avec plus de caractéristiques planaires.
+Unbreakable Construct.MOD	OUTPUTNAME:Créature artificielle incassable	DESC:.CLEAR	DESC:Augmente la résistance ou la RD d'une créature artificielle.
+Burrow.MOD	OUTPUTNAME:Creusement	DESC:.CLEAR	DESC:La cible gagne une vitesse de creusement de 4,50 m.
+Ki Shout.MOD	OUTPUTNAME:Cri ki	DESC:.CLEAR	DESC:La cible reçoit 1d6 dégâts sonores/niveau et elle est étourdie.
+Ear-Piercing Scream.MOD	OUTPUTNAME:Cri perçant	DESC:.CLEAR	DESC:Inflige des dégâts sonores et hébète la cible.
+Force Hook Charge.MOD	OUTPUTNAME:Crochet de force	DESC:.CLEAR	DESC:Un crochet de force attire le personnage vers la cible.
+Icicle Dagger.MOD	OUTPUTNAME:Dague de stalactite	DESC:.CLEAR	DESC:Dague de maître en glace qui inflige 1 point de dégâts de froid.
+Dance of a Hundred Cuts.MOD	OUTPUTNAME:Danse des cent coupures	DESC:.CLEAR	DESC:Bonus de +1/3 niveaux au combat.
+Dance of a Thousand Cuts.MOD	OUTPUTNAME:Danse des mille coupures	DESC:.CLEAR	DESC:Comme danse des cent coupures mais bénéficie de rapidité.
+Silk to Steel.MOD	OUTPUTNAME:De la soie à l'acier	DESC:.CLEAR	DESC:Change une écharpe en bouclier ou en fouet.
+Defensive Shock.MOD	OUTPUTNAME:Décharge défensive	DESC:.CLEAR	DESC:L'électricité blesse les adversaires.
+Decompose Corpse.MOD	OUTPUTNAME:Décomposition de cadavre	DESC:.CLEAR	DESC:Transforme un cadavre en squelette bien propre.
+Excruciating Deformation.MOD	OUTPUTNAME:Déformation douloureuse	DESC:.CLEAR	DESC:La cible subit un affaiblissement de Dex et de Con.
+Ghostly Disguise.MOD	OUTPUTNAME:Déguisement fantomatique	DESC:.CLEAR	DESC:La cible ressemble à son propre fantôme.
+Disguise Other.MOD	OUTPUTNAME:Déguiser autrui	DESC:.CLEAR	DESC:Comme déguisement mais affecte un tiers.
+Unnatural Lust.MOD	OUTPUTNAME:Désir anormal	DESC:.CLEAR	DESC:La cible est obligée d'en embrasser ou d'en caresser une autre.
+Diagnose Disease.MOD	OUTPUTNAME:Diagnostic	DESC:.CLEAR	DESC:Détecte et identifie les maladies.
+Remove Sickness.MOD	OUTPUTNAME:Dissipation de la fièvre	DESC:.CLEAR	DESC:Supprime les conditions malade, nauséeux et fiévreux.
+Snapdragon Fireworks.MOD	OUTPUTNAME:Dragon d'artifice	DESC:.CLEAR	DESC:Crée un dragon en feu d'artifice/niveau.
+Malfunction.MOD	OUTPUTNAME:Dysfonctionnement	DESC:.CLEAR	DESC:Les créatures artificielles se comportent étrangement pendant 1 round/niveau.
+Prediction of Failure.MOD	OUTPUTNAME:Échec annoncé	DESC:.CLEAR	DESC:La cible est secouée et fiévreuse de façon permanente et peut même recevoir une plaie magique.
+Echolocation.MOD	OUTPUTNAME:Écholocalisation	DESC:.CLEAR	DESC:Les sens radars du personnage lui donnent la vision aveugle à 12 mètres.
+Shard of Chaos.MOD	OUTPUTNAME:Éclat du chaos	DESC:.CLEAR	DESC:Blesse et hébète peut-être les créatures Loyales.
+Reckless Infatuation.MOD	OUTPUTNAME:Engouement téméraire	DESC:.CLEAR	DESC:La cible est obligée de rester à côté d'une autre.
+Oppressive Boredom.MOD	OUTPUTNAME:Ennui oppressant	DESC:.CLEAR	DESC:La cible perd sa prochaine action.
+Unholy Sword.MOD	OUTPUTNAME:Épée impie	DESC:.CLEAR	DESC:L'arme devient +5 et inflige +2d6 points de dégâts contre le bien.
+Epidemic.MOD	OUTPUTNAME:Épidémie	DESC:.CLEAR	DESC:Infecte un sujet avec une maladie très contagieuse.
+Caustic Eruption.MOD	OUTPUTNAME:Éruption caustique	DESC:.CLEAR	DESC:Explosion de 1d6 acide/niveau qui persiste.
+Eruptive Pustules.MOD	OUTPUTNAME:Éruption de pustules	DESC:.CLEAR	DESC:Des bubons acides explosent quand le personnage est attaqué.
+Malicious Spite.MOD	OUTPUTNAME:Esprit malveillant	DESC:.CLEAR	DESC:La cible est obligée de comploter contre une autre.
+Sonic Thrust.MOD	OUTPUTNAME:Estoc sonore	DESC:.CLEAR	DESC:Le bruit éloigne la cible.
+Eldritch Fever.MOD	OUTPUTNAME:Étrange fièvre	DESC:.CLEAR	DESC:La cible est atteinte de la plaie étrange fièvre.
+Joyful Rapture.MOD	OUTPUTNAME:Extase	DESC:.CLEAR	DESC:Annule les émotions néfastes.
+Badger's Ferocity.MOD	OUTPUTNAME:Férocité du blaireau	DESC:.CLEAR	DESC:Tant que le personnage se concentre, les armes sont acérées.
+Delusional Pride.MOD	OUTPUTNAME:Fierté illusoire	DESC:.CLEAR	DESC:La cible a un malus aux jets d'attaque et aux tests mais un bonus contre le charme et la coercition.
+Ki Arrow.MOD	OUTPUTNAME:Flèche de ki	DESC:.CLEAR	DESC:La flèche inflige les mêmes dégâts que les coups à mains nues.
+Arrow of Law.MOD	OUTPUTNAME:Flèche de loi	DESC:.CLEAR	DESC:Blesse et hébète peut-être les créatures Chaotiques.
+Mad Hallucination.MOD	OUTPUTNAME:Folle hallucination	DESC:.CLEAR	DESC:La cible subit des malus aux actions mentales.
+Vermin Shape I.MOD	OUTPUTNAME:Forme de vermine I	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs d'une vermine P ou M.
+Vermin Shape II.MOD	OUTPUTNAME:Forme de vermine II	DESC:.CLEAR	DESC:Comme forme de vermine I mais TP ou G.
+Blood Crow Strike.MOD	OUTPUTNAME:Frappe de la corneille sanglante	DESC:.CLEAR	DESC:Les frappes à mains nues créent des corneilles qui infligent des dégâts de feu et d'énergie négative.
+Unshakable Chill.MOD	OUTPUTNAME:Froid pénétrant	DESC:.CLEAR	DESC:La cible est victime d'un froid important.
+Cold Ice Strike.MOD	OUTPUTNAME:Froide frappe de glace	DESC:.CLEAR	DESC:Cône d'éclats de glace qui inflige 1d6 points de dégâts de froid/niveau.
+Familiar Melding.MOD	OUTPUTNAME:Fusion avec le familier	DESC:.CLEAR	DESC:Possession du familier.
+Holy Ice.MOD	OUTPUTNAME:Glace bénie	DESC:.CLEAR	DESC:Crée un mur ou des javelots d'eau bénie gelée.
+Unholy Ice.MOD	OUTPUTNAME:Glace maudite	DESC:.CLEAR	DESC:Crée un mur ou des javelots d'eau maudite gelée.
+Daze, Mass.MOD	OUTPUTNAME:Hébétement de groupe	DESC:.CLEAR	DESC:Comme hébétement mais sur plusieurs créatures.
+Howling Agony.MOD	OUTPUTNAME:Hurlement d'agonie	DESC:.CLEAR	DESC:Une douleur à hurler limite les actions de la cible.
+Piercing Shriek.MOD	OUTPUTNAME:Hurlement perçant	DESC:.CLEAR	DESC:La cible est chancelante à cause d'un son douloureux.
+Primal Scream.MOD	OUTPUTNAME:Hurlement primitif	DESC:.CLEAR	DESC:Libère des effets d'enchantement et de paralysie.
+Imbue with Aura.MOD	OUTPUTNAME:imprégner d'aura	DESC:.CLEAR	DESC:La cible imite l'aura du prêtre.
+Fleshworm Infestation.MOD	OUTPUTNAME:Infestation de vers	DESC:.CLEAR	DESC:Des vers infligent des dégâts et un affaiblissement de Dex.
+Fungal Infestation.MOD	OUTPUTNAME:Infestation fongique	DESC:.CLEAR	DESC:La cible saigne quand on l'attaque.
+Countless Eyes.MOD	OUTPUTNAME:Innombrables yeux	DESC:.CLEAR	DESC:Des yeux supplémentaires donnent la vision à 360°.
+Interrogation.MOD	OUTPUTNAME:Interrogatoire	DESC:.CLEAR	DESC:La cible répond aux questions ou souffre.
+Interrogation, Greater.MOD	OUTPUTNAME:Interrogatoire supérieur	DESC:.CLEAR	DESC:Comme interrogatoire mais avec plus de douleur et de questions.
+Burst of Nettles.MOD	OUTPUTNAME:Invasion d'orties	DESC:.CLEAR	DESC:Une explosion inflige 3d6 points de dégâts et 1d6 d'acide.
+Acidic Spray.MOD	OUTPUTNAME:Jet d'acide	DESC:.CLEAR	DESC:1d6 points de dégâts d'acide/niveau plus 1 round d'acide.
+Youthful Appearance.MOD	OUTPUTNAME:Jeunesse apparente	DESC:.CLEAR	DESC:La cible semble plus jeune.
+Play Instrument.MOD	OUTPUTNAME:Jouer d'un instrument	DESC:.CLEAR	DESC:Le personnage joue d'un instrument comme s'il avait appris.
+Blade of Dark Triumph.MOD	OUTPUTNAME:Lame de sombre triomphe	DESC:.CLEAR	DESC:L'arme liée devient spectrale.
+Blade of Bright Victory.MOD	OUTPUTNAME:Lame de triomphe éclatant	DESC:.CLEAR	DESC:L'arme liée devient spectrale.
+Spear of Purity.MOD	OUTPUTNAME:Lance de pureté	DESC:.CLEAR	DESC:Blesse et hébète peut-être les créatures mauvaises.
+Battlemind Link.MOD	OUTPUTNAME:Lien des esprits combatifs	DESC:.CLEAR	DESC:Le personnage et un allié gagnent un bonus à l'attaque et à la CA.
+Curse of Disgust.MOD	OUTPUTNAME:Malédiction de dégoût	DESC:.CLEAR	DESC:Cible fiévreuse quand elle voit le déclencheur.
+Curse of Magic Negation.MOD	OUTPUTNAME:Malédiction de négation magique	DESC:.CLEAR	DESC:La cible est affectée par la plaie magique de négation.
+Curse, Major.MOD	OUTPUTNAME:Malédiction majeure	DESC:.CLEAR	DESC:Comme malédiction mais plus difficile à dissiper.
+Cape of Wasps.MOD	OUTPUTNAME:Manteau de guêpes	DESC:.CLEAR	DESC:Une nuée de guêpes défend ou porte le personnage.
+Skinsend.MOD	OUTPUTNAME:Marionnette de peau	DESC:.CLEAR	DESC:Anime et possède la peau du personnage comme une créature séparée.
+Arboreal Hammer.MOD	OUTPUTNAME:Marteau arboricole	DESC:.CLEAR	DESC:Les branches des arbres attaquent les ennemis.
+Leashed Shackles.MOD	OUTPUTNAME:Menottes scellées	DESC:.CLEAR	DESC:La cible est limitée à un certain périmètre.
+Utter Contempt.MOD	OUTPUTNAME:Mépris absolu	DESC:.CLEAR	DESC:L'attitude de la cible empire de deux crans.
+Miserable Pity.MOD	OUTPUTNAME:Misérable pitié	DESC:.CLEAR	DESC:L'adversaire ne peut pas attaquer une créature pathétique.
+Wartrain Mount.MOD	OUTPUTNAME:Monture de guerre	DESC:.CLEAR	DESC:Un animal devient entraîné au combat.
+Frostbite.MOD	OUTPUTNAME:Morsure du froid	DESC:.CLEAR	DESC:La cible reçoit des dégâts de froid et elle est fatiguée.
+Word of Resolve.MOD	OUTPUTNAME:Mot de fermeté	DESC:.CLEAR	DESC:Les alliés relancent un jet de sauvegarde contre le charme ou la peur.
+Wall of Sound.MOD	OUTPUTNAME:Mur de son	DESC:.CLEAR	DESC:Mur de son qui dévie et blesse les créatures.
+Smug Narcissism.MOD	OUTPUTNAME:Narcissisme suffisant	DESC:.CLEAR	DESC:La cible est distraite par sa propre personne.
+Polar Midnight.MOD	OUTPUTNAME:Nuit polaire	DESC:.CLEAR	DESC:De froides ténèbres paralysent les créatures et leur infligent des dégâts.
+Orb of the Void.MOD	OUTPUTNAME:Orbe du néant	DESC:.CLEAR	DESC:Une sphère inflige des niveaux négatifs.
+Murderous Command.MOD	OUTPUTNAME:Ordre assassin	DESC:.CLEAR	DESC:La cible est obligée de tuer un allié.
+Polypurpose Panacea.MOD	OUTPUTNAME:Panacée universelle	DESC:.CLEAR	DESC:Effet relaxant ou divertissant.
+Vestment of the Champion.MOD	OUTPUTNAME:Panoplie du champion	DESC:.CLEAR	DESC:Une armure ou un bouclier reçoit un bonus d'altération de +1 par tranche de 4 niveaux.
+Resonating Word.MOD	OUTPUTNAME:Parole résonnante	DESC:.CLEAR	DESC:La cible est blessée, chancelante et étourdie.
+Share Memory.MOD	OUTPUTNAME:Partage des souvenirs	DESC:.CLEAR	DESC:Partage un souvenir avec la cible.
+Shadow Step.MOD	OUTPUTNAME:Pas de l'ombre	DESC:.CLEAR	DESC:Téléportation d'une ombre à une autre.
+Protective Penumbra.MOD	OUTPUTNAME:Pénombre protectrice	DESC:.CLEAR	DESC:L'ombre protège la cible contre la lumière.
+Wooden Phalanx.MOD	OUTPUTNAME:Phalange de bois	DESC:.CLEAR	DESC:Crée temporairement 1d4+2 golems de bois qui se battent pour le personnage.
+Monstrous Physique I.MOD	OUTPUTNAME:Physique monstrueux I	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs d'humanoïdes monstrueux P ou M.
+Monstrous Physique II.MOD	OUTPUTNAME:Physique monstrueux II	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs d'humanoïdes monstrueux TP ou G.
+Monstrous Physique III.MOD	OUTPUTNAME:Physique monstrueux III	DESC:.CLEAR	DESC:Prend la forme et les pouvoirs d'humanoïdes monstrueux de taille Min ou TG.
+Monstrous Physique IV.MOD	OUTPUTNAME:Physique monstrueux IV	DESC:.CLEAR	DESC:Comme physique monstrueux III avec plus de pouvoirs.
+Rain of Frogs.MOD	OUTPUTNAME:Pluie de grenouilles	DESC:.CLEAR	DESC:Convoque une nuée de grenouilles empoisonnées.
+Force Punch.MOD	OUTPUTNAME:Poing de force	DESC:.CLEAR	DESC:La cible reçoit 1d4 points de dégâts de force par niveau et elle est repoussée.
+Pernicious Poison.MOD	OUTPUTNAME:Poison pernicieux	DESC:.CLEAR	DESC:La cible reçoit un malus de -4 contre le poison.
+Plague Carrier.MOD	OUTPUTNAME:Porte-peste	DESC:.CLEAR	DESC:Les attaques de la cible transmettent la fièvre des marais.
+Marionette Possession.MOD	OUTPUTNAME:Possession de marionnette	DESC:.CLEAR	DESC:Comme possession mais limité à la ligne de mire.
+Possess Object.MOD	OUTPUTNAME:Possession d'objet	DESC:.CLEAR	DESC:Possède et anime un objet.
+Divine Pursuit.MOD	OUTPUTNAME:Poursuite divine	DESC:.CLEAR	DESC:Gagne un des types de déplacement de la proie.
+Overwhelming Presence.MOD	OUTPUTNAME:Présence écrasante	DESC:.CLEAR	DESC:Les créatures s'inclinent devant le personnage comme devant un dieu.
+Icy Prison.MOD	OUTPUTNAME:Prison de glace	DESC:.CLEAR	DESC:Une épaisse gangue de glace retient la cible et la blesse.
+Icy Prison, Mass.MOD	OUTPUTNAME:Prison de glace de groupe	DESC:.CLEAR	DESC:Comme prison de glace mais affecte 1 créature/niveau.
+Astral Projection, Lesser.MOD	OUTPUTNAME:Projection astrale mineure	DESC:.CLEAR	DESC:Déplacements astraux limités.
+Envious Urge.MOD	OUTPUTNAME:Pulsion de jalousie	DESC:.CLEAR	DESC:La cible vole ou désarme autrui.
+Unadulterated Loathing.MOD	OUTPUTNAME:Pur dégoût	DESC:.CLEAR	DESC:La cible est obligée d'éviter une créature.
+Raise Animal Companion.MOD	OUTPUTNAME:Rappel de compagnon animal	DESC:.CLEAR	DESC:Comme rappel à la vie mais pour un compagnon animal.
+Ray of Sickening.MOD	OUTPUTNAME:Rayon de fièvre	DESC:.CLEAR	DESC:Le rayon rend la cible fiévreuse.
+Oracle's Vessel.MOD	OUTPUTNAME:Réceptacle de l'oracle	DESC:.CLEAR	DESC:La cible bénéficie des avantages de la malédiction de l'oracle.
+Lend Judgment.MOD	OUTPUTNAME:Rendre un jugement	DESC:.CLEAR	DESC:Les alliés bénéficient des avantages d'un jugement.
+Lend Judgment, Greater.MOD	OUTPUTNAME:Rendre un jugement supérieur	DESC:.CLEAR	DESC:Un allié bénéficie de tous les jugements.
+Rapid Repair.MOD	OUTPUTNAME:Réparation rapide	DESC:.CLEAR	DESC:Les créatures artificielles gagnent guérison accélérée 5.
+Virtuoso Performance.MOD	OUTPUTNAME:Représentation de virtuose	DESC:.CLEAR	DESC:Commence une seconde représentation bardique alors que la première se prolonge.
+Reprobation.MOD	OUTPUTNAME:Réprobation	DESC:.CLEAR	DESC:Les membres de la religion du personnage fuient la cible marquée.
+Age Resistance.MOD	OUTPUTNAME:Résistance à l'âge	DESC:.CLEAR	DESC:Ignore les malus de l'âge avancé.
+Age Resistance, Lesser.MOD	OUTPUTNAME:Résistance à l'âge mineure	DESC:.CLEAR	DESC:Ignore les malus de l'âge moyen.
+Age Resistance, Greater.MOD	OUTPUTNAME:Résistance à l'âge supérieure	DESC:.CLEAR	DESC:Ignore les malus de l'âge vénérable.
+Restore Corpse.MOD	OUTPUTNAME:Restauration de cadavre	DESC:.CLEAR	DESC:La chair recouvre un squelette.
+Restore Eidolon.MOD	OUTPUTNAME:Restauration d'eidolon	DESC:.CLEAR	DESC:Restauration pour un eidolon.
+Restore Eidolon, Lesser.MOD	OUTPUTNAME:Restauration d'eidolon mineure	DESC:.CLEAR	DESC:Restauration partielle pour un eidolon.
+Temporary Resurrection.MOD	OUTPUTNAME:Résurrection temporaire	DESC:.CLEAR	DESC:Ramène une créature à la vie pendant 24 heures, après quoi, elle meurt à nouveau.
+Delay Pain.MOD	OUTPUTNAME:Retardement de la douleur	DESC:.CLEAR	DESC:Ignore la douleur pendant 1 heure/niveau.
+Sands of Time.MOD	OUTPUTNAME:Sables du temps	DESC:.CLEAR	DESC:La cible vieillit temporairement.
+Sanctify Corpse.MOD	OUTPUTNAME:Sanctification de cadavre	DESC:.CLEAR	DESC:Empêche un cadavre de devenir mort-vivant.
+Boiling Blood.MOD	OUTPUTNAME:Sang bouillant	DESC:.CLEAR	DESC:La cible reçoit des dégâts de feu, les orques gagnent +2 Force.
+Ki Leech.MOD	OUTPUTNAME:Sangsue de ki	DESC:.CLEAR	DESC:Ajout de ki à la réserve lors d'un coup critique.
+Hex Ward.MOD	OUTPUTNAME:Sceau contre les maléfices	DESC:.CLEAR	DESC:La cible a un bonus de +4 aux jets de sauvegarde contre les maléfices des sorcières.
+Sculpt Simulacrum.MOD	OUTPUTNAME:Sculpture de simulacre	DESC:.CLEAR	DESC:Modifie l'apparence d'un simulacre.
+Acute Senses.MOD	OUTPUTNAME:Sens aiguisés	DESC:.CLEAR	DESC:Bonus aux tests de Perception.
+Serenity.MOD	OUTPUTNAME:Sérénité	DESC:.CLEAR	DESC:Sentiment paisible qui blesse les créatures violentes.
+Forced Quiet.MOD	OUTPUTNAME:Silence forcé	DESC:.CLEAR	DESC:La cible ne peut pas faire de bruit important.
+False Life, Greater.MOD	OUTPUTNAME:Simulacre de vie supérieur	DESC:.CLEAR	DESC:Gagne 2d10 points de vie temporaire + 1/niveau.
+Simulacrum, Lesser.MOD	OUTPUTNAME:Simulacre mineur	DESC:.CLEAR	DESC:Crée un double d'une créature faible.
+Mad Monkeys.MOD	OUTPUTNAME:Singes fous	DESC:.CLEAR	DESC:Convoque une nuée de singes espiègles.
+Surmount Affliction.MOD	OUTPUTNAME:Surmonter l'affliction	DESC:.CLEAR	DESC:Supprime temporairement une condition.
+Symbol of Healing.MOD	OUTPUTNAME:Symbole de guérison	DESC:.CLEAR	DESC:La rune déclenchée soigne les créatures vivantes.
+Symbol of Slowing.MOD	OUTPUTNAME:Symbole de lenteur	DESC:.CLEAR	DESC:Déclenche une rune qui ralentit les créatures.
+Symbol of Strife.MOD	OUTPUTNAME:Symbole de lutte	DESC:.CLEAR	DESC:Déclenche une rune qui oblige une créature à attaquer.
+Symbol of Mirroring.MOD	OUTPUTNAME:Symbole de miroir	DESC:.CLEAR	DESC:Déclenche une rune qui crée des images miroir.
+Symbol of Revelation.MOD	OUTPUTNAME:Symbole de révélation	DESC:.CLEAR	DESC:Déclenche un symbole qui révèle les illusions.
+Symbol of Sealing.MOD	OUTPUTNAME:Symbole de sceau	DESC:.CLEAR	DESC:Crée un mur de force à déclencheur.
+Symbol of Scrying.MOD	OUTPUTNAME:Symbole de scrutation	DESC:.CLEAR	DESC:Déclenche une rune qui active un capteur de scrutation.
+Symbol of Vulnerability.MOD	OUTPUTNAME:Symbole de vulnérabilité	DESC:.CLEAR	DESC:Déclenche une rune qui impose des malus temporaires.
+Interplanetary Teleport.MOD	OUTPUTNAME:Téléportation interplanétaire	DESC:.CLEAR	DESC:Téléportation sur une autre planète.
+Ice Crystal Teleport.MOD	OUTPUTNAME:Téléportation par cristal de glace	DESC:.CLEAR	DESC:La cible est gelée puis téléportée.
+Witness.MOD	OUTPUTNAME:Témoin	DESC:.CLEAR	DESC:Voir à travers les yeux d'une cible et écouter par ses oreilles.
+Ash Storm.MOD	OUTPUTNAME:Tempête de cendres	DESC:.CLEAR	DESC:Gêne la vision et le mouvement.
+Plague Storm.MOD	OUTPUTNAME:Tempête de peste	DESC:.CLEAR	DESC:Un nuage infecte les créatures comme contagion.
+Volcanic Storm.MOD	OUTPUTNAME:Tempête volcanique	DESC:.CLEAR	DESC:Des rochers brûlants infligent 5d6 points de dégâts.
+Cursed Earth.MOD	OUTPUTNAME:Terre maudite	DESC:.CLEAR	DESC:Les plantes meurent, les créatures vivantes tombent malades ou les créatures mortes se relèvent comme zombis.
+Terrible Remorse.MOD	OUTPUTNAME:Terrible remord	DESC:.CLEAR	DESC:La créature est obligée de se blesser.
+Masterwork Transformation.MOD	OUTPUTNAME:Transformation de maître	DESC:.CLEAR	DESC:Transforme un objet ordinaire en objet de maître.
+Transmute Blood to Acid.MOD	OUTPUTNAME:Transmutation du sang en acide	DESC:.CLEAR	DESC:La cible reçoit des dégâts d'acide à chaque round et ses assaillants en reçoivent aussi.
+Waves of Ecstasy.MOD	OUTPUTNAME:vagues d'extase	DESC:.CLEAR	DESC:Les créatures sont étourdies et chancelantes de plaisir.
+Vengeful Outrage.MOD	OUTPUTNAME:Vengeance pour outrage	DESC:.CLEAR	DESC:La cible est obligée de détruire un ennemi.
+Fickle Winds.MOD	OUTPUTNAME:Vents capricieux	DESC:.CLEAR	DESC:Mur de vent qui bloque des attaques particulières.
+Scouring Winds.MOD	OUTPUTNAME:Vents cinglants	DESC:.CLEAR	DESC:Le vent bloque la visibilité et inflige 3d6 points de dégâts.
+Darkvision, Greater.MOD	OUTPUTNAME:Vision dans le noir supérieure	DESC:.CLEAR	DESC:Vision à 36 mètres dans les ténèbres absolues.
+Vision of Hell.MOD	OUTPUTNAME:Vision infernale	DESC:.CLEAR	DESC:Un paysage infernal illusoire secoue les créatures.
+Lunar Veil.MOD	OUTPUTNAME:Voile lunaire	DESC:.CLEAR	DESC:Dissipe la lumière et inverse les lycanthropes.
+Loathsome Veil.MOD	OUTPUTNAME:Voile répugnant	DESC:.CLEAR	DESC:La nausée et/ou la fièvre affaiblit les créatures.
+Arcana Theft.MOD	OUTPUTNAME:Vol d'arcane	DESC:.CLEAR	DESC:La dissipation transmet un effet au personnage.
+Steal Voice.MOD	OUTPUTNAME:Vol de voix	DESC:.CLEAR	DESC:La cible est frappée de la plaie magique coassement.
+Abundant Ammunition.MOD	OUTPUTNAME:Abondance de munitions	DESC:.CLEAR	DESC:Les munitions non magiques se régénèrent à chaque round.
+Absorb Toxicity.MOD	OUTPUTNAME:Absorption de toxine	DESC:.CLEAR	DESC:Le personnage est temporairement immunisé contre les maladies et les toxines, il en absorbe une et la transmet à autrui.
+Adoration.MOD	OUTPUTNAME:Adoration	DESC:.CLEAR	DESC:Le personnage gagne un bonus aux tests de Diplomatie et de combat de spectacle.
+Forest Friend.MOD	OUTPUTNAME:Ami de la forêt	DESC:.CLEAR	DESC:Les plantes forestières se montrent serviables envers le personnage et ses alliés au lieu d'entraver leurs déplacements.
+Nondetection, Communal.MOD	OUTPUTNAME:Antidétection (partagé)	DESC:.CLEAR	DESC:Comme antidétection mais la durée d'effet se divise entre les créatures touchées.
+Siege of Trees.MOD	OUTPUTNAME:Arbres de siège	DESC:.CLEAR	DESC:Transforme des arbres G en catapultes végétales de même taille.
+Siege of Trees, Greater.MOD	OUTPUTNAME:Arbres de siège supérieur	DESC:.CLEAR	DESC:Comme arbres de siège mais transforme aussi des arbres TG ou Gig en catapultes végétales de même taille.
+Bowstaff.MOD	OUTPUTNAME:Arc-bâton	DESC:.CLEAR	DESC:Un arc court peut servir de gourdin et un arc long de bâton.
+Returning Weapon.MOD	OUTPUTNAME:Arme boomerang	DESC:.CLEAR	DESC:Donne la propriété boomerang à une arme.
+Returning Weapon, Communal.MOD	OUTPUTNAME:Arme boomerang (partagé)	DESC:.CLEAR	DESC:Comme arme boomerang mais la durée d'effet se divise entre les créatures touchées.
+Unerring Weapon.MOD	OUTPUTNAME:Arme infaillible	DESC:.CLEAR	DESC:Bonus de +2 qui augmente de +1 tous les quatre niveaux de lanceur de sorts aux jets d'attaque pour confirmer un coup critique.
+Warding Weapon.MOD	OUTPUTNAME:Arme protectrice	DESC:.CLEAR	DESC:L'arme que le personnage utilise comme focalisateur du sort le protège et lui permet de lancer des sorts sans provoquer d'attaque d'opportunité.
+Effortless Armor.MOD	OUTPUTNAME:Armure sans effort	DESC:.CLEAR	DESC:L'armure du personnage ne réduit plus sa vitesse de déplacement.
+Animal Aspect.MOD	OUTPUTNAME:Aspect animal	DESC:.CLEAR	DESC:Le personnage bénéficie des avantages d'un animal.
+Animal Aspect, Greater.MOD	OUTPUTNAME:Aspect animal supérieur	DESC:.CLEAR	DESC:Comme aspect animal mais donne droit à deux avantages animaux.
+Haunted Fey Aspect.MOD	OUTPUTNAME:Aspect de fée hantée	DESC:.CLEAR	DESC:Le personnage s'entoure d'illusions inquiétantes.
+Frightful Aspect.MOD	OUTPUTNAME:Aspect terrifiant	DESC:.CLEAR	DESC:Le personnage se transforme en une version G terrifiante de lui-même et émet une aura qui secoue ou effraye les créatures.
+Telekinetic Assembly.MOD	OUTPUTNAME:Assemblage par télékinésie	DESC:.CLEAR	DESC:Le personnage a besoin d'un ouvrier de moins par tranche de deux niveaux de lanceur de sorts pour assembler une arme de siège.
+Reloading Hands.MOD	OUTPUTNAME:Assistant de chargement	DESC:.CLEAR	DESC:Charge un tir dans une arme, à chaque round.
+Adjuring Step.MOD	OUTPUTNAME:Avancée assurée	DESC:.CLEAR	DESC:Le personnage peut avancer lentement et sûrement tout en lançant des sorts tant qu'il n'accélère pas, qu'il n'attaque pas et qu'il ne lance pas de sorts offensifs.
+Named Bullet.MOD	OUTPUTNAME:Balle dédiée	DESC:.CLEAR	DESC:Les munitions sont plus précises si elles visent un certain type de créature.
+Named Bullet, Greater.MOD	OUTPUTNAME:Balle dédiée supérieure	DESC:.CLEAR	DESC:Comme balle dédiée mais inflige 2 points de dégâts par niveau de lanceur de sorts.
+Ablative Barrier.MOD	OUTPUTNAME:Barrière protectrice	DESC:.CLEAR	DESC:Entoure la cible de couches de force.
+Shock Shield.MOD	OUTPUTNAME:Bouclier de foudre	DESC:.CLEAR	DESC:Un bouclier de force protège le personnage jusqu'à ce qu'il le renvoie dans une explosion de foudre.
+Bullet Shield.MOD	OUTPUTNAME:Bouclier pare-balles	DESC:.CLEAR	DESC:Le personnage gagne un bonus de parade de +4 à la CA contre les armes à feu.
+Air Bubble.MOD	OUTPUTNAME:Bulle d'air	DESC:.CLEAR	DESC:Crée une petite poche d'air autour de la tête du personnage ou autour d'un objet.
+Illusion of Calm.MOD	OUTPUTNAME:Calme illusoire	DESC:.CLEAR	DESC:On dirait que le personnage est immobile alors qu'il agit.
+Arcane Cannon.MOD	OUTPUTNAME:Canon arcanique	DESC:.CLEAR	DESC:Le focalisateur du personnage devient un canon magique qui tire de son propre chef.
+Chain of Perdition.MOD	OUTPUTNAME:Chaîne de perdition	DESC:.CLEAR	DESC:Crée une chaîne de force flottante.
+Phantom Chariot.MOD	OUTPUTNAME:Char fantôme	DESC:.CLEAR	DESC:Invoque un carrosse quasi-réel tiré par quatre chevaux.
+Ant Haul, Communal.MOD	OUTPUTNAME:Charge de fourmi (partagé)	DESC:.CLEAR	DESC:Comme charge de fourmi mais la durée d'effet se divise entre les créatures touchées.
+Telekinetic Charge.MOD	OUTPUTNAME:Charge télékinétique	DESC:.CLEAR	DESC:Propulse un allié dans les airs.
+Frost Fall.MOD	OUTPUTNAME:Chute de température	DESC:.CLEAR	DESC:La zone se couvre d'un froid glacial.
+Phantom Driver.MOD	OUTPUTNAME:Conducteur fantôme	DESC:.CLEAR	DESC:Convoque un fantôme pour conduire un véhicule.
+Deadeye's Lore.MOD	OUTPUTNAME:Connaissances du Borgne	DESC:.CLEAR	DESC:Le personnage gagne un bonus de +4 aux tests de Survie et peut suivre une piste alors qu'il se déplace au maximum de sa vitesse.
+Mutagenic Touch.MOD	OUTPUTNAME:Contact mutagène	DESC:.CLEAR	DESC:Le personnage transmet une version affaiblie de son mutagène à autrui.
+Thunder Fire.MOD	OUTPUTNAME:Coup tonitruant	DESC:.CLEAR	DESC:Les munitions de l'arme ciblée rendent les adversaires sourds.
+Wreath of Blades.MOD	OUTPUTNAME:Couronne de lames	DESC:.CLEAR	DESC:Quatre lames de mithral tournoient autour du personnage, attaquent les créatures voisines et le protègent contre les attaques d'opportunité quand il lance un sort.
+Phantom Steed, Communal.MOD	OUTPUTNAME:Coursier fantôme (partagé)	DESC:.CLEAR	DESC:Comme coursier fantôme mais la durée d'effet se divise entre les créatures touchées.
+Mask Dweomer, Communal.MOD	OUTPUTNAME:Dissimuler la magie (partagé)	DESC:.CLEAR	DESC:Comme dissimuler la magie mais la durée d'effet se divise entre les créatures touchées.
+Twisted Space.MOD	OUTPUTNAME:Distorsion spatiale	DESC:.CLEAR	DESC:Les attaques de la créature ciblée atterrissent dans une case aléatoire au lieu de celle qu'elle avait prévue.
+Tongues, Communal.MOD	OUTPUTNAME:Don des langues (partagé)	DESC:.CLEAR	DESC:Comme don des langues mais la durée d'effet se divise entre les créatures touchées.
+Burst of Speed.MOD	OUTPUTNAME:Élan de rapidité	DESC:.CLEAR	DESC:La vitesse du personnage augmente. Quand il se déplace, il ignore les attaques d'opportunité et peut traverser l'espace occupé par des créatures plus grandes que lui.
+Endure Elements, Communal.MOD	OUTPUTNAME:Endurance aux énergies destructives (partagé)	DESC:.CLEAR	DESC:Comme endurance aux énergies destructives mais la durée d'effet se divise entre les créatures touchées.
+Magic Siege Engine.MOD	OUTPUTNAME:Engin de siège magique	DESC:.CLEAR	DESC:L'engin de siège gagne un bonus de +1 aux jets de visée et de dégâts.
+Magic Siege Engine, Greater.MOD	OUTPUTNAME:Engin de siège magique supérieur	DESC:.CLEAR	DESC:L'engin de siège gagne un bonus de +1 aux jets de visée et de dégâts par tranche de quatre niveaux de lanceur de sorts.
+Mind Blank, Communal.MOD	OUTPUTNAME:Esprit impénétrable (partagé)	DESC:.CLEAR	DESC:Comme esprit impénétrable mais la durée d'effet se divise entre les créatures touchées.
+Fabricate Bullets.MOD	OUTPUTNAME:Fabrication de balles	DESC:.CLEAR	DESC:Convertit 0,5 kg de métal en munitions.
+Daybreak Arrow.MOD	OUTPUTNAME:Flèche de l'aube	DESC:.CLEAR	DESC:Les munitions ciblées émettent une énergie radieuse.
+Divine Arrow.MOD	OUTPUTNAME:Flèche sacrée	DESC:.CLEAR	DESC:Imprègne un projectile de puissance sacrée.
+Obsidian Flow.MOD	OUTPUTNAME:Flot obsidien	DESC:.CLEAR	DESC:Transforme une surface en verre fondu.
+Pup Shape.MOD	OUTPUTNAME:Forme de bébé	DESC:.CLEAR	DESC:Le personnage transforme un animal ou une créature magique en une version plus jeune et plus mignonne d'elle-même, pour une courte durée.
+Dust Form.MOD	OUTPUTNAME:Forme de poussière	DESC:.CLEAR	DESC:Le personnage devient temporairement une créature intangible faite de poussière.
+Mirror Strike.MOD	OUTPUTNAME:Frappe miroir	DESC:.CLEAR	DESC:Le personnage frappe plusieurs adversaires lors d'une seule attaque.
+Compel Hostility.MOD	OUTPUTNAME:Hostilité forcée	DESC:.CLEAR	DESC:Oblige les adversaires à attaquer le personnage au lieu de ses alliés.
+Shocking Image.MOD	OUTPUTNAME:Image de foudre	DESC:.CLEAR	DESC:Comme image miroir mais le double inflige des dégâts électriques quand on le détruit.
+Spontaneous Immolation.MOD	OUTPUTNAME:Immolation spontanée	DESC:.CLEAR	DESC:La cible subit 3d6 points de dégâts de feu et s'enflamme.
+Spell Immunity, Communal.MOD	OUTPUTNAME:Immunité contre les sorts (partagé)	DESC:.CLEAR	DESC:Comme immunité contre les sorts mais la durée d'effet se divise entre les créatures touchées.
+Spell Immunity, Greater Communal.MOD	OUTPUTNAME:Immunité contre les sorts suprême (partagé)	DESC:.CLEAR	DESC:Comme immunité contre les sorts suprême mais la durée d'effet se divise entre les créatures touchées.
+Touch Injection.MOD	OUTPUTNAME:Injection	DESC:.CLEAR	DESC:Le personnage peut administrer une infusion, un élixir, un poison ou une potion par une attaque de contact.
+Moment of Greatness.MOD	OUTPUTNAME:Instant de gloire	DESC:.CLEAR	DESC:Double un bonus de moral.
+Instrument of Agony.MOD	OUTPUTNAME:Instrument d'agonie	DESC:.CLEAR	DESC:L'arme émet une fureur divine qui donne un bonus aux tests d'Intimidation.
+Blistering Invective.MOD	OUTPUTNAME:Invective cuisante	DESC:.CLEAR	DESC:Le personnage fait un test d'Intimidation contre tous les adversaires situés dans les 9 (M). Ceux qu'il démoralise subissent des dégâts de feu.
+Heroic Invocation.MOD	OUTPUTNAME:Invocation héroïque	DESC:.CLEAR	DESC:Des créatures bénéficient de bonus aux jets d'attaque et de dégâts, de points de vie temporaires et d'une immunité contre les effets de peur et de charme.
+Deadly Juggernaut.MOD	OUTPUTNAME:Juggernaut mortel	DESC:.CLEAR	DESC:La puissance du personnage augmente à chaque fois qu'il tue.
+Hostile Juxtaposition.MOD	OUTPUTNAME:Juxtaposition hostile	DESC:.CLEAR	DESC:Le personnage crée un lien dimensionnel entre la créature visée et sa personne. Ils échangent de place.
+Hostile Juxtaposition, Greater.MOD	OUTPUTNAME:Juxtaposition hostile supérieure	DESC:.CLEAR	DESC:Le personnage peut viser une créature de plus tous les quatre niveaux de lanceur de sorts.
+Hostile Levitation.MOD	OUTPUTNAME:Lévitation hostile	DESC:.CLEAR	DESC:Fait léviter la créature visée.
+Summoner Conduit.MOD	OUTPUTNAME:Lien avec l'invocateur	DESC:.CLEAR	DESC:La cible subit des dégâts à chaque fois que ses créatures invoquées en reçoivent.
+Life Conduit.MOD	OUTPUTNAME:Lien de vie	DESC:.CLEAR	DESC:Le personnage se lie encore plus étroitement avec son eidolon et peut utiliser le pouvoir lien vital pour partager ses points de vie avec lui.
+Life Conduit, Greater.MOD	OUTPUTNAME:Lien de vie supérieur	DESC:.CLEAR	DESC:Le personnage peut transférer 3d6 points de vie à son eidolon par une action rapide.
+Companion Mind Link.MOD	OUTPUTNAME:Lien mental avec le compagnon	DESC:.CLEAR	DESC:Le personnage peut parler avec son compagnon animal et le gère avec une facilité surnaturelle.
+Litany of Defense.MOD	OUTPUTNAME:Litanie de défense	DESC:.CLEAR	DESC:Double le bonus d'altération d'une armure.
+Litany of Weakness.MOD	OUTPUTNAME:Litanie de faiblesse	DESC:.CLEAR	DESC:Une cible est fatiguée pour 1 round.
+Litany of Madness.MOD	OUTPUTNAME:Litanie de folie	DESC:.CLEAR	DESC:Une cible est confuse pour au moins 1 round.
+Litany of Escape.MOD	OUTPUTNAME:Litanie de fuite	DESC:.CLEAR	DESC:Téléporte un allié agrippé pour le libérer.
+Litany of Sloth.MOD	OUTPUTNAME:Litanie de paresse	DESC:.CLEAR	DESC:Une cible n'est plus en mesure de faire des attaques d'opportunité pendant 1 round.
+Litany of Warding.MOD	OUTPUTNAME:Litanie de prévention	DESC:.CLEAR	DESC:Deux attaques d'opportunité de plus pendant 1 round.
+Litany of Thunder.MOD	OUTPUTNAME:Litanie de tonnerre	DESC:.CLEAR	DESC:Une cible est sourde jusqu'à ce qu'on la débarrasse de cette condition et elle est confuse pour 1 round.
+Litany of Vengeance.MOD	OUTPUTNAME:Litanie de vengeance	DESC:.CLEAR	DESC:Les alliés qui attaquent la cible de ce sort gagnent un bonus de +5 aux jets de dégâts pendant 1 round.
+Litany of Righteousness.MOD	OUTPUTNAME:Litanie de vertu	DESC:.CLEAR	DESC:Une unique créature Mauvaise reçoit plus de dégâts de la part des créatures qui possède une aura Bonne.
+Litany of Sight.MOD	OUTPUTNAME:Litanie de vision	DESC:.CLEAR	DESC:Le personnage distingue les créatures et les objets invisibles situés dans les 9 m autour de lui.
+Litany of Eloquence.MOD	OUTPUTNAME:Litanie d'éloquence	DESC:.CLEAR	DESC:Fascine une créature pendant 1 round.
+Litany of Entanglement.MOD	OUTPUTNAME:Litanie d'enchevêtrement	DESC:.CLEAR	DESC:Enchevêtre une créature pendant un round.
+Judgment Light.MOD	OUTPUTNAME:Lumière du jugement	DESC:.CLEAR	DESC:Le personnage gagne un effet supplémentaire tant que son jugement est actif.
+Pilfering Hand.MOD	OUTPUTNAME:Main vagabonde	DESC:.CLEAR	DESC:Le personnage peut prendre un objet ou le manipuler de loin.
+Air Walk, Communal.MOD	OUTPUTNAME:Marche dans les airs (partagé)	DESC:.CLEAR	DESC:Comme marche dans les airs mais la durée d'effet se divise entre les créatures touchées.
+Water Walk, Communal.MOD	OUTPUTNAME:Marche sur l'onde (partagé)	DESC:.CLEAR	DESC:Comme marche sur l'onde mais la durée d'effet se divise entre les créatures touchées.
+Sun Metal.MOD	OUTPUTNAME:Métal solaire	DESC:.CLEAR	DESC:L'arme touchée émet une gerbe de flammes.
+Lightning Lash Bomb Admixture.MOD	OUTPUTNAME:Mixture pour bombe à décharge de foudre	DESC:.CLEAR	DESC:La bombe du personnage est agrémentée d'un sceau qui inflige des dégâts électriques à chaque fois que les cibles touchées se déplacent de 1,50 (M).
+Targeted Bomb Admixture.MOD	OUTPUTNAME:Mixture pour bombe ciblée	DESC:.CLEAR	DESC:Améliore une bombe qui inflige plus de dégâts à une unique créature.
+Viper Bomb Admixture.MOD	OUTPUTNAME:Mixture pour bombe de vipère	DESC:.CLEAR	DESC:La bombe du personnage invoque des vipères qui mordent les victimes touchées par la bombe ou son aspersion.
+Caging Bomb Admixture.MOD	OUTPUTNAME:Mixture pour bombe d'emprisonnement	DESC:.CLEAR	DESC:La bombe du personnage crée une cage de force qui piège les créatures qui se trouvent dans le rayon d'aspersion.
+Shadow Bomb Admixture.MOD	OUTPUTNAME:Mixture pour bombe d'ombre	DESC:.CLEAR	DESC:La bombe du personnage recouvre sa cible d'une substance sombre qui lui donne un camouflage mais limite sa visibilité.
+Languid Bomb Admixture.MOD	OUTPUTNAME:Mixture pour bombe languide	DESC:.CLEAR	DESC:Les créatures touchées par la bombe ou ses aspersions sont fatiguées.
+Mount, Communal.MOD	OUTPUTNAME:Monture (partagé)	DESC:.CLEAR	DESC:Comme monture mais la durée d'effet se divise entre les créatures touchées.
+Tar Pool.MOD	OUTPUTNAME:Nappe de goudron	DESC:.CLEAR	DESC:Transforme la couche supérieure du sol en goudron brûlant.
+Liberating Command.MOD	OUTPUTNAME:Ordre libérateur	DESC:.CLEAR	DESC:La cible fait un test d'Évasion par une action immédiate avec un bonus.
+Terrain Bond.MOD	OUTPUTNAME:Pacte avec la terre	DESC:.CLEAR	DESC:Le personnage considère l'endroit où il se trouve comme un environnement de prédilection pour la durée du sort.
+Peacebond.MOD	OUTPUTNAME:Paix forcée	DESC:.CLEAR	DESC:Fige une arme sur le corps de la cible.
+Share Language, Communal.MOD	OUTPUTNAME:Partage de la langue (partagé)	DESC:.CLEAR	DESC:Comme partage de la langue mais la durée d'effet se divise entre les créatures touchées.
+Spider Climb, Communal.MOD	OUTPUTNAME:Pattes d'araignée (partagé)	DESC:.CLEAR	DESC:Comme pattes d'araignée mais la durée d'effet se divise entre les créatures touchées.
+Stoneskin, Communal.MOD	OUTPUTNAME:Peau de pierre (partagé)	DESC:.CLEAR	DESC:Comme peau de pierre mais la durée d'effet se divise entre les créatures touchées.
+Resinous Skin.MOD	OUTPUTNAME:Peau résineuse	DESC:.CLEAR	DESC:Le personnage gagne une RD 5/perforant et un bonus de +4 au DMD contre les tentatives de désarmement.
+Tactical Acumen.MOD	OUTPUTNAME:Perspicacité tactique	DESC:.CLEAR	DESC:Le personnage gagne un bonus supplémentaire aux jets d'attaque ou à la CA dû à sa position sur le champ de bataille.
+Brow Gasher.MOD	OUTPUTNAME:Plaie au visage	DESC:.CLEAR	DESC:Une arme tranchante inflige des dégâts de saignement à la tête d'un adversaire.
+Pellet Blast.MOD	OUTPUTNAME:Pluie de plomb	DESC:.CLEAR	DESC:Crée une explosion de plombs invoqués.
+Certain Grip.MOD	OUTPUTNAME:Poigne sûre	DESC:.CLEAR	DESC:Le personnage gagne un bonus de compétence de +4 aux tests d'Acrobaties et d'Escalade et au DMD.
+Weaken Powder.MOD	OUTPUTNAME:Poudre affaiblie	DESC:.CLEAR	DESC:Les munitions de l'arme touchée réduisent sa portée de moitié et imposent un malus de -2 aux jets de dégâts.
+Destabilize Powder.MOD	OUTPUTNAME:Poudre instable	DESC:.CLEAR	DESC:Les munitions de l'arme à feu visée augmentent ses risques de faire long feu.
+Damp Powder.MOD	OUTPUTNAME:Poudre mouillée	DESC:.CLEAR	DESC:Les munitions chargées dans l'arme ciblées sont inutilisables.
+Stabilize Powder.MOD	OUTPUTNAME:Poudre stable	DESC:.CLEAR	DESC:Les munitions de l'arme ciblée diminuent les risques de long feu.
+Debilitating Portent.MOD	OUTPUTNAME:Présage débilitant	DESC:.CLEAR	DESC:Impose un triste destin à une créature qui voit ses dégâts réduits de moitié quand elle attaque ou lance un sort.
+Jolting Portent.MOD	OUTPUTNAME:Présage traumatisant	DESC:.CLEAR	DESC:Le destin se montre rancunier envers une créature qui reçoit des dégâts d'électricité à chaque fois qu'elle attaque ou qu'elle lance un sort.
+Protection from Law, Communal.MOD	OUTPUTNAME:Protection contre la Loi (partagé)	DESC:.CLEAR	DESC:Comme protection contre la Loi mais la durée d'effet se divise entre les créatures touchées.
+Protection from Good, Communal.MOD	OUTPUTNAME:Protection contre le Bien (partagé)	DESC:.CLEAR	DESC:Comme protection contre le Bien mais la durée d'effet se divise entre les créatures touchées.
+Protection from Chaos, Communal.MOD	OUTPUTNAME:Protection contre le Chaos (partagé)	DESC:.CLEAR	DESC:Comme protection contre le Chaos mais la durée d'effet se divise entre les créatures touchées.
+Protection from Evil, Communal.MOD	OUTPUTNAME:Protection contre le Mal (partagé)	DESC:.CLEAR	DESC:Comme protection contre le Mal mais la durée d'effet se divise entre les créatures touchées.
+Protection from Energy, Communal.MOD	OUTPUTNAME:Protection contre les énergies destructives (partagé)	DESC:.CLEAR	DESC:Comme protection contre les énergies destructives mais la durée d'effet se divise entre les créatures touchées.
+Protection from Arrows, Communal.MOD	OUTPUTNAME:Protection contre les projectiles (partagé)	DESC:.CLEAR	DESC:Comme protection contre les projectiles mais la durée d'effet se divise entre les créatures touchées.
+Delay Poison, Communal.MOD	OUTPUTNAME:Ralentissement du poison (partagé)	DESC:.CLEAR	DESC:Comme ralentissement du poison mais la durée d'effet se divise entre les créatures touchées.
+Negative Reaction.MOD	OUTPUTNAME:Réaction négative	DESC:.CLEAR	DESC:La créature ciblée ne peut pas influencer positivement autrui.
+Recoil Fire.MOD	OUTPUTNAME:Recul excessif	DESC:.CLEAR	DESC:Les tirs de l'arme à feu ciblée génèrent un recul excessif.
+Reinforce Armaments.MOD	OUTPUTNAME:Renforcer l'armement	DESC:.CLEAR	DESC:Mitige temporairement la propriété fragile d'une arme ou d'une armure.
+Reinforce Armaments, Communal.MOD	OUTPUTNAME:Renforcer l'armement (partagé)	DESC:.CLEAR	DESC:Comme renforcer l'armement mais la durée d'effet se divise entre les créatures touchées.
+Jury-Rig.MOD	OUTPUTNAME:Réparation improvisée	DESC:.CLEAR	DESC:L'objet cible n'est plus brisé.
+Locate Weakness.MOD	OUTPUTNAME:Repérer les faiblesses	DESC:.CLEAR	DESC:Le personnage lance deux fois les dés de dégâts des coups critiques et prend les meilleurs.
+Resist Energy, Communal.MOD	OUTPUTNAME:Résistance aux énergies destructives (partagé)	DESC:.CLEAR	DESC:Comme résistance aux énergies destructives mais la durée d'effet se divise entre les créatures touchées.
+Kinetic Reverberation.MOD	OUTPUTNAME:Réverbération cinétique	DESC:.CLEAR	DESC:Renvoie la force de l'attaque ennemie dans son arme.
+Lock Gaze.MOD	OUTPUTNAME:River le regard	DESC:.CLEAR	DESC:Oblige la cible à regarder uniquement le personnage pendant toute la durée du sort.
+Bestow Weapon Proficiency.MOD	OUTPUTNAME:Savoir manier une arme	DESC:.CLEAR	DESC:Accorde le maniement d'une arme pour une courte période.
+Life Conduit, Improved.MOD	OUTPUTNAME:Science du lien de vie	DESC:.CLEAR	DESC:Transfère 2d6 points de vie à l'eidolon par une action rapide.
+Qualm.MOD	OUTPUTNAME:Scrupule	DESC:.CLEAR	DESC:La cible a un malus aux tests de caractéristique, de compétence et de Concentration tant qu'elle n'a pas passé un round entier sans rien faire.
+Fiery Shuriken.MOD	OUTPUTNAME:Shuriken de feu	DESC:.CLEAR	DESC:Invoque des projectiles enflammés que le personnage peut lancer sur ses adversaires.
+Wilderness Soldiers.MOD	OUTPUTNAME:Soldats de la nature	DESC:.CLEAR	DESC:Les plantes voisines aident le personnage quand il se bat.
+Symbol of Striking.MOD	OUTPUTNAME:Symbole fatal	DESC:.CLEAR	DESC:Comme symbole de mort mais occupe une case de 1,50 (M).
+Flash Fire.MOD	OUTPUTNAME:Tir aveuglant	DESC:.CLEAR	DESC:Les munitions de l'arme ciblée créent un éclair qui aveugle le tireur et ceux qui l'entourent.
+Energy Siege Shot.MOD	OUTPUTNAME:Tir d'énergie à l'arme de siège	DESC:.CLEAR	DESC:Un engin de siège G inflige le type de dégâts d'énergie choisi par le personnage et provoque des effets supplémentaires en fonction.
+Energy Siege Shot, Greater.MOD	OUTPUTNAME:Tir d'énergie à l'arme de siège supérieur	DESC:.CLEAR	DESC:Comme tir d'énergie à l'arme de siège mais affecte un engin de n'importe quelle taille.
+Longshot.MOD	OUTPUTNAME:Tir longue distance	DESC:.CLEAR	DESC:Bonus de +3 m au facteur de portée de toutes les armes à distance.
+Ricochet Shot.MOD	OUTPUTNAME:Tir par ricochet	DESC:.CLEAR	DESC:L'arme à projectile touchée donne la propriété ricochet à ses munitions.
+Discovery Torch.MOD	OUTPUTNAME:Torche révélatrice	DESC:.CLEAR	DESC:Les objets touchés émettent une vive lumière qui donne des bonus de Perception et de Psychologie.
+Walk through Space.MOD	OUTPUTNAME:Traverser l'espace	DESC:.CLEAR	DESC:Le personnage peut dépenser une action de mouvement pour se téléporter à 9 m de sa position ou pour se relever sans provoquer d'attaque d'opportunité alors qu'il était à terre.
+Find Quarry.MOD	OUTPUTNAME:Trouver la proie	DESC:.CLEAR	DESC:Le personnage sent si une créature donnée se trouve dans un rayon de 30 km.
+Darkvision, Communal.MOD	OUTPUTNAME:Vision dans le noir (partagé)	DESC:.CLEAR	DESC:Comme vision dans le noir mais la durée d'effet se divise entre les créatures touchées.
+See Alignment.MOD	OUTPUTNAME:Voir l'alignement	DESC:.CLEAR	DESC:Le personnage choisit un alignement. Toutes les créatures et tous les objets de cet alignement présents dans son champ de vision émettent un halo fantomatique.
+Healing Thief.MOD	OUTPUTNAME:Vol de soins	DESC:.CLEAR	DESC:Le personnage siphonne la moitié des soins magiques que la créature visée reçoit.
+Breeze.MOD	OUTPUTNAME:Brise	DESC:.CLEAR	DESC:Vous créez un vent léger qui souffle sur la cible, dans la direction de votre choix.
+Jolt.MOD	OUTPUTNAME:Choc	DESC:.CLEAR	DESC:Une étincelle d'électricité vient frapper la cible.
+Drench.MOD	OUTPUTNAME:Détremper	DESC:.CLEAR	DESC:Une averse soudaine trempe la créature ou l'objet ciblé.
+Penumbra.MOD	OUTPUTNAME:Pénombre	DESC:.CLEAR	DESC:Ce sort garde la créature ou l'objet touché légèrement dans l'ombre.
+Root.MOD	OUTPUTNAME:Racine	DESC:.CLEAR	DESC:Ce sort renforce le lien de la cible avec le sol, améliorant sa capacité à résister aux manœuvres de combat.
+Scoop.MOD	OUTPUTNAME:Scoop	DESC:.CLEAR	DESC:Vous créez une petite coupe de force.

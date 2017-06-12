@@ -1,0 +1,97 @@
+# Original Entry by: Pascal Bousquet
+
+# Skill Name					
+Acrobatics.MOD							SORTKEY:Acrobaties									OUTPUTNAME:Acrobaties
+Appraise.MOD							SORTKEY:Estimation                              	OUTPUTNAME:Estimation
+Bluff.MOD								SORTKEY:Bluff                                   	OUTPUTNAME:Bluff
+Climb.MOD								SORTKEY:Escalade                                	OUTPUTNAME:Escalade
+Craft (Alchemy).MOD						SORTKEY:Artisanat (alchimie)                    	OUTPUTNAME:Artisanat (alchimie)
+Craft (Armor).MOD						SORTKEY:Artisanat (fabrication de paniers)      	OUTPUTNAME:Artisanat (fabrication de paniers)
+Craft (Baskets).MOD						SORTKEY:Artisanat (fabrication de livres)       	OUTPUTNAME:Artisanat (fabrication de livres)
+Craft (Books).MOD						SORTKEY:Artisanat (fabrication d'armures)       	OUTPUTNAME:Artisanat (fabrication d'armures)
+Craft (Bows).MOD						SORTKEY:Artisanat (fabrication d'arcs)          	OUTPUTNAME:Artisanat (fabrication d'arcs)
+Craft (Calligraphy).MOD					SORTKEY:Artisanat (Calligraphie)                	OUTPUTNAME:Artisanat (Calligraphie)
+Craft (Carpentry).MOD					SORTKEY:Artisanat (charpenterie)                	OUTPUTNAME:Artisanat (charpenterie)
+Craft (Cloth).MOD						SORTKEY:Artisanat (fabrication de vétements)    	OUTPUTNAME:Artisanat (fabrication de vétements)
+Craft (Clothing).MOD					SORTKEY:Artisanat (fabrication )                	OUTPUTNAME:Artisanat (fabrication )
+Craft (Glass).MOD						SORTKEY:Artisanat (fabrication de verre)        	OUTPUTNAME:Artisanat (fabrication de verre)
+Craft (Jewelry).MOD						SORTKEY:Artisanat (fabrication de bijoux)       	OUTPUTNAME:Artisanat (fabrication de bijoux)
+Craft (Leather).MOD						SORTKEY:Artisanat (maroquinerie)                	OUTPUTNAME:Artisanat (maroquinerie)
+Craft (Locks).MOD						SORTKEY:Artisanat (serrurerie)                  	OUTPUTNAME:Artisanat (serrurerie)
+Craft (Paintings).MOD					SORTKEY:Artisanat (peinture)                    	OUTPUTNAME:Artisanat (peinture)
+Craft (Pottery).MOD						SORTKEY:Artisanat (poterie)                     	OUTPUTNAME:Artisanat (poterie)
+Craft (Sculptures).MOD					SORTKEY:Artisanat (sculpture)                   	OUTPUTNAME:Artisanat (sculpture)
+Craft (Ships).MOD						SORTKEY:Artisanat (fabrication de navires)      	OUTPUTNAME:Artisanat (fabrication de navires)
+Craft (Shoes).MOD						SORTKEY:Artisanat (fabrication de chaussures)   	OUTPUTNAME:Artisanat (fabrication de chaussures)
+Craft (Stonemasonry).MOD				SORTKEY:Artisanat (taille de pierre)            	OUTPUTNAME:Artisanat (taille de pierre)
+Craft (Traps).MOD						SORTKEY:Artisanat (fabrication de pièges)       	OUTPUTNAME:Artisanat (fabrication de pièges)
+Craft (Untrained).MOD					SORTKEY:Artisanat (sans entraînement)           	OUTPUTNAME:Artisanat (sans entraînement)
+Craft (Weapons).MOD						SORTKEY:Artisanat (fabrication d'armes)         	OUTPUTNAME:Artisanat (fabrication d'armes)
+Diplomacy.MOD							SORTKEY:Diplomatie                              	OUTPUTNAME:Diplomatie
+Disable Device.MOD						SORTKEY:Désamorcage/sabotage                    	OUTPUTNAME:Désamorcage/sabotage
+Disguise.MOD							SORTKEY:Déguisement                             	OUTPUTNAME:Déguisement
+Escape Artist.MOD						SORTKEY:Evasion                                 	OUTPUTNAME:Evasion
+Fly.MOD									SORTKEY:Vol                                     	OUTPUTNAME:Vol
+Handle Animal.MOD						SORTKEY:Dressage                                	OUTPUTNAME:Dressage
+Heal.MOD								SORTKEY:Premiers secours                        	OUTPUTNAME:Premiers secours
+Intimidate.MOD							SORTKEY:Intimidation                            	OUTPUTNAME:Intimidation
+Knowledge (Arcana).MOD					SORTKEY:Connaissances (mystères)                	OUTPUTNAME:Connaissances (mystères)
+Knowledge (Dungeoneering).MOD			SORTKEY:Connaissances (exploration souterraine) 	OUTPUTNAME:Connaissances (exploration souterraine)
+Knowledge (Engineering).MOD				SORTKEY:Connaissances (architecture et ingénierie)	OUTPUTNAME:Connaissances (architecture et ingénierie)
+Knowledge (Geography).MOD				SORTKEY:Connaissances (géographie)               	OUTPUTNAME:Connaissances (géographie)
+Knowledge (History).MOD					SORTKEY:Connaissances (histoire)                 	OUTPUTNAME:Connaissances (histoire)
+Knowledge (Local).MOD					SORTKEY:Connaissances (folklore local)           	OUTPUTNAME:Connaissances (folklore local)
+Knowledge (Nature).MOD					SORTKEY:Connaissances (nature)                   	OUTPUTNAME:Connaissances (nature)
+Knowledge (Nobility).MOD				SORTKEY:Connaissances (noblesse et royauté)      	OUTPUTNAME:Connaissances (noblesse et royauté)
+Knowledge (Planes).MOD					SORTKEY:Connaissances (plans)                    	OUTPUTNAME:Connaissances (plans)
+Knowledge (Religion).MOD				SORTKEY:Connaissances (religion)                 	OUTPUTNAME:Connaissances (religion)
+Linguistics.MOD							SORTKEY:Linguistique                             	OUTPUTNAME:Linguistique
+Perception.MOD							SORTKEY:Perception                               	OUTPUTNAME:Perception
+Perform (Act).MOD						SORTKEY:Représentation (scène)                   	OUTPUTNAME:Représentation (scène)
+Perform (Comedy).MOD					SORTKEY:Représentation (comédie)                 	OUTPUTNAME:Représentation (comédie)
+Perform (Dance).MOD						SORTKEY:Représentation (danse)                   	OUTPUTNAME:Représentation (danse)
+Perform (Keyboard Instruments).MOD		SORTKEY:Représentation (claviers)                	OUTPUTNAME:Représentation (claviers)
+Perform (Oratory).MOD					SORTKEY:Représentation (oraison)                 	OUTPUTNAME:Représentation (oraison)
+Perform (Percussion Instruments).MOD	SORTKEY:Représentation (percussions)             	OUTPUTNAME:Représentation (percussions)
+Perform (Sing).MOD				    	SORTKEY:Représentation (chant)                   	OUTPUTNAME:Représentation (chant)
+Perform (String Instruments).MOD		SORTKEY:Représentation (cordes)                  	OUTPUTNAME:Représentation (cordes)
+Perform (Untrained).MOD					SORTKEY:Représentation (sans entraînement)       	OUTPUTNAME:Représentation (sans entraînement)
+Perform (Wind Instruments).MOD			SORTKEY:Représentation (vents)                   	OUTPUTNAME:Représentation (vents)
+Profession (Architect).MOD				SORTKEY:Profession (Architecte)                  	OUTPUTNAME:Profession (Architecte)
+Profession (Baker).MOD					SORTKEY:Profession (Boulanger)                   	OUTPUTNAME:Profession (Boulanger)
+Profession (Barrister).MOD				SORTKEY:Profession (Avocat)                      	OUTPUTNAME:Profession (Avocat)
+Profession (Brewer).MOD					SORTKEY:Profession (Brasseur)                    	OUTPUTNAME:Profession (Brasseur)
+Profession (Butcher).MOD				SORTKEY:Profession (Boucher)                     	OUTPUTNAME:Profession (Boucher)
+Profession (Clerk).MOD					SORTKEY:Profession (Pretre)                      	OUTPUTNAME:Profession (Pretre)
+Profession (Cook).MOD					SORTKEY:Profession (Cuisinier)                   	OUTPUTNAME:Profession (Cuisinier)
+Profession (Courtesan).MOD				SORTKEY:Profession (Courtisant)                  	OUTPUTNAME:Profession (Courtisant)
+Profession (Driver).MOD					SORTKEY:Profession (Conducteur)                  	OUTPUTNAME:Profession (Conducteur)
+Profession (Engineer).MOD				SORTKEY:Profession (Ingénieur)                   	OUTPUTNAME:Profession (Ingénieur)
+Profession (Farmer).MOD					SORTKEY:Profession (Fermier)                     	OUTPUTNAME:Profession (Fermier)
+Profession (Fisherman).MOD				SORTKEY:Profession (Pécheur)                     	OUTPUTNAME:Profession (Pécheur)
+Profession (Gambler).MOD				SORTKEY:Profession (Joueur)                      	OUTPUTNAME:Profession (Joueur)
+Profession (Gardener).MOD				SORTKEY:Profession (Jardinier)                   	OUTPUTNAME:Profession (Jardinier)
+Profession (Herbalist).MOD				SORTKEY:Profession (Herborist)                   	OUTPUTNAME:Profession (Herborist)
+Profession (Innkeeper).MOD				SORTKEY:Profession (Aubergiste)                  	OUTPUTNAME:Profession (Aubergiste)
+Profession (Librarian).MOD				SORTKEY:Profession (Libraire)                    	OUTPUTNAME:Profession (Libraire)
+Profession (Merchant).MOD				SORTKEY:Profession (Marchant)                    	OUTPUTNAME:Profession (Marchant)
+Profession (Midwife).MOD				SORTKEY:Profession (Sage-Femme)                  	OUTPUTNAME:Profession (Sage-Femme)
+Profession (Miller).MOD					SORTKEY:Profession (Meunier)                     	OUTPUTNAME:Profession (Meunier)
+Profession (Miner).MOD					SORTKEY:Profession (Mineur)                      	OUTPUTNAME:Profession (Mineur)
+Profession (Porter).MOD					SORTKEY:Profession (porteur)                     	OUTPUTNAME:Profession (porteur)
+Profession (Sailor).MOD					SORTKEY:Profession (Marin)                       	OUTPUTNAME:Profession (Marin)
+Profession (Scribe).MOD					SORTKEY:Profession (Scribe)                      	OUTPUTNAME:Profession (Scribe)
+Profession (Shepherd).MOD				SORTKEY:Profession (Berger)                      	OUTPUTNAME:Profession (Berger)
+Profession (Soldier).MOD				SORTKEY:Profession (Soldat)                      	OUTPUTNAME:Profession (Soldat)
+Profession (Stable Master).MOD			SORTKEY:Profession (Palfrenier)                  	OUTPUTNAME:Profession (Palfrenier)
+Profession (Tanner).MOD					SORTKEY:Profession (Tanneur)                     	OUTPUTNAME:Profession (Tanneur)
+Profession (Trapper).MOD				SORTKEY:Profession (Trappeur)                    	OUTPUTNAME:Profession (Trappeur)
+Profession (Woodcutter).MOD				SORTKEY:Profession (Bucheron)                    	OUTPUTNAME:Profession (Bucheron)
+Ride.MOD								SORTKEY:Equitation                               	OUTPUTNAME:Equitation
+Sense Motive.MOD						SORTKEY:Psychologie                              	OUTPUTNAME:Psychologie
+Sleight of Hand.MOD						SORTKEY:Escamotage                               	OUTPUTNAME:Escamotage
+Spellcraft.MOD							SORTKEY:Art de la magie                          	OUTPUTNAME:Art de la magie
+Stealth.MOD								SORTKEY:Détection                                	OUTPUTNAME:Détection
+Survival.MOD							SORTKEY:Survie	                                 	OUTPUTNAME:Survie	
+Swim.MOD								SORTKEY:Natation                                 	OUTPUTNAME:Natation
+Use Magic Device.MOD					SORTKEY:Utilisation d'objets magiques            	OUTPUTNAME:Utilisation d'objets magiques

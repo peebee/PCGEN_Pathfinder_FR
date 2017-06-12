@@ -1,25 +1,44 @@
-﻿# Authors : Ludovic Fierville, Philippe Aubé
-SOURCELONG:Document de Référence du Système (version 3.5)	SOURCESHORT:DRS	SOURCEWEB:http://www.wizards.com/default.asp?x=d20/article/srd35
+﻿# Authors : Pascal Bousquet
+SOURCELONG:Base de référence 	SOURCESHORT:PFR	SOURCEWEB:http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.Classes.ashx
 
 CLASS:Barbarian.MOD			OUTPUTNAME:Barbare
-CLASS:Ex Barbarian.MOD		OUTPUTNAME:Ancien barbare
+# CLASS:Ex Barbarian.MOD		OUTPUTNAME:Ancien barbare
 CLASS:Bard.MOD				OUTPUTNAME:Barde
 CLASS:Cleric.MOD			OUTPUTNAME:Prêtre
 CLASS:Druid.MOD				OUTPUTNAME:Druide
-CLASS:Ex Druid.MOD					OUTPUTNAME:Ancien druide
-CLASS:Fighter.MOD			ABB:Gue	OUTPUTNAME:Guerrier
+# CLASS:Ex Druid.MOD			TPUTNAME:Ancien druide
+CLASS:Fighter.MOD			OUTPUTNAME:Guerrier
 CLASS:Monk.MOD				OUTPUTNAME:Moine
 CLASS:Paladin.MOD			OUTPUTNAME:Paladin
-CLASS:Ex Paladin.MOD				OUTPUTNAME:Ancien Paladin
+# CLASS:Ex Paladin.MOD		OUTPUTNAME:Ancien Paladin
 CLASS:Ranger.MOD			OUTPUTNAME:Rôdeur
 CLASS:Rogue.MOD				OUTPUTNAME:Roublard
 CLASS:Sorcerer.MOD			OUTPUTNAME:Ensorceleur
 CLASS:Wizard.MOD			OUTPUTNAME:Magicien
+SUBCLASS:Abjurer			OUTPUTNAME:Abjureur
+SUBCLASS:Conjurer			OUTPUTNAME:Conjureur
+SUBCLASS:Diviner			OUTPUTNAME:Devin
+SUBCLASS:Enchanter			OUTPUTNAME:Enchanteur
+SUBCLASS:Evoker				OUTPUTNAME:Evocateur
+SUBCLASS:Illusionist		OUTPUTNAME:Illusioniste
+SUBCLASS:Necromancer		OUTPUTNAME:Nécromancien
+SUBCLASS:Transmuter			OUTPUTNAME:Transmutateur
+SUBCLASS:Universalist		OUTPUTNAME:Magicien Universel
 
+CLASS:Arcane Archer.MOD				OUTPUTNAME:Archer-mage
+CLASS:Arcane Trickster.MOD			OUTPUTNAME:Mystificateur profane
+CLASS:Assassin.MOD					OUTPUTNAME:Assassin
+CLASS:Dragon Disciple.MOD			OUTPUTNAME:Disciple draconien
+CLASS:Duelist.MOD					OUTPUTNAME:Dueliste
+CLASS:Eldritch Knight.MOD			OUTPUTNAME:Champion occultiste
+CLASS:Loremaster.MOD				OUTPUTNAME:Gardien du savoir
+CLASS:Mystic Theurge.MOD			OUTPUTNAME:Théurge mystique
+CLASS:Pathfinder Chronicler.MOD		OUTPUTNAME:Chroniqueur
+CLASS:Shadowdancer.MOD				OUTPUTNAME:Maître des ombres
 
-# NPC Classes
 CLASS:Adept.MOD				OUTPUTNAME:Adepte
 CLASS:Aristocrat.MOD		OUTPUTNAME:Noble
 CLASS:Commoner.MOD			OUTPUTNAME:Gens du peuple
 CLASS:Expert.MOD			OUTPUTNAME:Expert
 CLASS:Warrior.MOD			OUTPUTNAME:Homme d'armes
+
