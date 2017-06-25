@@ -42,3 +42,16 @@ CLASS:Commoner.MOD			OUTPUTNAME:Gens du peuple
 CLASS:Expert.MOD			OUTPUTNAME:Expert
 CLASS:Warrior.MOD			OUTPUTNAME:Homme d'armes
 
+# Classe ACG 
+CLASS:Arcanist			OUTPUTNAME:Arcaniste
+CLASS:Bloodrager			OUTPUTNAME:Sanguin
+CLASS:Brawler			OUTPUTNAME:Lutteur
+CLASS:Hunter			OUTPUTNAME:Chasseur
+CLASS:Investigator			OUTPUTNAME:Enquêteur 
+CLASS:Shaman			OUTPUTNAME:Chaman
+CLASS:Skald			OUTPUTNAME:Scalde
+CLASS:Slayer		OUTPUTNAME:Tueur
+CLASS:Swashbuckler		OUTPUTNAME:Bretteur
+CLASS:Warpriest		OUTPUTNAME:Prêtre combattant
+
+
