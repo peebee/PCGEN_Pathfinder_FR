@@ -1,0 +1,38 @@
+﻿# Authors : Pascal Bousquet
+SOURCELONG:Base de référence 	SOURCESHORT:PFR	SOURCEWEB:http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.domaines.ashx
+
+
+Air.MOD					OUTPUTNAME:Air
+Animal.MOD				OUTPUTNAME:Faune
+Artifice.MOD			OUTPUTNAME:Artisanat
+Chaos.MOD				OUTPUTNAME:Chaos
+Charm.MOD				OUTPUTNAME:Charme
+Community.MOD			OUTPUTNAME:Communauté
+Darkness.MOD			OUTPUTNAME:Obscrurité
+Death.MOD				OUTPUTNAME:Mort
+Destruction.MOD			OUTPUTNAME:Destruction
+Earth.MOD				OUTPUTNAME:Terre
+Evil.MOD				OUTPUTNAME:Mal
+Fire.MOD				OUTPUTNAME:Feu
+Glory.MOD				OUTPUTNAME:Gloire
+Good.MOD				OUTPUTNAME:Bien
+Healing.MOD				OUTPUTNAME:Guérison
+Knowledge.MOD			OUTPUTNAME:Connaissances
+Law.MOD					OUTPUTNAME:Loi
+Liberation.MOD			OUTPUTNAME:Libération
+Luck.MOD				OUTPUTNAME:Chance
+Madness.MOD				OUTPUTNAME:Folie
+Magic.MOD				OUTPUTNAME:Magie
+Nobility.MOD			OUTPUTNAME:Noblesse
+Plant.MOD				OUTPUTNAME:Flore
+Protection.MOD			OUTPUTNAME:Protection
+Repose.MOD				OUTPUTNAME:Repos
+Rune.MOD				OUTPUTNAME:Runes
+Strength.MOD			OUTPUTNAME:Force
+Sun.MOD					OUTPUTNAME:Soleil
+Travel.MOD				OUTPUTNAME:Voyage
+Trickery.MOD			OUTPUTNAME:Duperie
+War.MOD					OUTPUTNAME:Guerre
+Water.MOD				OUTPUTNAME:Eau
+Weather.MOD				OUTPUTNAME:Climat
+Death (Pharasma).MOD	OUTPUTNAME:Mort (Pharasma)

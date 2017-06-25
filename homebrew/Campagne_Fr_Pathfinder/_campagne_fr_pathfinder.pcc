@@ -30,7 +30,7 @@ COPYRIGHT:Campagne FR de Pathfinder, Copyright 2015 by PCGen Team
 CLASS:CFrP_classes.lst
 #COMPANIONMOD:cfrp_companionmods.lst
 #DEITY:cfrp_deities.lst
-#DOMAIN:cfrp_domains.lst
+DOMAIN:cfrp_domains.lst
 #EQUIPMENT:cfrp_equip_arms_armor.lst
 #EQUIPMENT:cfrp_equip_general.lst
 #EQUIPMOD:cfrp_equipmods.lst
