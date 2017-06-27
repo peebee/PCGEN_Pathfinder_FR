@@ -70,7 +70,7 @@ Shield.MOD	OUTPUTNAME:Bouclier	DESC:.CLEAR	DESC:Disque invisible conférant +4 à 
 Fire Shield.MOD	OUTPUTNAME:Bouclier de feu	DESC:.CLEAR	DESC:Brûle les créatures attaquant le PJ en protégeant ce dernier contre le feu ou le froid.
 Shield Of Faith.MOD	OUTPUTNAME:Bouclier de la foi	DESC:.CLEAR	DESC:Aura conférant un bonus de parade de +2 (ou plus).
 Shield Of Law.MOD	OUTPUTNAME:Bouclier de la Loi	DESC:.CLEAR	DESC:+4 à la CA, bonus de résistance de +4 et RM de 25 contre les sorts du Chaos.
-Entropic Shield.MOD	OUTPUTNAME:Bouclier entropique	DESC:.CLEAR	DESC:Les attaques à distance ont 20 % de chances de rater le PJ.
+Entropic Shield.MOD	OUTPUTNAME:Bouclier entropique	DESC:.CLEAR	DESC:Les attaques à distance ont 20 %% de chances de rater le PJ.
 Fireball.MOD	OUTPUTNAME:Boule de feu	DESC:.CLEAR	DESC:1d6 points de dégâts de feu/niveau, 6 m de rayon.
 Delayed Blast Fireball.MOD	OUTPUTNAME:Boule de feu à retardement	DESC:.CLEAR	DESC:1d6 points de dégâts de feu/niveau ; l'explosion peut être retardée un max. de 5 rounds.
 Gust Of Wind.MOD	OUTPUTNAME:Bourrasque	DESC:.CLEAR	DESC:Emporte ou renverse les créatures de taille modeste.
@@ -149,8 +149,8 @@ Summon Monster VI.MOD	OUTPUTNAME:Convocation de monstres VI	DESC:.CLEAR	DESC:App
 Summon Monster VII.MOD	OUTPUTNAME:Convocation de monstres VII	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
 Summon Monster VIII.MOD	OUTPUTNAME:Convocation de monstres VIII	DESC:.CLEAR	DESC:Appelle une ou plusieurs créatures extraplanaires luttant pour le PJ.
 Summon Instrument.MOD	OUTPUTNAME:Convocation d'instrument	DESC:.CLEAR	DESC:Convoque un instrument de musique au choix.
-Shadow Conjuration.MOD	OUTPUTNAME:Convocation d'ombres	DESC:.CLEAR	DESC:Reproduit les invocations de 3e niveau ou moins ; 20 % sont réelles.
-Shadow Conjuration, Greater.MOD	OUTPUTNAME:Convocation d'ombres suprême	DESC:.CLEAR	DESC:Comme convocation d'ombres, mais jusqu'au 6e niveau ; 60 % sont réelles.
+Shadow Conjuration.MOD	OUTPUTNAME:Convocation d'ombres	DESC:.CLEAR	DESC:Reproduit les invocations de 3e niveau ou moins ; 20 %% sont réelles.
+Shadow Conjuration, Greater.MOD	OUTPUTNAME:Convocation d'ombres suprême	DESC:.CLEAR	DESC:Comme convocation d'ombres, mais jusqu'au 6e niveau ; 60 %% sont réelles.
 Antiplant Shell.MOD	OUTPUTNAME:Coquille antiplantes	DESC:.CLEAR	DESC:Empêche les plantes animées d'approcher.
 Antilife Shell.MOD	OUTPUTNAME:Coquille antivie	DESC:.CLEAR	DESC:Tient les créatures vivantes à distance (3 m).
 Animate Rope.MOD	OUTPUTNAME:Corde animée	DESC:.CLEAR	DESC:Une corde bouge sur ordre du PJ.
@@ -187,7 +187,7 @@ Disguise Self.MOD	OUTPUTNAME:Déguisement	DESC:.CLEAR	DESC:Modifie l'apparence du
 Freedom.MOD	OUTPUTNAME:Délivrance	DESC:.CLEAR	DESC:Libère la victime d'un emprisonnement.
 Remove Paralysis.MOD	OUTPUTNAME:Délivrance de la paralysie	DESC:.CLEAR	DESC:Délivre de la paralysie, d'immobilisation et de lenteur.
 Remove Curse.MOD	OUTPUTNAME:Délivrance des malédictions	DESC:.CLEAR	DESC:Libère des malédictions.
-Displacement.MOD	OUTPUTNAME:Déplacement	DESC:.CLEAR	DESC:Chaque attaque a 50 % de chances de rater la cible.
+Displacement.MOD	OUTPUTNAME:Déplacement	DESC:.CLEAR	DESC:Chaque attaque a 50 %% de chances de rater la cible.
 Crushing Despair.MOD	OUTPUTNAME:Désespoir foudroyant	DESC:.CLEAR	DESC:Les sujets subissent -2 aux jets d'attaque, aux jets de dégâts, aux jets de sauvegarde et aux tests.
 Disintegrate.MOD	OUTPUTNAME:Désintégration	DESC:.CLEAR	DESC:Fait disparaître un objet ou une créature.
 Destruction.MOD	OUTPUTNAME:Destruction	DESC:.CLEAR	DESC:Tue la cible et détruit son corps.
@@ -265,7 +265,7 @@ Acid Arrow.MOD	OUTPUTNAME:Flèche acide	DESC:.CLEAR	DESC:Attaque de contact à dis
 Flame Arrow.MOD	OUTPUTNAME:Flèches enflammées	DESC:.CLEAR	DESC:Les flèches infligent 1d6 points de dégâts de feu.
 Blight.MOD	OUTPUTNAME:Flétrissement végétal	DESC:.CLEAR	DESC:Flétrit une plante ou inflige 1d6 points de dégâts/niveau à une créature végétale.
 Horrid Wilting.MOD	OUTPUTNAME:Flétrissure	DESC:.CLEAR	DESC:1d6 points de dégâts/niveau dans un rayon de 9 m.
-Blur.MOD	OUTPUTNAME:Flou	DESC:.CLEAR	DESC:Chaque attaque a 20 % de chances de rater la cible.
+Blur.MOD	OUTPUTNAME:Flou	DESC:.CLEAR	DESC:Chaque attaque a 20 %% de chances de rater la cible.
 Bull's Strength.MOD	OUTPUTNAME:Force de taureau	DESC:.CLEAR	DESC:Confère +4 en Force pendant 1 minute/niveau.
 Bull's Strength, Mass.MOD	OUTPUTNAME:Force de taureau de groupe	DESC:.CLEAR	DESC:Comme force de taureau, mais affecte un sujet/niveau.
 Righteous Might.MOD	OUTPUTNAME:Force du colosse	DESC:.CLEAR	DESC:Accroît la taille du PJ et lui confère des bonus au combat.
@@ -360,15 +360,15 @@ Light.MOD	OUTPUTNAME:Lumière	DESC:.CLEAR	DESC:Fait briller un objet comme une to
 Searing Light.MOD	OUTPUTNAME:Lumière brûlante	DESC:.CLEAR	DESC:1d8 points de dégâts/2 niveaux ; plus contre les morts-vivants.
 Daylight.MOD	OUTPUTNAME:Lumière du jour	DESC:.CLEAR	DESC:Vive lumière sur 18 m de rayon.
 Dancing Lights.MOD	OUTPUTNAME:Lumières dansantes	DESC:.CLEAR	DESC:Crée torches ou autres lueurs.
-Shadow Evocation.MOD	OUTPUTNAME:Magie des ombres	DESC:.CLEAR	DESC:Reproduit les évocations de 4e niveau ou moins ; 20 % sont réelles.
-Shadow Evocation, Greater.MOD	OUTPUTNAME:Magie des ombres suprême	DESC:.CLEAR	DESC:Comme magie des ombres, mais jusqu'au 7e niveau ; 60 % sont réelles.
+Shadow Evocation.MOD	OUTPUTNAME:Magie des ombres	DESC:.CLEAR	DESC:Reproduit les évocations de 4e niveau ou moins ; 20 %% sont réelles.
+Shadow Evocation, Greater.MOD	OUTPUTNAME:Magie des ombres suprême	DESC:.CLEAR	DESC:Comme magie des ombres, mais jusqu'au 7e niveau ; 60 %% sont réelles.
 Crushing Hand.MOD	OUTPUTNAME:Main broyeuse	DESC:.CLEAR	DESC:Main géante qui abrite, pousse ou attaque.
 Helping Hand.MOD	OUTPUTNAME:Main du berger	DESC:.CLEAR	DESC:Guide le sujet jusqu'au PJ.
 Forceful Hand.MOD	OUTPUTNAME:Main impérieuse	DESC:.CLEAR	DESC:Main repoussant les adversaires.
 Interposing Hand.MOD	OUTPUTNAME:Main interposée	DESC:.CLEAR	DESC:Abri contre un adversaire.
 Spectral Hand.MOD	OUTPUTNAME:Main spectrale	DESC:.CLEAR	DESC:Main désincarnée portant des attaques de contact.
 Burning Hands.MOD	OUTPUTNAME:Mains brûlantes	DESC:.CLEAR	DESC:1d4 points de dégâts de feu/niveau (max. 5d4).
-Bestow Curse.MOD	OUTPUTNAME:Malédiction	DESC:.CLEAR	DESC:-6 à une caractéristique, -4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence, ou 50 % de chances de perdre chaque action.
+Bestow Curse.MOD	OUTPUTNAME:Malédiction	DESC:.CLEAR	DESC:-6 à une caractéristique, -4 aux jets d'attaque, aux jets de sauvegarde et aux tests de compétence, ou 50 %% de chances de perdre chaque action.
 Curse Water.MOD	OUTPUTNAME:Malédiction de l'eau	DESC:.CLEAR	DESC:Crée de l'eau maudite.
 Mage Hand.MOD	OUTPUTNAME:Manipulation à distance	DESC:.CLEAR	DESC:Télékinésie limitée (2,5 kg max.).
 Sculpt Sound.MOD	OUTPUTNAME:Manipulation des sons	DESC:.CLEAR	DESC:Altère les sons ou en crée de nouveaux.
@@ -496,7 +496,7 @@ Ray Of Exhaustion.MOD	OUTPUTNAME:Rayon d'épuisement	DESC:.CLEAR	DESC:Un rayon ép
 Polar Ray.MOD	OUTPUTNAME:Rayon polaire	DESC:.CLEAR	DESC:Attaque de contact à distance infligeant 1d6 points de dégâts de froid/niveau et 1d4 point de réduction permanente de Dextérité.
 Prismatic Spray.MOD	OUTPUTNAME:Rayons prismatiques	DESC:.CLEAR	DESC:Rayons magiques à effets variés.
 Shrink Item.MOD	OUTPUTNAME:Réduction d'objet	DESC:.CLEAR	DESC:Réduit un objet (1/16e de sa taille initiale).
-Shades.MOD	OUTPUTNAME:Reflets d'ombre	DESC:.CLEAR	DESC:Comme convocation d'ombres, mais jusqu'au 8e niveau ; 80 % sont réelles.
+Shades.MOD	OUTPUTNAME:Reflets d'ombre	DESC:.CLEAR	DESC:Comme convocation d'ombres, mais jusqu'au 8e niveau ; 80 %% sont réelles.
 Refuge.MOD	OUTPUTNAME:Refuge	DESC:.CLEAR	DESC:Enchante un objet pour ramener son possesseur jusqu'au PJ.
 Secure Shelter.MOD	OUTPUTNAME:Refuge du mage	DESC:.CLEAR	DESC:Crée une solide maisonnette.
 Remove Fear.MOD	OUTPUTNAME:Regain d'assurance	DESC:.CLEAR	DESC:+4 aux jets de sauvegarde contre la terreur (un sujet, +1/4 niveaux).

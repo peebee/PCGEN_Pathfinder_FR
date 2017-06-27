@@ -1,6 +1,6 @@
 # Original Entry by: Pascal Bousquet
 
-# Skill Name					
+# Skill Name
 Acrobatics.MOD							SORTKEY:Acrobaties									OUTPUTNAME:Acrobaties
 Appraise.MOD							SORTKEY:Estimation                              	OUTPUTNAME:Estimation
 Bluff.MOD								SORTKEY:Bluff                                   	OUTPUTNAME:Bluff
@@ -53,7 +53,7 @@ Perform (Dance).MOD						SORTKEY:Représentation (danse)                   	OUTPU
 Perform (Keyboard Instruments).MOD		SORTKEY:Représentation (claviers)                	OUTPUTNAME:Représentation (claviers)
 Perform (Oratory).MOD					SORTKEY:Représentation (oraison)                 	OUTPUTNAME:Représentation (oraison)
 Perform (Percussion Instruments).MOD	SORTKEY:Représentation (percussions)             	OUTPUTNAME:Représentation (percussions)
-Perform (Sing).MOD				    	SORTKEY:Représentation (chant)                   	OUTPUTNAME:Représentation (chant)
+Perform (Sing).MOD						SORTKEY:Représentation (chant)                   	OUTPUTNAME:Représentation (chant)
 Perform (String Instruments).MOD		SORTKEY:Représentation (cordes)                  	OUTPUTNAME:Représentation (cordes)
 Perform (Untrained).MOD					SORTKEY:Représentation (sans entraînement)       	OUTPUTNAME:Représentation (sans entraînement)
 Perform (Wind Instruments).MOD			SORTKEY:Représentation (vents)                   	OUTPUTNAME:Représentation (vents)
@@ -92,6 +92,6 @@ Sense Motive.MOD						SORTKEY:Psychologie                              	OUTPUTNA
 Sleight of Hand.MOD						SORTKEY:Escamotage                               	OUTPUTNAME:Escamotage
 Spellcraft.MOD							SORTKEY:Art de la magie                          	OUTPUTNAME:Art de la magie
 Stealth.MOD								SORTKEY:Détection                                	OUTPUTNAME:Détection
-Survival.MOD							SORTKEY:Survie	                                 	OUTPUTNAME:Survie	
+Survival.MOD							SORTKEY:Survie                                  	OUTPUTNAME:Survie
 Swim.MOD								SORTKEY:Natation                                 	OUTPUTNAME:Natation
 Use Magic Device.MOD					SORTKEY:Utilisation d'objets magiques            	OUTPUTNAME:Utilisation d'objets magiques
