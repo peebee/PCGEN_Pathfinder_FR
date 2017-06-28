@@ -1,0 +1,11 @@
+﻿# Authors : Pascal Bousquet
+SOURCELONG:Base de référence 	SOURCESHORT:PFR	SOURCEWEB:http://www.pathfinder-fr.org/Wiki/Pathfinder-RPG.
+
+# Race de base
+Dwarf.MOD		OUTPUTNAME:Nain
+Elf.MOD			OUTPUTNAME:Elfe
+Gnome.MOD		OUTPUTNAME:Gnome
+Half-Elf.MOD	OUTPUTNAME:Demi-Elfe
+Half-Orc.MOD	OUTPUTNAME:Demi-Orque
+Halfling.MOD	OUTPUTNAME:Halfling
+Human.MOD		OUTPUTNAME:Humain

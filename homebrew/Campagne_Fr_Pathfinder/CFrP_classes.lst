@@ -40,32 +40,31 @@ CLASS:Expert.MOD					OUTPUTNAME:Expert
 CLASS:Warrior.MOD					OUTPUTNAME:Homme d'armes
 
 # Classes ACG 
-CLASS:Arcanist						OUTPUTNAME:Arcaniste
-CLASS:Bloodrager					OUTPUTNAME:Sanguin
-CLASS:Brawler						OUTPUTNAME:Lutteur
-CLASS:Hunter						OUTPUTNAME:Chasseur
-CLASS:Investigator					OUTPUTNAME:Enquêteur 
-CLASS:Shaman						OUTPUTNAME:Chaman
-CLASS:Skald							OUTPUTNAME:Scalde
-CLASS:Slayer						OUTPUTNAME:Tueur
-CLASS:Swashbuckler					OUTPUTNAME:Bretteur
-CLASS:Warpriest						OUTPUTNAME:Prêtre combattant
+CLASS:Arcanist.MOD					OUTPUTNAME:Arcaniste
+CLASS:Bloodrager.MOD				OUTPUTNAME:Sanguin
+CLASS:Brawler.MOD					OUTPUTNAME:Lutteur
+CLASS:Hunter.MOD					OUTPUTNAME:Chasseur
+CLASS:Investigator.MOD				OUTPUTNAME:Enquêteur 
+CLASS:Shaman.MOD					OUTPUTNAME:Chaman
+CLASS:Skald.MOD						OUTPUTNAME:Scalde
+CLASS:Slayer.MOD					OUTPUTNAME:Tueur
+CLASS:Swashbuckler.MOD				OUTPUTNAME:Bretteur
+CLASS:Warpriest.MOD					OUTPUTNAME:Prêtre combattant
 
 # Classes APG 
-CLASS:Alchemist						OUTPUTNAME:Alchimiste
-CLASS:Cavalier						OUTPUTNAME:Chevalier
-CLASS:Inquisitor					OUTPUTNAME:Inquisiteur
-CLASS:Oracle						OUTPUTNAME:Oracle
-CLASS:Summoner						OUTPUTNAME:Conjurateur
-CLASS:Witch							OUTPUTNAME:Sorcière
-CLASS:Eidolon						OUTPUTNAME:Eidolon
-CLASS:Antipaladin					OUTPUTNAME:Antipaladin
-CLASS:Battle Herald					OUTPUTNAME:Héraut
-CLASS:Holy Vindicator				OUTPUTNAME:Vengeur sacré
-CLASS:Horizon Walker				OUTPUTNAME:Arpenteur d'horizon
-CLASS:Master Chymist				OUTPUTNAME:Maître chimiste
-CLASS:Master Spy					OUTPUTNAME:Maître Espion
-CLASS:Nature Warden					OUTPUTNAME:Gardien de la nature
-CLASS:Rage Prophet					OUTPUTNAME:Prophète enragé
-CLASS:Stalwart Defender				OUTPUTNAME:Fidèle Défenceur
-
+CLASS:Alchemist.MOD					OUTPUTNAME:Alchimiste
+CLASS:Cavalier.MOD					OUTPUTNAME:Chevalier
+CLASS:Inquisitor.MOD				OUTPUTNAME:Inquisiteur
+CLASS:Oracle.MOD					OUTPUTNAME:Oracle
+CLASS:Summoner.MOD					OUTPUTNAME:Conjurateur
+CLASS:Witch.MOD						OUTPUTNAME:Sorcière
+CLASS:Eidolon.MOD					OUTPUTNAME:Eidolon
+CLASS:Antipaladin.MOD				OUTPUTNAME:Antipaladin
+CLASS:Battle Herald.MOD				OUTPUTNAME:Héraut
+CLASS:Holy Vindicator.MOD			OUTPUTNAME:Vengeur sacré
+CLASS:Horizon Walker.MOD			OUTPUTNAME:Arpenteur d'horizon
+CLASS:Master Chymist.MOD			OUTPUTNAME:Maître chimiste
+CLASS:Master Spy.MOD				OUTPUTNAME:Maître Espion
+CLASS:Nature Warden.MOD				OUTPUTNAME:Gardien de la nature
+CLASS:Rage Prophet.MOD				OUTPUTNAME:Prophète enragé
+CLASS:Stalwart Defender.MOD			OUTPUTNAME:Fidèle Défenceur

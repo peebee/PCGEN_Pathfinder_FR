@@ -1,4 +1,4 @@
-# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
+﻿# CVS $Revision$ $Author$ -- Tue Dec 15 01:48:08 2015 -- reformated by PCGen PrettyLST v6.06.00
 CAMPAIGN:Campagne FR de Pathfinder 6.07.00
 GAMEMODE:Pathfinder
 RANK:9
@@ -35,12 +35,13 @@ DOMAIN:cfrp_domains.lst
 #EQUIPMENT:cfrp_equip_general.lst
 #EQUIPMOD:cfrp_equipmods.lst
 ABILITY:cfrp_feats.lst
+ABILITY:cfrp_abilities_class.lst
 #KIT:cfrp_kits.lst
 #LANGUAGE:cfrp_languages.lst
 #ARMORPROF:cfrp_profs_armor.lst
 #SHIELDPROF:cfrp_profs_shield.lst
 #WEAPONPROF:cfrp_profs_weapon.lst
-#RACE:cfrp_races.lst
+RACE:cfrp_races.lst
 SKILL:cfrp_skills.lst
 SPELL:cfrp_spells.lst
 #TEMPLATE:cfrp_templates.lst
