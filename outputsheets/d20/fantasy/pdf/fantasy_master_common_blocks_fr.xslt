@@ -15,20 +15,20 @@
 
 
 <!-- Blocks to put together PC Sheet -->
-	<xsl:import href="../common_sheet/fr/block_attack.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_bio_condensed.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_class_features.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_equipment.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_features.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_hp_defense.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_misc.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_pc_header_row.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_protection.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_psionics.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_skills.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_spells_condensed.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_stat_block.xslt"/>
-	<xsl:import href="../common_sheet/fr/block_weapons_fr.xslt"/>
+	<xsl:import href="common_sheet/block_attack_fr.xslt"/>
+	<xsl:import href="common_sheet/block_bio_condensed_fr.xslt"/>
+	<xsl:import href="common_sheet/block_class_features_fr.xslt"/>
+	<xsl:import href="common_sheet/block_equipment_fr.xslt"/>
+	<xsl:import href="common_sheet/block_features_fr.xslt"/>
+	<xsl:import href="common_sheet/block_hp_defense_fr.xslt"/>
+	<xsl:import href="common_sheet/block_misc_fr.xslt"/>
+	<xsl:import href="common_sheet/block_pc_header_row_fr.xslt"/>
+	<xsl:import href="common_sheet/block_protection_fr.xslt"/>
+	<xsl:import href="common_sheet/block_psionics_fr.xslt"/>
+	<xsl:import href="common_sheet/block_skills_fr.xslt"/>
+	<xsl:import href="common_sheet/block_spells_condensed_fr.xslt"/>
+	<xsl:import href="common_sheet/block_stat_block_fr.xslt"/>
+	<xsl:import href="common_sheet/block_weapons_fr.xslt"/>
 <!-- END -->
 
 	<xsl:output indent="yes"/>

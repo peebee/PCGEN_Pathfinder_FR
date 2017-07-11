@@ -7,7 +7,7 @@
 	xmlns:myAttribs="my:Attribs"
 	exclude-result-prefixes="myAttribs"
 	>
-	<xsl:import href="fr/fantasy_master_common_blocks_fr.xslt"/>
+	<xsl:import href="fantasy_master_common_blocks_fr.xslt"/>
 	<xsl:output indent="yes"/>
 
 	<myAttribs:myAttribs>
