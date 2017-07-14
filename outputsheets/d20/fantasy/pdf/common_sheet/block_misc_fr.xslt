@@ -148,7 +148,7 @@
 							<xsl:call-template name="attrib">
 								<xsl:with-param name="attribute" select="'companions.title'"/>
 							</xsl:call-template>
-							<fo:block font-size="10pt" font-weight="bold">Followers: </fo:block>
+							<fo:block font-size="10pt" font-weight="bold">Suivants: </fo:block>
 						</fo:table-cell>
 					</fo:table-row>
 					<fo:table-row keep-with-next.within-column="always">
@@ -196,7 +196,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'companions.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="8pt">HP:</fo:block>
+						<fo:block font-size="8pt">PdV:</fo:block>
 					</fo:table-cell>
 					<fo:table-cell>
 						<xsl:call-template name="attrib">
@@ -210,7 +210,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'companions.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="8pt">AC:</fo:block>
+						<fo:block font-size="8pt">CA:</fo:block>
 					</fo:table-cell>
 					<fo:table-cell>
 						<xsl:call-template name="attrib">
@@ -241,7 +241,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'companions.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="8pt">FORT:</fo:block>
+						<fo:block font-size="8pt">Const:</fo:block>
 					</fo:table-cell>
 					<fo:table-cell>
 						<xsl:call-template name="attrib">
@@ -255,7 +255,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'companions.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="8pt">REF:</fo:block>
+						<fo:block font-size="8pt">Refl:</fo:block>
 					</fo:table-cell>
 					<fo:table-cell>
 						<xsl:call-template name="attrib">
@@ -269,7 +269,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'companions.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="8pt">WILL:</fo:block>
+						<fo:block font-size="8pt">Volon:</fo:block>
 					</fo:table-cell>
 					<fo:table-cell>
 						<xsl:call-template name="attrib">
@@ -315,7 +315,7 @@
 								<xsl:call-template name="attrib">
 									<xsl:with-param name="attribute" select="'companions.title'"/>
 								</xsl:call-template>
-								<fo:block font-size="8pt">DAM:</fo:block>
+								<fo:block font-size="8pt">Dom:</fo:block>
 							</fo:table-cell>
 							<fo:table-cell>
 								<xsl:call-template name="attrib">
@@ -329,7 +329,7 @@
 								<xsl:call-template name="attrib">
 									<xsl:with-param name="attribute" select="'companions.title'"/>
 								</xsl:call-template>
-								<fo:block font-size="8pt">CRIT:</fo:block>
+								<fo:block font-size="8pt">Crit:</fo:block>
 							</fo:table-cell>
 							<fo:table-cell>
 								<xsl:call-template name="attrib">
@@ -348,7 +348,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'companions.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="8pt">Special:</fo:block>
+						<fo:block font-size="8pt">Spécial:</fo:block>
 					</fo:table-cell>
 					<fo:table-cell number-columns-spanned="5">
 						<xsl:call-template name="attrib">
@@ -366,7 +366,7 @@
 							<xsl:call-template name="attrib">
 								<xsl:with-param name="attribute" select="'companions.title'"/>
 							</xsl:call-template>
-							<fo:block font-size="8pt" text-align="left">Tricks:</fo:block>
+							<fo:block font-size="8pt" text-align="left">Tours:</fo:block>
 						</fo:table-cell>
 						<fo:table-cell number-columns-spanned="5">
 							<xsl:call-template name="attrib">
@@ -406,7 +406,7 @@
 							<xsl:call-template name="attrib">
 								<xsl:with-param name="attribute" select="'magic.title'"/>
 							</xsl:call-template>
-							<fo:block font-size="9pt">Other Companions</fo:block>
+							<fo:block font-size="9pt">Autres Compagnions</fo:block>
 						</fo:table-cell>
 					</fo:table-row>
 				</fo:table-header>

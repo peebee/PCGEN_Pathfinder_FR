@@ -32,14 +32,14 @@
 							<fo:table-cell>
 								<fo:block>
 								<xsl:if test="count(conditional_modifiers/savebonus) &gt; 0">
-									<fo:block text-align="center" font-size="8pt" font-weight="bold">Conditional Save Modifiers:</fo:block>	
+									<fo:block text-align="center" font-size="8pt" font-weight="bold">Mod. conditionnels de sauvegarde:</fo:block>	
 								</xsl:if>
 								<xsl:for-each select="conditional_modifiers/savebonus">
 									<fo:block font-size="8pt" space-before.optimum="1pt"><xsl:value-of select="description"/></fo:block>
 								</xsl:for-each>
 							
 								<xsl:if test="count(conditional_modifiers/combatbonus) &gt; 0">
-									<fo:block text-align="center" font-size="8pt" font-weight="bold">Conditional Combat Modifiers:</fo:block>	
+									<fo:block text-align="center" font-size="8pt" font-weight="bold">Mod. conditionnels de conbat:</fo:block>	
 								</xsl:if>
 								<xsl:for-each select="conditional_modifiers/combatbonus">
 									<fo:block font-size="8pt" space-before.optimum="1pt"><xsl:value-of select="description"/></fo:block>
@@ -141,7 +141,7 @@
 				<fo:block space-before.optimum="0.5pt" line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">
 					<xsl:value-of select="$title"/>
 				</fo:block>
-				<fo:block line-height="4pt" font-size="4pt">attack bonus</fo:block>
+				<fo:block line-height="4pt" font-size="4pt">Bonus d'attaque</fo:block>
 			</fo:table-cell>
 			<fo:table-cell><fo:block/></fo:table-cell>
 

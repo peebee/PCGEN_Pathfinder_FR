@@ -64,22 +64,22 @@
 							<fo:table-cell><fo:block/></fo:table-cell>
 
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="4pt">WOUNDS/CURRENT HP</fo:block>
+								<fo:block text-align="center" font-size="4pt">Blssure/Pdv actuels</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell>
 
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="4pt">SUBDUAL DAMAGE</fo:block>
+								<fo:block text-align="center" font-size="4pt">Dommage Contondant</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell>
 
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="4pt">DAMAGE REDUCTION</fo:block>
+								<fo:block text-align="center" font-size="4pt">Reduction des dommages</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell>
 
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="6pt">SPEED</fo:block>
+								<fo:block text-align="center" font-size="6pt">Vitesse</fo:block>
 							</fo:table-cell>
 						</fo:table-row>
 						<fo:table-row>
@@ -89,7 +89,7 @@
 									<xsl:with-param name="attribute" select="'hp.title'"/>
 								</xsl:call-template>
 								<fo:block line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">HP</fo:block>
-								<fo:block line-height="4pt" font-size="4pt">hit points</fo:block>
+								<fo:block line-height="4pt" font-size="4pt">points de vie</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell>
 
@@ -188,11 +188,11 @@
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="4pt">WOUNDS/CURRENT HP</fo:block>
+								<fo:block text-align="center" font-size="4pt">Blessure/PdV Actuel</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="4pt">SUBDUAL DAMAGE</fo:block>
+								<fo:block text-align="center" font-size="4pt">Dommages Contondant</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell><fo:block/></fo:table-cell><!-- TITLE Wound points -->
@@ -202,11 +202,11 @@
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="4pt">DAMAGE REDUCTION</fo:block>
+								<fo:block text-align="center" font-size="4pt">Réduction de dommage</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell display-align="after">
-								<fo:block text-align="center" font-size="6pt">SPEED</fo:block>
+								<fo:block text-align="center" font-size="6pt">Vitesse</fo:block>
 							</fo:table-cell>
 						</fo:table-row>
 						<fo:table-row>
@@ -216,7 +216,7 @@
 									<xsl:with-param name="attribute" select="'hp.title'"/>
 								</xsl:call-template>
 								<fo:block line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">VP</fo:block>
-								<fo:block line-height="4pt" font-size="4pt">Vitality</fo:block>
+								<fo:block line-height="4pt" font-size="4pt">Vitalité</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell>
@@ -247,7 +247,7 @@
 									<xsl:with-param name="attribute" select="'hp.title'"/>
 								</xsl:call-template>
 								<fo:block line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">WP</fo:block>
-								<fo:block line-height="4pt" font-size="4pt">Wound Points</fo:block>
+								<fo:block line-height="4pt" font-size="4pt">Points de blessure</fo:block>
 							</fo:table-cell>
 							<fo:table-cell><fo:block/></fo:table-cell><!-- space -->
 							<fo:table-cell>
@@ -390,8 +390,8 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'ac.title'"/>
 						</xsl:call-template>
-						<fo:block line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">AC</fo:block>
-						<fo:block line-height="4pt" font-size="4pt">armor class</fo:block>
+						<fo:block line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">CA</fo:block>
+						<fo:block line-height="4pt" font-size="4pt">Classe d'armure</fo:block>
 					</fo:table-cell>	<!--	1	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	2	-->
 					<fo:table-cell display-align="center">
@@ -587,7 +587,7 @@
 					</fo:table-cell>	<!--	5	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	6	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="6pt">TOUCH</fo:block>
+						<fo:block text-align="center" font-size="6pt">Contact</fo:block>
 					</fo:table-cell>	<!--	7	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	8	-->
 					<fo:table-cell>
@@ -595,11 +595,11 @@
 					</fo:table-cell>	<!--	9	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	10	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">ARMOR BONUS</fo:block>
+						<fo:block text-align="center" font-size="4pt">Bonus d'armure</fo:block>
 					</fo:table-cell>	<!--	11	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	12	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">SHIELD BONUS</fo:block>
+						<fo:block text-align="center" font-size="4pt">Bonu de bouclier</fo:block>
 					</fo:table-cell>	<!--	13	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	14	-->
 					<fo:table-cell>
@@ -607,23 +607,23 @@
 					</fo:table-cell>	<!--	15	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	16	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">SIZE</fo:block>
+						<fo:block text-align="center" font-size="4pt">Taille</fo:block>
 					</fo:table-cell>	<!--	17	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	18	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="3pt">NATURAL ARMOR</fo:block>
+						<fo:block text-align="center" font-size="3pt">Armure Naturelle</fo:block>
 					</fo:table-cell>	<!--	19	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	20	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="3pt">DEFLEC- TION</fo:block>
+						<fo:block text-align="center" font-size="3pt">Déflec- tion</fo:block>
 					</fo:table-cell>	<!--	21	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	22	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">DODGE</fo:block>
+						<fo:block text-align="center" font-size="4pt">Esquive</fo:block>
 					</fo:table-cell>	<!--	23	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	24	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">Morale</fo:block>
+						<fo:block text-align="center" font-size="4pt">Moral</fo:block>
 					</fo:table-cell>	<!--	25	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	26	-->
 					<fo:table-cell>
@@ -631,7 +631,7 @@
 					</fo:table-cell>	<!--	27	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	28	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">Sacred</fo:block>
+						<fo:block text-align="center" font-size="4pt">Sacré</fo:block>
 					</fo:table-cell>	<!--	29	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	30	-->
 					<fo:table-cell>
@@ -639,7 +639,7 @@
 					</fo:table-cell>	<!--	31	-->
 					<fo:table-cell><fo:block/></fo:table-cell>	<!--	32	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">MISC</fo:block>
+						<fo:block text-align="center" font-size="4pt">Divers</fo:block>
 					</fo:table-cell>	<!--	33	-->
 		<!-->			<fo:table-cell><fo:block/></fo:table-cell> -->	<!--	34	-->
 
@@ -740,7 +740,7 @@
 							<xsl:with-param name="attribute" select="'initiative.title'"/>
 						</xsl:call-template>
 						<fo:block line-height="10pt" font-weight="bold" font-size="10pt" space-before="1pt">INITIATIVE</fo:block>
-						<fo:block line-height="4pt" font-size="4pt">modifier</fo:block>
+						<fo:block line-height="4pt" font-size="4pt">modificateur</fo:block>
 					</fo:table-cell>		<!--	1	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	2	-->
 					<fo:table-cell>
@@ -870,11 +870,11 @@
 					</fo:table-cell>		<!--	3	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	4	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">DEX MODIFIER</fo:block>
+						<fo:block text-align="center" font-size="4pt">Modificateur Dex</fo:block>
 					</fo:table-cell>		<!--	5	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	6	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">MISC MODIFIER</fo:block>
+						<fo:block text-align="center" font-size="4pt">Modificateur Divers</fo:block>
 					</fo:table-cell>		<!--	7	-->
 					<!-- New Stuff	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	8	-->
@@ -883,32 +883,32 @@
 					</fo:table-cell>		<!--	9	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	10	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">Arcane Spell Failure</fo:block>
+						<fo:block text-align="center" font-size="4pt">Echec des sorts d'arcane</fo:block>
 					</fo:table-cell>		<!--	11	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	12	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">ARMOR CHECK PENALTY</fo:block>
+						<fo:block text-align="center" font-size="4pt">Pénalité au jet Arumure</fo:block>
 					</fo:table-cell>		<!--	13	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	14	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">SPELL RESIST</fo:block>
+						<fo:block text-align="center" font-size="4pt">Resistance Magie</fo:block>
 					</fo:table-cell>		<!--	15	-->
 					
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	14	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">ACID RESIST</fo:block>
+						<fo:block text-align="center" font-size="4pt">Résistance Acide</fo:block>
 					</fo:table-cell>		<!--	15	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	14	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">COLD RESIST</fo:block>
+						<fo:block text-align="center" font-size="4pt">Résistance froid</fo:block>
 					</fo:table-cell>		<!--	15	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	14	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">ELECT. RESIST</fo:block>
+						<fo:block text-align="center" font-size="4pt">Résistance Elect.</fo:block>
 					</fo:table-cell>		<!--	15	-->
 					<fo:table-cell><fo:block/></fo:table-cell>		<!--	14	-->
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">FIRE RESIST</fo:block>
+						<fo:block text-align="center" font-size="4pt">Résistance Feu</fo:block>
 					</fo:table-cell>		<!--	15	-->
 
 					
@@ -957,7 +957,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'bab.title'"/>
 						</xsl:call-template>
-						<fo:block line-height="10pt" font-weight="bold" font-size="7.5pt">BASE ATTACK</fo:block>
+						<fo:block line-height="10pt" font-weight="bold" font-size="7.5pt">Attaque de Base</fo:block>
 						<fo:block line-height="4pt" font-size="4pt">bonus</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
@@ -1010,7 +1010,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'initiative.title'"/>
 						</xsl:call-template>
-					<fo:block line-height="10pt" font-weight="bold" font-size="7pt" space-before="0pt">Encumbrance</fo:block>
+					<fo:block line-height="10pt" font-weight="bold" font-size="7pt" space-before="0pt">Encombremant</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
 
@@ -1147,38 +1147,38 @@
 				<fo:table-row>
 											<xsl:message>Test</xsl:message>
 					<fo:table-cell>
-						<fo:block text-align="center" space-before.optimum="1pt" font-size="6pt">SAVING THROWS</fo:block>
+						<fo:block text-align="center" space-before.optimum="1pt" font-size="6pt">SJet de sauvegarde</fo:block>
 					</fo:table-cell>
 					<fo:table-cell number-columns-spanned="3">
 						<fo:block text-align="center" space-before.optimum="1pt" font-size="6pt">TOTAL</fo:block>
 					</fo:table-cell>
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">BASE SAVE</fo:block>
+						<fo:block text-align="center" font-size="4pt">Base Sauv.</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
 
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">ABILITY</fo:block>
+						<fo:block text-align="center" font-size="4pt">Cararc</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
 
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">MAGIC</fo:block>
+						<fo:block text-align="center" font-size="4pt">Magie</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
 
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">MISC</fo:block>
+						<fo:block text-align="center" font-size="4pt">Divers</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
 
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">EPIC</fo:block>
+						<fo:block text-align="center" font-size="4pt">Epique</fo:block>
 					</fo:table-cell>
 					<fo:table-cell><fo:block/></fo:table-cell>
 
 					<fo:table-cell>
-						<fo:block text-align="center" font-size="4pt">TEMP</fo:block>
+						<fo:block text-align="center" font-size="4pt">Temp.</fo:block>
 					</fo:table-cell>
 				</fo:table-row>
 				<xsl:for-each select="saving_throw">

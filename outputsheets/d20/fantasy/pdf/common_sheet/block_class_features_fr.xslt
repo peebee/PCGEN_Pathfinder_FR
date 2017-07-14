@@ -325,13 +325,13 @@ first page
 											<xsl:message>Test</xsl:message>
 									<fo:table-cell>
 										<xsl:call-template name="attrib"><xsl:with-param name="attribute" select="'turning.title'"/></xsl:call-template>
-										<fo:block font-size="7pt">Intensity Check</fo:block>
-										<fo:block font-size="7pt">Result</fo:block>
+										<fo:block font-size="7pt">Jet d'intensité</fo:block>
+										<fo:block font-size="7pt">Résultat</fo:block>
 									</fo:table-cell>
 									<fo:table-cell>
 										<xsl:call-template name="attrib"><xsl:with-param name="attribute" select="'turning.title'"/></xsl:call-template>
-										<fo:block font-size="7pt"><xsl:value-of select="@kind"/> Intensity</fo:block>
-										<fo:block font-size="6pt">(Level)</fo:block>
+										<fo:block font-size="7pt"><xsl:value-of select="@kind"/> Intensité</fo:block>
+										<fo:block font-size="6pt">(Niveau)</fo:block>
 									</fo:table-cell>
 								</fo:table-row>
 							</fo:table-body>
@@ -591,13 +591,13 @@ first page
 											<xsl:message>Test</xsl:message>
 									<fo:table-cell>
 										<xsl:call-template name="attrib"><xsl:with-param name="attribute" select="'turning.title'"/></xsl:call-template>
-										<fo:block font-size="7pt">Turning Check</fo:block>
-										<fo:block font-size="7pt">Result</fo:block>
+										<fo:block font-size="7pt">Jet de renvoi</fo:block>
+										<fo:block font-size="7pt">Résultat</fo:block>
 									</fo:table-cell>
 									<fo:table-cell>
 										<xsl:call-template name="attrib"><xsl:with-param name="attribute" select="'turning.title'"/></xsl:call-template>
-										<fo:block font-size="7pt"><xsl:value-of select="@kind"/> Affected</fo:block>
-										<fo:block font-size="6pt">(Maximum Hit Dice)</fo:block>
+										<fo:block font-size="7pt"><xsl:value-of select="@kind"/> Affectés</fo:block>
+										<fo:block font-size="6pt">(Dés de vie Maximum)</fo:block>
 									</fo:table-cell>
 								</fo:table-row>
 							</fo:table-body>

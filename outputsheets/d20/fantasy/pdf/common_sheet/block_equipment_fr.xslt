@@ -68,7 +68,7 @@
 							<xsl:with-param name="attribute" select="'equipment.title'"/>
 						</xsl:call-template>
 						<fo:table-cell>
-							<fo:block font-size="7pt">Poids total porté/Valeur</fo:block>
+							<fo:block font-size="7pt">Poid total porté/Valeur</fo:block>
 						</fo:table-cell>
 						<fo:table-cell>
 							<fo:block font-size="7pt">
@@ -256,7 +256,7 @@
 						<xsl:call-template name="attrib">
 							<xsl:with-param name="attribute" select="'weight.title'"/>
 						</xsl:call-template>
-						<fo:block font-size="9pt">Poids autorisé</fo:block>
+						<fo:block font-size="9pt">Poid autorisé</fo:block>
 					</fo:table-cell>
 				</fo:table-row>
 				<fo:table-row keep-with-next.within-column="always">

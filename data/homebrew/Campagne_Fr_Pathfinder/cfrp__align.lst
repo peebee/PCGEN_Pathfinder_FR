@@ -1,0 +1,14 @@
+# Original Entry by: Pascal Bousquet
+
+# Skill Name	
+Lawful Good.MOD		OUTPUTNAME:Loyal Bon
+Lawful Neutral.MOD	OUTPUTNAME:Loyal Neutre
+Lawful Evil.MOD		OUTPUTNAME:Loyal Mauvais
+Neutral Good.MOD	OUTPUTNAME:Neutre Bon
+Neutral.MOD			OUTPUTNAME:Neutre
+Neutral Evil.MOD	OUTPUTNAME:Neutre Mauvais
+Chaotic Good.MOD	OUTPUTNAME:Chaotique Bon
+Chaotic Neutral.MOD	OUTPUTNAME:Chaotique Neutre
+Chaotic Evil.MOD	OUTPUTNAME:Chaotique Mauvais
+None.MOD			OUTPUTNAME:Sans
+Deity's.MOD			OUTPUTNAME:Dieu

@@ -36,32 +36,32 @@
 					<xsl:call-template name="attrib"><xsl:with-param name="attribute" select="'protection.title'"/></xsl:call-template>
 					<fo:table-cell padding-top="1pt">
 						<fo:block font-size="7pt">
-							ARMOR
+							Armure
 						</fo:block>
 					</fo:table-cell>
 					<fo:table-cell padding-top="3pt">
 						<fo:block font-size="4pt">
-							TYPE
+							Type
 						</fo:block>
 					</fo:table-cell>
 					<fo:table-cell padding-top="3pt">
 						<fo:block font-size="4pt">
-							AC
+							CA
 						</fo:block>
 					</fo:table-cell>
 					<fo:table-cell padding-top="3pt">
 						<fo:block font-size="4pt">
-							MAXDEX
+							MaxDex
 						</fo:block>
 					</fo:table-cell>
 					<fo:table-cell padding-top="3pt">
 						<fo:block font-size="4pt">
-							CHECK
+							Jet
 						</fo:block>
 					</fo:table-cell>
 					<fo:table-cell padding-top="3pt">
 						<fo:block font-size="4pt">
-							SPELL FAILURE
+							Echec Sorts
 						</fo:block>
 					</fo:table-cell>
 				</fo:table-row>

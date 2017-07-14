@@ -259,7 +259,7 @@
 				<xsl:call-template name="attrib">
 					<xsl:with-param name="attribute" select="'spelllist.known.header.centre'"/>
 				</xsl:call-template>
-				<fo:block font-size="6pt" font-weight="bold" space-start="2pt" space-before="3pt" space-after="1pt">PER DAY</fo:block>
+				<fo:block font-size="6pt" font-weight="bold" space-start="2pt" space-before="3pt" space-after="1pt">Par Jour</fo:block>
 			</fo:table-cell>
 			<xsl:for-each select="level">
 				<fo:table-cell>
@@ -274,7 +274,7 @@
 							<xsl:otherwise>
 								<xsl:choose>
 									<xsl:when test="@number = 0 and @known != 0">
-										at will
+										à volonté
 									</xsl:when>
 									<xsl:otherwise>
 										&#x2014;
@@ -338,7 +338,7 @@
 										<xsl:with-param name="count" select="@cast"/>
 									</xsl:call-template>
 					<fo:block font-size="12pt">
-						LEVEL <xsl:value-of select="@number"/> / Per Day:<xsl:value-of select="@cast"/> / Caster Level:<xsl:value-of select="spell/basecasterlevel"/>
+						Niveau <xsl:value-of select="@number"/> / Par jour:<xsl:value-of select="@cast"/> / Niveau lanceur:<xsl:value-of select="spell/basecasterlevel"/>
 					<xsl:if test="concentration != ''">
 							<fo:inline> / </fo:inline>
 						<fo:inline font-style="italic" font-weight="bold">Concentration:</fo:inline>
@@ -424,7 +424,7 @@
 					<xsl:call-template name="attrib">
 						<xsl:with-param name="attribute" select="'spelllist.footer'"/>
 					</xsl:call-template>
-					<fo:block font-size="5pt">* =Domain/Speciality Spell
+					<fo:block font-size="5pt">* =Domaine/Sorts de spécialité
 					</fo:block>
 				</fo:table-cell>
 			</fo:table-row>
@@ -452,19 +452,19 @@
 				</fo:block>
 			</fo:table-cell>
 			<fo:table-cell padding-top="1pt" number-columns-spanned="1">
-				<fo:block text-align="start" font-size="5pt" font-weight="bold">Name</fo:block>
+				<fo:block text-align="start" font-size="5pt" font-weight="bold">Nom</fo:block>
 			</fo:table-cell>
 			<fo:table-cell padding-top="1pt">
-				<fo:block text-align="start" font-size="5pt" font-weight="bold">School</fo:block>
+				<fo:block text-align="start" font-size="5pt" font-weight="bold">Ecole</fo:block>
 			</fo:table-cell>
 			<fo:table-cell padding-top="1pt">
-				<fo:block text-align="start" font-size="5pt" font-weight="bold">Time</fo:block>
+				<fo:block text-align="start" font-size="5pt" font-weight="bold">Temps</fo:block>
 			</fo:table-cell>
 			<fo:table-cell padding-top="1pt">
-				<fo:block text-align="start" font-size="5pt" font-weight="bold">Duration</fo:block>
+				<fo:block text-align="start" font-size="5pt" font-weight="bold">Durée</fo:block>
 			</fo:table-cell>
 			<fo:table-cell padding-top="1pt">
-				<fo:block text-align="start" font-size="5pt" font-weight="bold">Range</fo:block>
+				<fo:block text-align="start" font-size="5pt" font-weight="bold">Portée</fo:block>
 			</fo:table-cell>
 			<fo:table-cell padding-top="1pt" number-columns-spanned="1">
 				<fo:block text-align="right" font-size="5pt" font-weight="bold">Source</fo:block>		<!--> Source / Now target is taking both blocks-->
@@ -506,7 +506,7 @@
 						</xsl:when>
 						<xsl:otherwise>
 							<fo:table-cell padding-top="1pt" text-align="start">
-								<fo:block text-align="start" font-size="7pt">At Will</fo:block>
+								<fo:block text-align="start" font-size="7pt">à volonté</fo:block>
 							</fo:table-cell>
 						</xsl:otherwise>
 					</xsl:choose>
@@ -600,13 +600,13 @@
 						<fo:inline font-weight="bold">[<xsl:value-of select="components"/>]</fo:inline>
 						<fo:inline> </fo:inline>
 					</xsl:if>
-					<fo:inline font-weight="bold"> TARGET: </fo:inline><xsl:value-of select="target"/>
+					<fo:inline font-weight="bold"> Cible: </fo:inline><xsl:value-of select="target"/>
 					<fo:inline>; </fo:inline>
-					<fo:inline font-style="italic" font-weight="bold" font-size="5pt">EFFECT: </fo:inline>
+					<fo:inline font-style="italic" font-weight="bold" font-size="5pt">Effet: </fo:inline>
 					<fo:inline font-size="5pt"><xsl:value-of select="effect"/></fo:inline>
 					<xsl:if test="string-length(spell_resistance) &gt; 0 or dc &gt; 0"><fo:inline> [</fo:inline>
 							<xsl:if test="string-length(spell_resistance) &gt; 0">
-								<fo:inline font-weight="bold">SR:</fo:inline>
+								<fo:inline font-weight="bold">RM:</fo:inline>
 								<xsl:value-of select="spell_resistance"/>
 							</xsl:if>
 							<xsl:choose>
